@@ -1,0 +1,32 @@
+---
+description: 'Banking, taxes, legals'
+---
+
+# Entity Info
+
+### Nonprofit Status
+
+We are a registered 501\(c\)\(6\) non-profit in the United States, meaning our income is not used for private or shareholder benefit. Our resources, such as the fees we collect, are all invested back into our mission: to promote a sustainable and healthy open source ecosystem. Donations to OSC are not tax deductible.
+
+### Tax ID & W9
+
+You may provide this information to anyone who asks for it \(sometimes sponsors or grantmakers will request it\).
+
+Our EIN \(tax ID number\) is: **82-2037583**. 
+
+{% file src="../.gitbook/assets/fw9-open-source-collective-501c6.pdf" caption="OSC\'s W9 form" %}
+
+### Address & Contact Info
+
+ 340 S Lemon Ave \#3717, Walnut CA 91789 USA
+
+`hello@oscollective.org`
+
+### Banking Info
+
+All transactions should be set up on Open Collective wherever possible. If someone makes a contribution and selects 'bank transfer' as the payment method, they will automatically receive these details. However, if you need our banking info, it's in the doc below. 
+
+{% file src="../.gitbook/assets/osc-bank-info.pdf" caption="OSC Bank Payment Info" %}
+
+If you are expecting payments outside the platform to arrive, these are not automated, so you must [inform us](mailto:hello@oscollective.org) so we can find and credit your funds. 
+
