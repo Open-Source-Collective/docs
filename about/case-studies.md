@@ -39,4 +39,3 @@ Samsung Next disbursed grants with zero hassle, in full transparency—to teams 
 ### [Cycle.js](https://blog.opencollective.com/cycle-js-a-unified-theory-of-everything-for-javascript/)
 
 “Financial support brings an increased level of stability and trust. People don’t have to worry about the project imploding. We have the resources to fix bugs, land new features, and do hard work that needs to be done.“ [Read More →](https://blog.opencollective.com/cycle-js-a-unified-theory-of-everything-for-javascript/)
-

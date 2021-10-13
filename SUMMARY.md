@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Help & Docs](README.md)
+* [Docs & Help](README.md)
 
 ## About
 
@@ -23,13 +23,13 @@
 * [Setup](your-collective/setup.md)
 * [Integrations](your-collective/integrations.md)
 
-## Get Money <a id="get"></a>
+## Get Money <a href="get" id="get"></a>
 
 * [Crowdfunding](get/crowdfunding.md)
 * [Sponsorships](get/sponsorships.md)
 * [GitHub Sponsors](get/github-sponsors.md)
 
-## Give Money <a id="give"></a>
+## Give Money <a href="give" id="give"></a>
 
 * [Financially Contributing](give/financially-contributing.md)
 * [Funds for Open Source](give/funds-for-open-source/README.md)
@@ -40,7 +40,7 @@
 * [Payouts](spend-money/payouts.md)
 * [Ideas](spend-money/spending-ideas.md)
 
-## Legal & Compliance <a id="legal"></a>
+## Legal & Compliance <a href="legal" id="legal"></a>
 
 * [Policies](legal/policies.md)
 * [Terms of Fiscal Sponsorship](legal/terms-of-fiscal-sponsorship.md)
@@ -54,4 +54,3 @@
 * [Logo & Brand Assets](more-info/logo-and-brand-assets.md)
 * [Blog Bounties](more-info/blog-bounties.md)
 * [Leaving OSC](more-info/leaving-osc.md)
-

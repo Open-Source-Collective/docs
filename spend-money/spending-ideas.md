@@ -48,7 +48,7 @@ Unlock bigger funding tiers with offerings like VIP support, ethical advertising
 
 ### **Print stickers and t-shirts**
 
-Swag is a jumping-off point for people to tell their friends about your project \(“Hey, what’s that sticker on your laptop?”\), and a fun way to build a sense of identity.
+Swag is a jumping-off point for people to tell their friends about your project (“Hey, what’s that sticker on your laptop?”), and a fun way to build a sense of identity.
 
 ### **Encourage contributors to give conference talks**
 
@@ -66,5 +66,4 @@ Comms is an important but sometimes overlooked skill in open source. Think about
 
 Donate upstream and downstream, because we're all in the open source ecosystem together. 
 
-_And read this blog post:_ [_Has Your Open Source Community Raised Money? Here’s How to Spend It._](https://blog.opencollective.com/has-your-open-source-community-raised-money-heres-how-to-spend-it/)\_\_
-
+_And read this blog post: _[_Has Your Open Source Community Raised Money? Here’s How to Spend It._](https://blog.opencollective.com/has-your-open-source-community-raised-money-heres-how-to-spend-it/)__

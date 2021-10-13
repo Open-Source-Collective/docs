@@ -43,5 +43,4 @@ It's up to the creators of the Fund what the process is. Open Collective has a '
 
 If your company wants to set up a Fund, please [get in touch](mailto:hello@oscollective.org). We offer a bespoke service for setting up new Funds.
 
-_Read the original blog post_ [_announcing Funds for Open Source_](https://blog.opencollective.com/funds-for-open-source/)_._
-
+_Read the original blog post _[_announcing Funds for Open Source_](https://blog.opencollective.com/funds-for-open-source/)_._

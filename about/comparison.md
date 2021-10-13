@@ -13,4 +13,3 @@ Github Sponsors
 Patreon
 
 Paypal
-

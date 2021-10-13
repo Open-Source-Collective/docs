@@ -2,5 +2,5 @@
 description: Start here!
 ---
 
-# Help & Docs
+# Docs & Help
 

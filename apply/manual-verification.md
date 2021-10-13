@@ -8,9 +8,8 @@ If your project is not centred on a Github repository, or you can't get the auto
 4. Click 'Request manual verification'
 5. Proceed to create your Collective and await manual review
 
-![](../.gitbook/assets/screen-shot-2020-12-03-at-3.46.43-pm.png)
+![](<../.gitbook/assets/Screen Shot 2020-12-03 at 3.46.43 PM.png>)
 
 When we review your Collective, we will look at the information you've provided, including links to your website and social media, and the info in your Collective's 'About' section. Please ensure these are up to date and correct on your Collective page.
 
 If we need more information about your project, we will get in touch with you via email to request it.
-

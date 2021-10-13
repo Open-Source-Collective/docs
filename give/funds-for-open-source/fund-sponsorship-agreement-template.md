@@ -6,5 +6,4 @@ For cases where a sponsor who did not create the Fund and does not administrate 
 
 Sometimes sponsors have their own template to work from, and in those cases we can use theirs, but when they ask us to provide one, it can be based on this template.
 
-### [Fund Sponsorship Agreement Template → ](https://docs.google.com/document/d/1duZzDrEHkRfHxmvi1PnoQc4Z4_9eLXHT9J2zN-cnmyg/copy)
-
+### [Fund Sponsorship Agreement Template → ](https://docs.google.com/document/d/1duZzDrEHkRfHxmvi1PnoQc4Z4\_9eLXHT9J2zN-cnmyg/copy)

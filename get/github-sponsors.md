@@ -6,9 +6,12 @@ description: Guide to connecting Github Sponsors for Organizations to your Colle
 
 Open Source Collective projects can use Open Collective to receive GitHub Sponsors funds by following these steps:
 
-1. Confirm that you have a **GitHub organization** \(not an individual user account\). You can create a GitHub organization by following [this guide](https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/creating-a-new-organization-from-scratch).
-2. [Create a Collective](https://opencollective.com/opensource/apply) for your open source project if you don't already have one. You will need to use Open Source Collective as your fiscal host.   _Note: Open Collective also has a thing called "Organizations" but this is unrelated. You need an Organization on the GitHub side and a Collective on the Open Collective side._ 
-3. Visit [github.com/sponsors](http://github.com/sponsors) and sign your Github organization up for the Sponsors waitlist.   ✔️ Select: "This organization is using a fiscal host" and select Open Source Collective from the menu.   ✔️ For non-profit status, answer: “Yes, this organization has nonprofit status but cannot receive tax-deductible donations from individuals \(e.g., 501c6\)”
+1. Confirm that you have a **GitHub organization** (not an individual user account). You can create a GitHub organization by following [this guide](https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/creating-a-new-organization-from-scratch).
+2. [Create a Collective](https://opencollective.com/opensource/apply) for your open source project if you don't already have one. You will need to use Open Source Collective as your fiscal host.  \
+   _Note: Open Collective also has a thing called "Organizations" but this is unrelated. You need an Organization on the GitHub side and a Collective on the Open Collective side. _
+3. Visit [github.com/sponsors](http://github.com/sponsors) and sign your Github organization up for the Sponsors waitlist.  \
+   ✔️ Select: "This organization is using a fiscal host" and select Open Source Collective from the menu.  \
+   ✔️ For non-profit status, answer: “Yes, this organization has nonprofit status but cannot receive tax-deductible donations from individuals (e.g., 501c6)”
 
 ![](../.gitbook/assets/ghs1.png)
 
@@ -38,7 +41,7 @@ Next, you will be asked to verify the phone number you gave:
 
 Once the phone number is verified, you will start filling out details about the fiscal host, Open Source Collective.
 
-### Business details \(about Open Source Collective\)
+### Business details (about Open Source Collective)
 
 This next section is asking questions about the business. As a Collective fiscally hosted by Open Source Collective, you need to enter OSC’s details here.
 
@@ -50,11 +53,11 @@ This next section is asking questions about the business. As a Collective fiscal
 
 If you are asked for an EIN or "commercial registry number", put in OSC's EIN: **82-2037583**.
 
-![](../.gitbook/assets/image%20%281%29.png)
-
 ![](../.gitbook/assets/image.png)
 
-### Executive details \(about you\)
+![](<../.gitbook/assets/image (1).png>)
+
+### Executive details (about you)
 
 Next, you will be filling out details as the acting executive for the Collective. Use your personal information on this page.
 
@@ -84,5 +87,4 @@ The standard Open Collective and Open Source Collective fees apply to funds rais
 Confusingly, GitHub and Open Collective use the word "organization" to mean two different things.
 
 * **On GitHub, you need to create an Organization** to use Sponsors for your project.
-* **On Open Collective, you need to create a Collective** for your project \(Organizations on Open Collective are a different profile type, for companies who sponsors open source projects, i.e. designed for paying money out, not accepting money like Collectives.
-
+* **On Open Collective, you need to create a Collective** for your project (Organizations on Open Collective are a different profile type, for companies who sponsors open source projects, i.e. designed for paying money out, not accepting money like Collectives.
