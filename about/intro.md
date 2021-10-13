@@ -4,7 +4,7 @@ description: What is Open Source Collective?
 
 # Intro
 
-Open Source Collective is a non-profit working for the common interests of those who create and use open-source software.
+Open Source Collective is a non-profit working for the common interests of those who create and use open-source software, bringing open source philosophy and values to collectives' financial management.
 
 Companies get huge value from open source. But up to now, it’s been hard to give back financially unless a project formed its own foundation. Now they don’t have to.
 
