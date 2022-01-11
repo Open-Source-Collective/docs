@@ -1,57 +1,42 @@
 # Table of contents
 
-* [Help & Docs](README.md)
+* [Welcome!](README.md)
+* [What is OSC?](what-is-osc.md)
+* [What We Offer](what-we-offer/README.md)
+  * [Fiscal Hosting](what-we-offer/fiscal-hosting.md)
+* [Case Studies](case-studies.md)
+
+## Getting Started
+
+* [Acceptance Criteria](getting-started/acceptance-criteria/README.md)
+  * [GitHub Verification](getting-started/acceptance-criteria/github-verification.md)
+  * [Manual Verification](getting-started/acceptance-criteria/manual-verification.md)
+* [Crowdfunding](getting-started/crowdfunding.md)
+* [Setting Up GitHub Sponsors](getting-started/github-sponsors.md)
+* [Payouts](getting-started/payouts.md)
+* [Using Funds](getting-started/using-funds.md)
+* [Fees](getting-started/fees.md)
+
+## Funding Open Source
+
+* [Funds for Open Source](funding-open-source/funds-for-open-source.md)
+* [Fund Sponsorship Agreement Template](funding-open-source/fund-sponsorship-agreement-template.md)
+
+## Legal & Compliance <a href="#legal" id="legal"></a>
+
+* [Terms of Fiscal Sponsorship](legal/terms-of-fiscal-sponsorship.md)
+* [Tax Info](legal/tax-info.md)
+* [Contracts with Third Parties](legal/contracts-with-third-parties.md)
 
 ## About
 
-* [Intro](about/intro.md)
-* [Case Studies](about/case-studies.md)
+* [How We Think](about/how-we-think.md)
+* [Official Info & Docs](about/official-info-and-docs.md)
 * [Team](about/team.md)
-* [Open Collective](about/open-collective.md)
-* [Entity Info](about/entity-info.md)
-* [Fees](about/fees.md)
-* [Comparison](about/comparison.md)
+* [Logo & Brand Assets](about/logo-and-brand-assets.md)
+* [Blog Bounties](about/blog-bounties.md)
+* [Contact Us](about/contact.md)
 
-## Apply
+## FAQ
 
-* [Acceptance Criteria](apply/acceptance-criteria.md)
-* [GitHub Verification](apply/github-verification.md)
-* [Manual Verification](apply/manual-verification.md)
-
-## Your Collective
-
-* [Setup](your-collective/setup.md)
-* [Integrations](your-collective/integrations.md)
-
-## Get Money <a id="get"></a>
-
-* [Crowdfunding](get/crowdfunding.md)
-* [Sponsorships](get/sponsorships.md)
-* [GitHub Sponsors](get/github-sponsors.md)
-
-## Give Money <a id="give"></a>
-
-* [Financially Contributing](give/financially-contributing.md)
-* [Funds for Open Source](give/funds-for-open-source/README.md)
-  * [Fund Sponsorship Agreement Template](give/funds-for-open-source/fund-sponsorship-agreement-template.md)
-
-## Spend Money
-
-* [Payouts](spend-money/payouts.md)
-* [Ideas](spend-money/spending-ideas.md)
-
-## Legal & Compliance <a id="legal"></a>
-
-* [Policies](legal/policies.md)
-* [Terms of Fiscal Sponsorship](legal/terms-of-fiscal-sponsorship.md)
-* [Tax Info](legal/tax-info.md)
-* [Fund Sponsor Agreement](legal/fund-sponsor-agreement.md)
-* [Contracts with Third Parties](legal/contracts-with-third-parties.md)
-
-## More Info
-
-* [FAQ](more-info/faq.md)
-* [Logo & Brand Assets](more-info/logo-and-brand-assets.md)
-* [Blog Bounties](more-info/blog-bounties.md)
-* [Leaving OSC](more-info/leaving-osc.md)
-
+* [Basic FAQ](faq/faq.md)

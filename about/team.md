@@ -1,15 +1,15 @@
 # Team
 
-**Ben Nickolls**  
+**Ben Nickolls**\
 Executive Director
 
-**Pia Mancini**  
+**Pia Mancini**\
 Founding Director and strategic advisor
 
-**Alanna Irving**  
+**Alanna Irving**\
 Director and strategic advisor
 
-**Alina Manko**  
+**Alina Manko**\
 Operations, support, and admin
 
 ### Our Board
@@ -18,5 +18,4 @@ In addition to Ben, Pia, and Alanna, these are our non-executive directors:
 
 * Justin Dorfman
 * Henry Zhu
-* Samson Goddy 
-
+* Samson Goddy\
