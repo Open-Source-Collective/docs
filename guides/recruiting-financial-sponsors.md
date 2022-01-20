@@ -9,7 +9,7 @@ description: >-
 
 ### First, an overview
 
-![](../.gitbook/assets/money-resources-flow.jpg)
+!["Money & resources"](../.gitbook/assets/money-resources-flow.jpg)
 
 Here's a diagram describing how money and other resources flow through an open source project. Two key things to notice here:
 
