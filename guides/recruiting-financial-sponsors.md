@@ -120,13 +120,13 @@ When your contact looks up your Open Collective profile, if they notice that you
 Example email, sent mid-July 2020:
 
 > Subject: Funding for Autoconf 2.70
-
+>
 > I'm part of a small team working to get Autoconf back on track - stable, robust, and making regular releases. Can your company help?
-
+>
 > There's lots of code out there already depending on autoconf. Converting it would be risky and expensive. Plus, competing build systems don't cover all the edge cases Autoconf does.
-
+>
 > My team has already shipped a beta release of Autoconf 2.70 <[https://lists.gnu.org/archive/html/autotools-announce/2020-07/msg00000.html](https://lists.gnu.org/archive/html/autotools-announce/2020-07/msg00000.html)> and we intend to make the final release in October.
-
+>
 > Between now and then, we want to:
 >
 > * test the upcoming release against emacs, gcc, python, and other complicated autoconf scripts
@@ -134,11 +134,11 @@ Example email, sent mid-July 2020:
 > * get the hundreds of disorganized patches and bug reports filed, so we can prioritize and assess our backlog
 > * uplift patches that downstream redistributors already carry
 > * work with existing maintainers + community to get the project on a more sustainable path
-
+>
 > Project manager Sumana Harihareswara (cc'd) and I have detailed plans and availability. But we have bills to pay and need your help.
-
+>
 > We already have one sponsor offering $15,000 towards this work - but only if we can find $15K in matching funds from other organizations. If you and two others each give $5,000, we can start the CI work, and we can inventory, migrate, and uplift many long-desired patches. And if we get more funding, we can do even more.
-
+>
 > Interested? We want to kick off the work before the end of July. If you can support this effort, let's talk before then and arrange payment.
 
 ### Asking
