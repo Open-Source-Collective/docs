@@ -4,18 +4,22 @@
 * [What is OSC?](what-is-osc.md)
 * [What We Offer](what-we-offer/README.md)
   * [Fiscal Hosting](what-we-offer/fiscal-hosting.md)
-* [Case Studies](case-studies.md)
 
 ## Getting Started
 
 * [Acceptance Criteria](getting-started/acceptance-criteria/README.md)
   * [GitHub Verification](getting-started/acceptance-criteria/github-verification.md)
   * [Manual Verification](getting-started/acceptance-criteria/manual-verification.md)
-* [Crowdfunding](getting-started/crowdfunding.md)
 * [Setting Up GitHub Sponsors](getting-started/github-sponsors.md)
 * [Payouts](getting-started/payouts.md)
 * [Using Funds](getting-started/using-funds.md)
 * [Fees](getting-started/fees.md)
+
+## Guides
+
+* [Recruiting Financial Sponsors](guides/recruiting-financial-sponsors.md)
+* [Crowdfunding](guides/crowdfunding.md)
+* [Case Studies](guides/case-studies.md)
 
 ## Funding Open Source
 
