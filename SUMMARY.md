@@ -11,7 +11,8 @@
   * [GitHub Verification](getting-started/acceptance-criteria/github-verification.md)
   * [Manual Verification](getting-started/acceptance-criteria/manual-verification.md)
 * [Setting Up GitHub Sponsors](getting-started/github-sponsors.md)
-* [Expenses](getting-started/expenses.md)
+* [Expenses](getting-started/expenses/README.md)
+  * [Virtual Cards](getting-started/expenses/virtual-cards.md)
 * [Using Funds](getting-started/using-funds.md)
 * [Fees](getting-started/fees.md)
 
