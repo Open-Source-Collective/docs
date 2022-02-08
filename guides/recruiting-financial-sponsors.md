@@ -11,8 +11,6 @@ description: >-
 
 Here's a diagram describing how money and other resources flow through an open source project.&#x20;
 
-!["Money & resources"](../.gitbook/assets/money-resources-flow.jpg)
-
 Two key things to notice here:
 
 * money donations from corporate sponsors are one of many ways to get resources (also consider free services from platforms, selling tickets to convenings, etc.)
