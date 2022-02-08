@@ -9,7 +9,11 @@ description: >-
 
 ### First, an overview
 
-Here's a diagram describing how money and other resources flow through an open source project.&#x20;
+Here's a diagram describing how money and other resources flow through an open-source project.&#x20;
+
+![](../.gitbook/assets/money-resources-flow.jpeg)
+
+
 
 Two key things to notice here:
 
