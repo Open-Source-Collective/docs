@@ -44,4 +44,7 @@
 
 ## FAQ
 
-* [Basic FAQ](faq/faq.md)
+* [General FAQ](faq/general.md)
+* [Contributions FAQ](faq/contributions.md)
+* [Expenses FAQ](faq/expenses.md)
+* [Legal & Compliance FAQ](faq/legal.md)
