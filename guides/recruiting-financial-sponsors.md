@@ -1,11 +1,10 @@
 ---
-description: >-
-  How to attract corporate sponsors for funding for open source projects, based
-  on an OSC workshop led by Sumana Harihareswara of Changeset Consulting on
-  January 10, 2022. (Thanks Sumana!)
+description: How to attract corporate sponsors for funding for open source projects!
 ---
 
 # Recruiting Financial Sponsors
+
+_Based on an OSC workshop led by Sumana Harihareswara of_ [_Changeset Consulting_](https://changeset.nyc) _on January 10, 2022. (Thanks Sumana!)_
 
 ### First, an overview
 
