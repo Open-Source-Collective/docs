@@ -19,6 +19,9 @@
 ## Guides
 
 * [Recruiting Financial Sponsors](guides/recruiting-financial-sponsors.md)
+* [Companies and trust](guides/companies-and-trust.md)
+* [Project hygiene](guides/project-hygiene.md)
+* [Accepting sponsorships](guides/accepting-sponsorships.md)
 * [Crowdfunding](guides/crowdfunding.md)
 * [Case Studies](guides/case-studies.md)
 
