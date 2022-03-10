@@ -12,10 +12,23 @@ Director and strategic advisor
 **Alina Manko**\
 Operations, support, and admin
 
+**Ember Buck**
+
+Operations, support, and admin
+
+**Richard Littauer**
+
+Community Development Manager
+
+**Nathan Hewitt**
+
+Program Manager
+
 ### Our Board
 
 In addition to Ben, Pia, and Alanna, these are our non-executive directors:
 
 * Justin Dorfman
 * Henry Zhu
-* Samson Goddy\
+* Samson Goddy
+* Duane O'Brien\

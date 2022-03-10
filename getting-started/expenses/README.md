@@ -1,6 +1,16 @@
-# Payouts
+# Expenses
 
+{% hint style="info" %}
 Individuals and organizations can request payment from a collective by[ submitting an expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses).
+{% endhint %}
+
+In order to achieve your collective's mission, you need to spend the money you raise. We are here to facilitate that, and to take care of a lot of the admin for you. OSC functions as your collective's bank account and we process many kinds of payouts for our hosted groups.
+
+There are a range of ways to pay out funds from your OSC budget, depending on what you're paying for and who you want to pay. Most payouts happen through Expenses on your Open Collective page, but we have also developed other options to meet the needs of our community in specific circumstances.
+
+* [Reimbursement:](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#reimbursements) Someone makes a purchase, then uploads the receipt to get paid back via an Expense.
+* [Invoice:](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#invoices) Paying someone for their time or specific services as a vendor or independent contractor, via an Expense.
+* Virtual card: Like a debit card linked to your Open Collective budget, which you can use to make online purchases. You later upload the receipt to an automatically generated Expense.
 
 ### The Process
 
@@ -32,3 +42,17 @@ Expense payments may relate to either an[ Invoice](https://docs.opencollective.c
 ### For admins
 
 Collective admins can[ set an expense policy](https://docs.opencollective.com/help/collectives/expense-policy) to give guidance to expense submitters.
+
+### Limitations
+
+While we try to accommodate every request, we work within some limits defined by IRS rules, human capacity of our staff, and technical limitations.
+
+* OSC will only process payouts approved by an admin of the collective.
+* All expenditures must be allowable under 501(c)(6) regulations.
+* OSC cannot pay people in territories in the following sanctioned countries: Crimea, Cuba, Iran, North Korea, Sudan, Syrian Arab Republic, Venezuela). In addition we may be unable to pay people in: Afghanistan, Burundi, Central African Republic, Chad, Congo Republic, Democratic Republic of the Congo, Eritrea, Iraq, Libya, Somalia, Republic of South Sudan, Yemen.
+* OSC makes payments via Paypal, bank transfers, and virtual cards only, because these are integrated with the Open Collective platform.
+* We can't make direct payments via cashapp, venmo and similar services (because they don't allow nonprofits like OSC to sign up, among other reasons).&#x20;
+* Payouts must be broken down into individual expenses with details about what the money is for—we do not normally pay out undifferentiated chunks of money.
+* We have certain paperwork requirements due to IRS rules—we have to collect W9 forms in some cases before we can pay someone. If any of these apply to you, we will let you know.
+
+Questions about payouts? [Email us](../../about/contact.md).

@@ -1,11 +1,13 @@
 # Virtual Cards
 
-Virtual Cards can be issued to OSC's hosted initiatives for paying online for things like: recurring payments, utility bills, online resources/tools, subscriptions, vendors (e.g. wholesale distributors), etc.
+## What is a virtual card?
+
+Virtual cards are debit card numbers that can be issued to OSC's hosted initiatives for paying online for things like: recurring payments, utility bills, online resources/tools, subscriptions, vendors (e.g. wholesale distributors), etc. They are directly tied to collectives' budget on the Open Collective platform.
 
 ## How it works
 
 * Funds are spent only as transactions occur. (Setting up a card does not remove any money from your initiative's budget.)
-* Submit a virtual card request with the intended use of the card **(please specify the names of the services you will use)** and the amount budgeted for that monthly **(e.g. $300/monthly)**. The virtual card with that limit will be set up for your collective.
+* Submit a virtual card request with the intended use of the card **(please specify the names of the services you will use)** and the amount budgeted for that use monthly **(e.g. $300/monthly)**. The virtual card with that limit will be set up for your collective.
 * If your collective needs a higher limit on your virtual card please request a limit increase by contacting us at hello@oscollective.org **** with the intended use and the amount increase needed.
   * To receive an increase, initiative must have a budget on their Open Collective account that exceeds the corresponding amount, and must demonstrate that a higher limit is necessary.
 * Cards must be used in compliance with our policy below.

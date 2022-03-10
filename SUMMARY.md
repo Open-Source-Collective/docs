@@ -4,12 +4,15 @@
 * [What is OSC?](what-is-osc.md)
 * [What We Offer](what-we-offer/README.md)
   * [Fiscal Hosting](what-we-offer/fiscal-hosting.md)
+  * [The Open Collective Platform](what-we-offer/the-open-collective-platform.md)
 
 ## Getting Started
 
+* [How to Apply](getting-started/how-to-apply.md)
 * [Acceptance Criteria](getting-started/acceptance-criteria/README.md)
   * [GitHub Verification](getting-started/acceptance-criteria/github-verification.md)
   * [Manual Verification](getting-started/acceptance-criteria/manual-verification.md)
+* [Basics](getting-started/basics.md)
 * [Setting Up GitHub Sponsors](getting-started/github-sponsors.md)
 * [Expenses](getting-started/expenses/README.md)
   * [Virtual Cards](getting-started/expenses/virtual-cards.md)
@@ -27,6 +30,7 @@
 
 ## Funding Open Source
 
+* [Supporting Projects](funding-open-source/supporting-projects.md)
 * [Funds for Open Source](funding-open-source/funds-for-open-source.md)
 * [Fund Sponsorship Agreement Template](funding-open-source/fund-sponsorship-agreement-template.md)
 

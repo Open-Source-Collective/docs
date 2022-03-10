@@ -12,6 +12,10 @@ See our instructions on how to cancel recurring or ongoing donations, subscripti
 
 Contributors can make an anonymous payment by choosing [incognito](https://docs.opencollective.com/help/financial-contributors/payments#profile) when picking a profile to pay from. If the contributor contributes as a [guest](https://docs.opencollective.com/help/financial-contributors/payments#contributing-as-a-guest), then the given name will still show up, the contributor then just won’t have to log in to make the payment. All Open Collective users can also [differentiate](https://opencollective.com/opencollective/updates/new-legal-and-display-name-settings) a public display name from their private legal name.
 
+#### What if a financial contributor is unable or not comfortable with submitting their credit card information online?
+
+If a donor is not comfortable with online credit card transactions, they can send the funds via PayPal or bank transfer.
+
 #### Someone said they sent my collective money but I don’t see it in my account! Help?
 
 If you’re a collective, ping us! We often receive money into our bank account without any indication of where it should go. (This is why it's so important to include the name of the collective in any correspondence/check/transfer that gets sent to OSC). We don't use/disperse that money anywhere until we know who its for, so it just sits in our account until someone claims it., Just send us a message (via[ Slack](http://slack.opencollective.com) or [email](https://docs.oscollective.org/about/contact)) with screenshots/receipts that include the dollar amount, the collective name and the sender/any info about the bank transfer, so that we may get your funds to you.
