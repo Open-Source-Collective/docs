@@ -42,4 +42,4 @@ Virtual cards are debit card numbers that can be issued to OSC's hosted initiati
 
 1. The funds will be withdrawn from your initiative
 2. An "Invitation to submit an expense" will be sent to your initiative admins
-   1. 1.Admins will be asked to submit your receipt. **(If the receipt is not submitted within 30 days, the card access will be paused until you do submit the receipt)**.
+   1. Admins will be asked to submit your receipt. **(If the receipt is not submitted within 30 days, the card access will be paused until you do submit the receipt)**.
