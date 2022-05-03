@@ -13,7 +13,7 @@ Other valid licensing guidelines include the following:&#x20;
 3. [Fedora Software License List](https://fedoraproject.org/wiki/Licensing:Main?rd=Licensing)
 4. [Open Source Hardware Association Statement of Principles](https://www.oshwa.org/definition/)
 
-### Github Validation
+### GitHub Validation
 
 If you are an open source project with at least 100 stars on GitHub and at least two contributors, you will likely be immediately approved. We have a built-in process that automates validation using GitHub stars ([more info](github-verification.md)).
 
