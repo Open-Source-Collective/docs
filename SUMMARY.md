@@ -9,7 +9,7 @@
 ## Getting Started
 
 * [How to Apply](getting-started/how-to-apply.md)
-* [Acceptance Criteria](getting-started/acceptance-criteria/README.md)
+* [Eligibility Requirements](getting-started/acceptance-criteria/README.md)
   * [GitHub Verification](getting-started/acceptance-criteria/github-verification.md)
   * [Manual Verification](getting-started/acceptance-criteria/manual-verification.md)
 * [Basics](getting-started/basics.md)
