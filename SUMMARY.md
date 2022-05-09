@@ -34,6 +34,7 @@
 * [Supporting Projects](funding-open-source/supporting-projects.md)
 * [Funds for Open Source](funding-open-source/funds-for-open-source.md)
 * [Fund Sponsorship Agreement Template](funding-open-source/fund-sponsorship-agreement-template.md)
+* [Google Season of Code](funding-open-source/google-season-of-code.md)
 
 ## Legal & Compliance <a href="#legal" id="legal"></a>
 
@@ -56,7 +57,3 @@
 * [Contributions FAQ](faq/contributions.md)
 * [Expenses FAQ](faq/expenses.md)
 * [Legal & Compliance FAQ](faq/legal.md)
-
-***
-
-* [Google Season of Docs](google-season-of-docs.md)
