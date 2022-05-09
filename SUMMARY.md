@@ -56,3 +56,7 @@
 * [Contributions FAQ](faq/contributions.md)
 * [Expenses FAQ](faq/expenses.md)
 * [Legal & Compliance FAQ](faq/legal.md)
+
+***
+
+* [Google Season of Docs](google-season-of-docs.md)
