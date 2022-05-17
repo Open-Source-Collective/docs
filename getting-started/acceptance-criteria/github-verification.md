@@ -1,3 +1,7 @@
+---
+description: For the applying to the Open Source Collective
+---
+
 # GitHub Verification
 
 ## What is Github Stars Verification?

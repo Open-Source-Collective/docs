@@ -6,6 +6,9 @@ Executive Director
 **Pia Mancini**\
 Founding Director and strategic advisor
 
+**Richard Littauer**\
+Community Development Manager
+
 **Alanna Irving**\
 Director and strategic advisor
 

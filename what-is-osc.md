@@ -1,3 +1,7 @@
+---
+description: What is Open Source Collective?
+---
+
 # What is OSC?
 
 Open Source Collective is a nonprofit working for the common interests of those who create and use open-source software, bringing open source philosophy and values to financial management. As a nonprofit fiscal host (a.k.a. fiscal sponsor or foundation), we provide **financial and legal infrastructure** for **thousands of open source projects**. We’re the ‘API' between the world of open source communities and the world of accounting and invoices.
