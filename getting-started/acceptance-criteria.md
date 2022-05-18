@@ -8,7 +8,7 @@ description: >-
 
 **We can accept any open source project, in any language, anywhere in the world. We can also accept open source related meetup groups and conferences, as well as advocacy, research, and awareness initiatives.**
 
-**Our goal is "to promote a sustainable and healthy ecosystem to sustain open source technology for the future." We're working towards this goal - if you think that you fit this requirement and the following doesn't completely apply to you,** [**let us know**](mailto:hello@oscollective.org)**.**&#x20;
+**Our goal is "to promote a sustainable and healthy ecosystem to sustain open source technology for the future." We're working towards this goal - if you think that you fit this requirement and the following doesn't completely apply to you,** [**let us know**](mailto:hello@oscollective.org)**.**
 
 ### Governance Requirements
 
@@ -21,9 +21,9 @@ We also look for [Contributing guides](https://docs.github.com/en/communities/se
 
 ### License
 
-Since the goal of the Open Source Collective is to support a Free and Open Source ecosystem, your project license is critically important. The list of [Open Source Initiative Approved License List](https://opensource.org/licenses) can serve as a gauge for valid open license criteria to the collective.&#x20;
+Since the goal of the Open Source Collective is to support a Free and Open Source ecosystem, your project license is critically important. The list of [Open Source Initiative Approved License List](https://opensource.org/licenses) can serve as a gauge for valid open license criteria to the collective.
 
-Other valid licensing guidelines include the following:&#x20;
+Other valid licensing guidelines include the following:
 
 1. [Free Software Foundation License List](https://www.gnu.org/licenses/license-list.html)
 2. [Debian Free Software Guidelines](https://wiki.debian.org/DFSGLicenses)
@@ -32,12 +32,12 @@ Other valid licensing guidelines include the following:&#x20;
 
 ### GitHub and GitLab Validation
 
-If you are an open source project with:&#x20;
+If you are an open source project with:
 
 * at least 100 stars,
 * And the above requirements
 
-You will likely be immediately approved. We have a built-in process that automates validation using GitHub stars ([more info](github-verification.md)).
+You will likely be immediately approved. We have a built-in process that automates validation using GitHub stars ([more info](how-to-apply/github-verification.md)).
 
 If your project is on GitLab or hosted on an another platform, we will look for a generally active community. We are not platform specific in our requirements.
 
@@ -52,8 +52,8 @@ We can also consider your application on a case by case basis, using the followi
 * Meetups or small event groups should have organized at least 2 events previously, and be able to show a history of activity online and offline. As further evidence, you agree to send photo/video documentation of your first event after joining Open Source Collective.
 * Conferences and larger events may require specific risk assessment by our board. No expenses will be paid in advance of sufficient funds being available in the Collective budget (e.g. hiring a venue).
 * You understand that all agreements between your Collective and third parties, such as venues, contractors, speakers, etc, require explicit written permission and involvement of the OSC administrators. As fiscal sponsor, such agreements are legally between the third party and Open Source Collective.
-* Your project is not funded exclusively by a single LLC or other for-proft company. If you already have a fiscal host, please help us understand why you think Open Source Collective would be right for you. &#x20;
+* Your project is not funded exclusively by a single LLC or other for-proft company. If you already have a fiscal host, please help us understand why you think Open Source Collective would be right for you.
 
 ### My project doesn't fit, but it should
 
-Get in touch by emailing [hello@oscollective.org](mailto:hello@oscollective.org). We are interested in learning about why. However, our decisions are final.&#x20;
+Get in touch by emailing [hello@oscollective.org](mailto:hello@oscollective.org). We are interested in learning about why. However, our decisions are final.

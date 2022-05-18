@@ -8,17 +8,17 @@ Open Source Collective is a nonprofit working for the common interests of those 
 
 ### For Maintainers
 
-We  take care of all the accounting, taxes, invoices, and administration. You decide where the money gets spent, then we make it happen. Through us you can:
+We take care of all the accounting, taxes, invoices, and administration. You decide where the money gets spent, then we make it happen. Through us you can:
 
-* Manage your open source project’s funds transparently&#x20;
+* Manage your open source project’s funds transparently
 * Receive financial contributions by credit card, PayPal, electronic bank transfer, or [crypto](https://docs.opencollective.com/help/financial-contributors/crypto) (beta)
 * Receive funds through GitHub Sponsors
 * Receive funds from corporate supporters (we’re registered as a supplier to many corporate sponsors)
 * Register trademarks, sign contracts and legal agreements, and apply for grants
-* Pay yourself, your team, contractors, vendors, and suppliers&#x20;
-* And [much more...](what-we-offer/)&#x20;
+* Pay yourself, your team, contractors, vendors, and suppliers
+* And [much more...](what-we-offer/)
 
-💡 **Check out our** [**eligibility criteria**](getting-started/acceptance-criteria/) **and apply today.**
+💡 **Check out our** [**eligibility criteria**](getting-started/acceptance-criteria.md) **and apply today.**
 
 ### For Sponsors
 

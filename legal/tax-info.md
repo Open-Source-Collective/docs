@@ -20,7 +20,7 @@ If you submit invoice expenses totalling $600 USD or more per year, you will nee
 
 When you submit an expense that puts you over the $600 threshold, you will be sent an email with a link to complete your tax form online. This email will come from HelloWorks and say "Open Collective has requested you to review and complete the Open Collective Tax Form".
 
-![](<../.gitbook/assets/Screen Shot 2021-04-19 at 4.48.10 PM.png>)
+![](<../.gitbook/assets/Screen Shot 2021-04-19 at 4.48.10 PM (1).png>)
 
 Your expense will not be paid until you submit the tax form.
 

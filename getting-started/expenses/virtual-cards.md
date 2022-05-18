@@ -8,7 +8,7 @@ Virtual cards are debit card numbers that can be issued to OSC's hosted initiati
 
 * Funds are spent only as transactions occur. (Setting up a card does not remove any money from your initiative's budget.)
 * Submit a virtual card request with the intended use of the card **(please specify the names of the services you will use)** and the amount budgeted for that use monthly **(e.g. $300/monthly)**. The virtual card with that limit will be set up for your collective.
-* If your collective needs a higher limit on your virtual card please request a limit increase by contacting us at hello@oscollective.org **** with the intended use and the amount increase needed.
+* If your collective needs a higher limit on your virtual card please request a limit increase by contacting us at hello@oscollective.org \*\*\*\* with the intended use and the amount increase needed.
   * To receive an increase, initiative must have a budget on their Open Collective account that exceeds the corresponding amount, and must demonstrate that a higher limit is necessary.
 * Cards must be used in compliance with our policy below.
 
@@ -16,11 +16,11 @@ Virtual cards are debit card numbers that can be issued to OSC's hosted initiati
 
 * Initiatives must have a minimum of 2 admin members
 * These are **virtual cards.** No physical card will be issued, so these cannot be used in-store.
-* All transactions should comply with normal usage of initiative funds as outlined in our [Terms of Fiscal Sponsorship](https://app.gitbook.com/o/-LWSZizNMEjL8\_DrMNdF/s/-M9Neg20-zKzu0MhF2d2/getting-started/terms)​
+* All transactions should comply with normal usage of initiative funds as outlined in our [Terms of Fiscal Sponsorship](https://app.gitbook.com/s/-M9Neg20-zKzu0MhF2d2/getting-started/terms)​
 
 **Limitations:**
 
-* Virtual cards **may not** be used for [paying/reimbursing people](https://app.gitbook.com/o/-LWSZizNMEjL8\_DrMNdF/s/-M9Neg20-zKzu0MhF2d2/how-it-works/payouts)-that should be done on the OC platform.
+* Virtual cards **may not** be used for [paying/reimbursing people](https://app.gitbook.com/s/-M9Neg20-zKzu0MhF2d2/how-it-works/payouts)-that should be done on the OC platform.
 
 #### If you need to input Cardholder contact details/address: <a href="#if-you-need-to-input-cardholder-contact-details-address" id="if-you-need-to-input-cardholder-contact-details-address"></a>
 

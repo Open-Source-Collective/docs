@@ -8,10 +8,10 @@
 
 ## Getting Started
 
-* [How to Apply](getting-started/how-to-apply.md)
-* [Eligibility Requirements](getting-started/acceptance-criteria/README.md)
-  * [GitHub Verification](getting-started/acceptance-criteria/github-verification.md)
-  * [Manual Verification](getting-started/acceptance-criteria/manual-verification.md)
+* [How to Apply](getting-started/how-to-apply/README.md)
+  * [GitHub Verification](getting-started/how-to-apply/github-verification.md)
+  * [Manual Verification](getting-started/how-to-apply/manual-verification.md)
+* [Eligibility Requirements](getting-started/acceptance-criteria.md)
 * [Basics](getting-started/basics.md)
 * [Setting Up GitHub Sponsors](getting-started/github-sponsors.md)
 * [Expenses](getting-started/expenses/README.md)

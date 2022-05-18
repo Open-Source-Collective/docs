@@ -8,11 +8,9 @@ _Based on an OSC workshop led by Sumana Harihareswara of_ [_Changeset Consulting
 
 ### First, an overview
 
-Here's a diagram describing how money and other resources flow through an open-source project.&#x20;
+Here's a diagram describing how money and other resources flow through an open-source project.
 
-![](../.gitbook/assets/money-resources-flow.jpeg)
-
-
+![](../.gitbook/assets/money-resources-flow.jpg)
 
 Two key things to notice here:
 
@@ -23,8 +21,8 @@ Two key things to notice here:
 
 To recruit financial sponsors, you'll go through this basic sequence:
 
-1. **Inventory:** look at existing donors and make lists of potential donors and fundable tasks or chores&#x20;
-2. **Writing:** prepare your requests and update your website and documentation to ensure you look credible&#x20;
+1. **Inventory:** look at existing donors and make lists of potential donors and fundable tasks or chores
+2. **Writing:** prepare your requests and update your website and documentation to ensure you look credible
 3. **Asking:** make the request and follow up on responses
 
 ### This may cause you to feel weird
@@ -49,7 +47,7 @@ If you have any existing sponsors, then you can develop case studies about their
 
 Make sure you cover how much money the sponsor gave, what your project used the money for (and over what time period), and how this has benefited the sponsor. You may need to have a short email or phone conversation with someone at the sponsor to find out that last part, but it's important, because having a case study like that on your website makes it easier for a future sponsor to believe that sponsoring you will help them.
 
-#### **2. List potential sponsors.**&#x20;
+#### **2. List potential sponsors.**
 
 _Time: 30-60 minutes_
 
@@ -104,11 +102,11 @@ When your contact asks their manager for approval to sponsor your project, that 
 
 On the About page or front page on your website, and in the README of your source code repository, include:
 
-1. A link to your Open Collective profile, so that Accounting knows that the profile pn Open Collective isn't some scammy impersonation.&#x20;
-2. A one-paragraph explanation that explains what your project does at a level that managers can understand. Here's a template: FOO is an open source TOOL that DOES THIS THING. It HAS TWO OR THREE KEY FEATURES and thus ALLOWS USERS TO \[ENJOY A KEY BENEFIT]. It is written in LANGUAGE \[for use in FRAMEWORK] and was founded in YEAR."&#x20;
+1. A link to your Open Collective profile, so that Accounting knows that the profile pn Open Collective isn't some scammy impersonation.
+2. A one-paragraph explanation that explains what your project does at a level that managers can understand. Here's a template: FOO is an open source TOOL that DOES THIS THING. It HAS TWO OR THREE KEY FEATURES and thus ALLOWS USERS TO \[ENJOY A KEY BENEFIT]. It is written in LANGUAGE \[for use in FRAMEWORK] and was founded in YEAR."
 3. Links to your roadmap, if you have one, and to a short list of tasks/goals that need sponsorship. (If you have written any case studies, link to them near these links or on those pages.)
 
-#### **3. Write a sponsorship request letter.**&#x20;
+#### **3. Write a sponsorship request letter.**
 
 _Time: 30-90 minutes_
 
@@ -146,13 +144,13 @@ Example email, sent mid-July 2020:
 
 ### Asking
 
-#### **1. Email the request to three contacts**.&#x20;
+#### **1. Email the request to three contacts**.
 
 _Time: 10 minutes_
 
 Don't try contacting all your potential sponsors at once, because then it'll be hard to conduct several conversations at once in case all of them have questions for you. Start with your top three. Since emails asking for money often get spam-filtered, try to let your contacts know via some other medium - such as a social media or chat direct message - that you've sent them an email that might get spam-filtered and that they should look out for that.
 
-#### **2. Respond quickly**.&#x20;
+#### **2. Respond quickly**.
 
 _Time: variable_
 
