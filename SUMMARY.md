@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Welcome!](README.md)
-* [What is OSC?](what-is-osc.md)
 * [What We Offer](what-we-offer/README.md)
   * [Fiscal Hosting](what-we-offer/fiscal-hosting.md)
-  * [The Open Collective Platform](what-we-offer/the-open-collective-platform.md)
+  * [Our Platform](what-we-offer/our-platform.md)
+  * [Virtual Cards](what-we-offer/virtual-cards.md)
 
 ## Getting Started
 
@@ -14,8 +14,7 @@
 * [Eligibility Requirements](getting-started/acceptance-criteria.md)
 * [Basics](getting-started/basics.md)
 * [Setting Up GitHub Sponsors](getting-started/github-sponsors.md)
-* [Expenses](getting-started/expenses/README.md)
-  * [Virtual Cards](getting-started/expenses/virtual-cards.md)
+* [Expenses](getting-started/expenses.md)
 * [Using Funds](getting-started/using-funds.md)
 * [Fees](getting-started/fees.md)
 
@@ -44,11 +43,10 @@
 
 ## About
 
-* [How We Think](about/how-we-think.md)
+* [What is OSC?](about/what-is-osc.md)
 * [Official Info & Docs](about/official-info-and-docs.md)
-* [Team](about/team.md)
+* [Our Team](about/team.md)
 * [Logo & Brand Assets](about/logo-and-brand-assets.md)
-* [Blog Bounties](about/blog-bounties.md)
 * [Contact Us](about/contact.md)
 
 ## FAQ

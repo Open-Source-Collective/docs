@@ -1,3 +1,7 @@
+---
+description: Spending money with Open Source Collective.
+---
+
 # Expenses
 
 {% hint style="info" %}
@@ -21,7 +25,7 @@ Using funds from your collective’s budget is simple:
 3. OSC's team reviews the expense (and confirms that the expense meets requirements, e.g., having a valid receipt).
 4. The expense recipient gets[ paid](https://docs.opencollective.com/help/fiscal-hosts/payouts#what-payment-methods-do-you-support-for-withdrawals).
 
-Expenses are processed and paid out by Open Source Collective **twice per week** (on Mondays and Thursdays).&#x20;
+Expenses are processed and paid out by Open Source Collective **twice per week** (on Mondays and Thursdays).
 
 OSC can[ pay out funds](https://docs.opencollective.com/help/expenses-and-getting-paid/expenses#by-what-method-can-i-get-paid) via PayPal and electronic bank transfer via Wise (f.k.a. Transferwise). Make sure to review the[ Expenses and Getting Paid](https://docs.opencollective.com/help/expenses-and-getting-paid/expenses) section of Open Collective’s documentation for a full overview of the process.
 
@@ -51,8 +55,14 @@ While we try to accommodate every request, we work within some limits defined by
 * All expenditures must be allowable under 501(c)(6) regulations.
 * OSC cannot pay people in territories in the following sanctioned countries: Crimea, Cuba, Iran, North Korea, Sudan, Syrian Arab Republic, Venezuela). In addition we may be unable to pay people in: Afghanistan, Burundi, Central African Republic, Chad, Congo Republic, Democratic Republic of the Congo, Eritrea, Iraq, Libya, Somalia, Republic of South Sudan, Yemen.
 * OSC makes payments via Paypal, bank transfers, and virtual cards only, because these are integrated with the Open Collective platform.
-* We can't make direct payments via cashapp, venmo and similar services (because they don't allow nonprofits like OSC to sign up, among other reasons).&#x20;
+* We can't make direct payments via cashapp, venmo and similar services (because they don't allow nonprofits like OSC to sign up, among other reasons).
 * Payouts must be broken down into individual expenses with details about what the money is for—we do not normally pay out undifferentiated chunks of money.
 * We have certain paperwork requirements due to IRS rules—we have to collect W9 forms in some cases before we can pay someone. If any of these apply to you, we will let you know.
 
-Questions about payouts? [Email us](../../about/contact.md).
+Questions about payouts? [Email us](../about/contact.md).
+
+### Virtual Cards
+
+Open Source Collective proivdes virtual cards to Collectives on request. Virtual cards allow you to pay for expenses online using your Collective's balance directly.&#x20;
+
+[Click here for more information about virtual cards.](../what-we-offer/virtual-cards.md)

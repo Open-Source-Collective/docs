@@ -1,4 +1,4 @@
-# Team
+# Our Team
 
 **Ben Nickolls**\
 Executive Director
@@ -27,11 +27,3 @@ Community Development Manager
 
 Program Manager
 
-### Our Board
-
-In addition to Ben, Pia, and Alanna, these are our non-executive directors:
-
-* Justin Dorfman
-* Henry Zhu
-* Samson Goddy
-* Duane O'Brien\
