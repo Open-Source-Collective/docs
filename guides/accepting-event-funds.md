@@ -10,18 +10,18 @@ This guide is a work in progress and will be updated as we receive new informati
 
 ## Google Summer of Code
 
-If you plan on participating in [Google Summer of Code](https://summerofcode.withgoogle.com), please follow the instructions below to complete your payment request form.&#x20;
+If you plan on participating in [Google Summer of Code](https://summerofcode.withgoogle.com), please follow the instructions below to complete your payment request form.
 
 **On the first page of the form:**
 
-* The email address of the person responsible for accepting payment at your Organization is -- [**support@opencollective.com**](mailto:support@opencollective.com)****
+* The email address of the person responsible for accepting payment at your Organization is -- [**support@opencollective.com**](mailto:support@opencollective.com)
 * Does your Mentor Organization have an account with Payoneer and linked to the GSoC Program? -- Select the **'Yes'** checkbox.
 
 **On the second page of the form:**
 
-* What is the EXACT name of your account in the Payoneer system? -- \
+* What is the EXACT name of your account in the Payoneer system? --\
   **Open Source Collective 501 c 6**
-* What is the email address associated with this Payoneer account? -- [**support@opencollective.com**](mailto:support@opencollective.com)****
+* What is the email address associated with this Payoneer account? -- [**support@opencollective.com**](mailto:support@opencollective.com)
 * If you are accepting funds for several orgs, have Linux Foundation, NumFOCUS, Open Collective, Software Freedom Conservancy, Software in the Public Interest, or another fiscal sponsor, please note it here. -- **Open Source Collective**
 
-Once you have completed the form, send us an email at '[support@opencollective.com](mailto:support@opencollective.com)' to let us know you will be participating and we will track the payment associated to your organization.
+Once you have completed the form, [send us an email](https://opencollective.com/contact) to let us know you will be participating and we will track the payment associated with your organization.

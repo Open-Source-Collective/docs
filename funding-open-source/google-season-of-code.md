@@ -1,6 +1,6 @@
 # Google Season of Code
 
-If you plan on participating in [Google Summer of Code](https://opencollective.com/redirect?url=https%3A%2F%2Fsummerofcode.withgoogle.com%2Fprograms%2F2022), please use the following information when answering the form's questions to ensure accurate invoicing and processing of payments. The deadline to complete this form is **Thursday, May 26th 2022**.\
+If you plan on participating in [Google Summer of Code](https://opencollective.com/redirect?url=https%3A%2F%2Fsummerofcode.withgoogle.com%2Fprograms%2F2022), please use the following information when answering the form's questions to ensure accurate invoicing and processing of payments. The deadline to complete this form is **Thursday, March 26th 2022**.\
 \
 **On the first page of the form:**
 
@@ -12,9 +12,9 @@ If you plan on participating in [Google Summer of Code](https://opencollective.c
 * What is the EXACT name of your account in the Payoneer system? --\
   **Open Source Collective 501 c 6**
 * What is the email address associated with this Payoneer account? -- **support@opencollective.com**
-* If you are accepting funds for several orgs, have Linux Foundation, NumFOCUS, Open Collective, Software Freedom Conservancy, Software in the Public Interest, or another fiscal sponsor, please note it here. -- **Open Source Collective**
+* If you are accepting funds for several orgs, have Linux Foundation, NumFOCUS, Open Collective, Software Freedom Conservancy, Software in the Public Interest,  or another fiscal sponsor,  please note it here. -- **Open Source Collective**&#x20;
 
-Once you have completed the form, [send us an email](https://opencollective.com/contact) to confirm you will be participating and we can better track the payment associated with your organization.
+Once you have completed the form, send us an email at '_support@opencollective.com'_ to confirm you will be participating and we can better track the payment associated to your organization.&#x20;
 
 \
-Please [reach out to our team](https://opencollective.com/contact) with any questions. &#x20;
+Please reach out with any questions to '_support@opencollective.com'_\
