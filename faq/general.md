@@ -8,7 +8,11 @@ You can also join[ our Slack](https://join.slack.com/t/opencollective/shared\_in
 
 #### What is the difference between Open Collective and Open Source Collective?
 
-[Open Collective](https://opencollective.com) (OC) is the software platform, which is made by a company called Open Collective Inc.[ Open Source Collective](https://oscollective.org) (OSC) is a separate 501(c)(6) entity that [uses](https://opencollective.com/opensource) the OC platform to provide fiscal hosting services. The two entities are legally completely separate, but share some of the same staff members and[ community guidelines](https://docs.opencollective.com/help/about/the-open-collective-way/community-guidelines-1).
+[Open Collective](https://opencollective.com) (OC) is the software platform, which is made by a company called Open Collective Inc.[ ](https://oscollective.org)
+
+[Open Source Collective](https://oscollective.org) (OSC) is a separate 501(c)(6) entity that [uses](https://opencollective.com/opensource) the OC platform to provide fiscal hosting services.&#x20;
+
+The two entities are legally completely separate, but share some of the same staff members and[ community guidelines](https://docs.opencollective.com/help/about/the-open-collective-way/community-guidelines-1).
 
 #### What is the difference between fiscal hosting and fiscal sponsorship?
 
@@ -24,7 +28,7 @@ Payees should go to the collective page and[ submit an expense](https://docs.ope
 
 #### When are payments processed?
 
-Approved expenses are paid out by OSC[ twice a week, on Mondays and Thursdays](https://docs.opencollective.foundation/how-it-works/basics#submitting-expenses), US time. If there are any issues with the payment or you can expect delays, an OSC admin will comment below the expense and you will receive an email about it (note comments are private to admins and payees). Generally approved expenses take less than a week to be paid out and to hit your account, but could be more if there are issues or the payment processor takes longer.&#x20;
+Approved expenses are paid out by OSC[ twice a week, on Mondays and Thursdays](https://docs.opencollective.foundation/how-it-works/basics#submitting-expenses), US time. If there are any issues with the payment or you can expect delays, an OSC admin will comment below the expense and you will receive an email about it (note comments are private to admins and payees). Generally approved expenses take less than a week to be paid out and to hit your account, but could be more if there are issues or the payment processor takes longer.
 
 #### How can people donate to my collective?
 

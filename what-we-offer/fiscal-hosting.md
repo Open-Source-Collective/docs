@@ -2,9 +2,9 @@
 
 Open Source Collective provides fiscal hosting services to open source projects and communities.
 
-[Fiscal hosting](https://opencollective.com/fiscal-hosting), often referred to as fiscal sponsorship outside the[ Open Collective](https://opencollective.com) context, is when an organization **holds funds on behalf of smaller projects** (which we call _collectives_) and often also provides administrative services such as financial oversight and management.
+[Fiscal hosting](https://opencollective.com/fiscal-hosting) is when an organization **holds funds on behalf of smaller projects** (which we call _collectives_). Fiscal hosts often provide administrative services such as financial oversight and management.
 
-The Open Collective platform can be used by collectives who want to be hosted under a fiscal host. It can also be used by the hosts themselves\![ Learn more.](https://opencollective.com/fiscal-hosting)
+We use the Open Collective platform to manage all financial transactions with the collectives we host. This platform enables us (OSC and the collective) to be transparent with our finances and it allows our collectives to administer their funds directly\![ Learn more.](https://opencollective.com/fiscal-hosting)
 
 ### Fiscal Sponsorship vs. Fiscal Hosting
 
@@ -22,18 +22,20 @@ These terms describe situations where a project or group (what we call a collect
 
 As the fiscal host, we hold our collectives’ funds in our bank account and are responsible for taxes, accounting, legal compliance, and financial administration. While our hosted collectives have a great deal of autonomy within the bounds of our Terms, Open Source Collective ultimately is responsible for the oversight of collectives’ funds.
 
-## Other options
+## Choosing a fiscal host
 
-### Choosing a fiscal host
+### Open Source Collective as a fiscal host
 
-We encourage you to read through all these pages (our Documentation), especially What We Offer, our Policies, and How to Apply before joining Open Source Collective. Our services are great for a variety of community-focused and collaborative projects, but make sure to consider your long term needs before selecting a fiscal host!
+We encourage you to read through this guide (our Documentation), especially [What We Offer](./), our [Policies](../getting-started/terms-of-fiscal-sponsorship.md), and [How to Apply](../getting-started/acceptance-criteria.md) before you join Open Source Collective.&#x20;
+
+Our services are great for a variety of community-focused and collaborative projects, but consider your long-term needs before selecting a fiscal host!
 
 ### [Other fiscal hosts](https://opencollective.com/hosts) on Open Collective
 
 For some open source collectives, being hosted by a 501(c)(6) organization may not be the right fit.
 
 * Open Source Collective is just[ ](https://docs.opencollective.com/help/fiscal-hosts/fiscal-hosts#what-are-some-examples-of-fiscal-hosts)[one of many](https://opencollective.com/hosts) [fiscal hosts](https://docs.opencollective.com/help/fiscal-hosts/fiscal-hosts#what-are-some-examples-of-fiscal-hosts) on[ Open Collective](https://opencollective.com).
-* For example, your project could also be a fit for [NumFOCUS](https://opencollective.com/numfocus), [OC Europe](https://opencollective.com/europe), or if it has a direct charitable or social impact, our friends at [Open Collective Foundation](https://opencollective.foundation).
+* For example, your project could also be a fit for [NumFOCUS](https://opencollective.com/numfocus), [OC Europe](https://opencollective.com/europe), or if your project has a direct charitable or social impact that benefits the public good, you should consider our friends at [Open Collective Foundation](https://opencollective.foundation).
 
 #### Who can be a fiscal host?
 

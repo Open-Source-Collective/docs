@@ -19,10 +19,6 @@ Operations, support, and admin
 
 Operations, support, and admin
 
-**Richard Littauer**
-
-Community Development Manager
-
 **Nathan Hewitt**
 
 Program Manager

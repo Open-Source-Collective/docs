@@ -12,37 +12,35 @@
   * [GitHub Verification](getting-started/how-to-apply/github-verification.md)
   * [Manual Verification](getting-started/how-to-apply/manual-verification.md)
 * [Eligibility Requirements](getting-started/acceptance-criteria.md)
-* [Basics](getting-started/basics.md)
-* [Setting Up GitHub Sponsors](getting-started/github-sponsors.md)
-* [Expenses](getting-started/expenses.md)
-* [Using Funds](getting-started/using-funds.md)
-* [Fees](getting-started/fees.md)
+* [Terms of Fiscal Sponsorship](getting-started/terms-of-fiscal-sponsorship.md)
+
+## How it works
+
+* [Receiving and Spending Money](how-it-works/basics.md)
+* [Making Financial Contributions (Sponsoring)](how-it-works/supporting-projects/README.md)
+  * [Funds](how-it-works/supporting-projects/funds-for-open-source.md)
+* [Signing Contracts and Entering Into Legal Agreements](how-it-works/contracts-with-third-parties.md)
+* [Tax and Accounting](how-it-works/tax-info.md)
+* [Fees](how-it-works/fees.md)
+
+## Campagins, Programs & Partnerships
+
+* [GitHub Sponsors](campagins-programs-and-partnerships/github-sponsors.md)
+* [Google Summer of Code](campagins-programs-and-partnerships/google-season-of-code.md)
 
 ## Guides
 
+* [Using Funds](guides/using-funds.md)
 * [Recruiting Financial Sponsors](guides/recruiting-financial-sponsors.md)
 * [Companies and trust](guides/companies-and-trust.md)
 * [Project hygiene](guides/project-hygiene.md)
 * [Accepting sponsorships](guides/accepting-sponsorships.md)
 * [Accepting Event Funds](guides/accepting-event-funds.md)
 * [Crowdfunding](guides/crowdfunding.md)
-* [Case Studies](guides/case-studies.md)
-
-## Funding Open Source
-
-* [Supporting Projects](funding-open-source/supporting-projects.md)
-* [Funds for Open Source](funding-open-source/funds-for-open-source.md)
-* [Fund Sponsorship Agreement Template](funding-open-source/fund-sponsorship-agreement-template.md)
-
-## Legal & Compliance <a href="#legal" id="legal"></a>
-
-* [Terms of Fiscal Sponsorship](legal/terms-of-fiscal-sponsorship.md)
-* [Tax Info](legal/tax-info.md)
-* [Contracts with Third Parties](legal/contracts-with-third-parties.md)
 
 ## About
 
-* [What is OSC?](about/what-is-osc.md)
+* [What is OSC?](what-is-osc.md)
 * [Official Info & Docs](about/official-info-and-docs.md)
 * [Our Team](about/team.md)
 * [Logo & Brand Assets](about/logo-and-brand-assets.md)

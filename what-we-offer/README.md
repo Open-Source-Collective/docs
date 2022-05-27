@@ -1,33 +1,58 @@
+---
+description: >-
+  Open Source Collective manages the financial and legal overhead for thousands
+  of open source projects so they can focus on doing the work they love.
+---
+
 # What We Offer
+
+## To Open Source Communities
 
 ### Open source, but for money
 
-You shouldn’t have to take on the financial and legal overhead for your open source project. With Open Source Collective you don’t have to.&#x20;
+There are many incentives to contribute to open source software. We believe money _can_ be one of them.&#x20;
 
-We are a 501(c)(6) non-profit organization specialising in platform-enabled, flexible, [fiscal hosting](fiscal-hosting.md) for open source projects, providing communities with access to the financial and legal systems of the world. We host our projects on Open Collective, providing you with a platform for you to manage your money openly and transparently, just like your code.&#x20;
+By using the Open Collective platform, our hosted organizations can easily raise funds, pay or reimburse contributors, share financial administration, and publish their finances openly.
 
-### Tax Compliance&#x20;
+### Accounting
 
-We provide donors with receipts for their contributions, issue 1099s to contracted workers when required, and file annual 990’s to the IRS on behalf of all of our hosted projects.
+We take care of invoices, bank transfers, tax filings, contracts, and legal issues. As a fiscal sponsor, we help open source communities focus on the work they _love_ to do rather than the work they _have_ to do.&#x20;
 
 ### Services
 
-In addition to being your legal and financial home, we:
+In addition to being our projects' legal and financial home, we provide:
 
-* Provide fundraising, budgeting and grantmaking tools
-* Integrate with GitHub Sponsors, adding your sponsors to your balance each month.
-* Register as a vendor to and invoice your corporate supporters
-* Register and hold trademarks on behalf of your project
-* Provide virtual debit cards linked to your project’s balance that you can use online
+* Fundraising, budgeting, and grantmaking tools.
+* Backend integration with other fundraising platforms, like GitHub Sponsors.&#x20;
+* Virtual debit cards linked to your project’s balance that you can use online.
+* Administrative support for organizations participating in funding campaigns or support programs.&#x20;
+* Vendor registration and invoicing on behalf of corporate supporters.
+* Register and hold trademarks on behalf of your project.
 
-### Support&#x20;
+### Representation and unity &#x20;
 
-We provide support to you and your community on Open Collective. We employ staff across the globe so you’re never far away from a response on [Slack](http://slack.opencollective.com) or by [email](mailto:support@opencollective.com).
+With over 3,000 registered projects, we are one of the largest fiscal host organizations in the world. We are here to represent you, your community, and the broader ‘open source’ movement in conversations that impact our work.&#x20;
 
-### Representation and unity
+### Networking, development, and peer support
 
-With over 3,000 registered projects we are one of the largest fiscal host organizations in the world. We are here to represent you, your community and the broader ‘open source’ movement in the conversations that impact us and our work.
+We provide forums to learn from one another, help one another, and work to solve the challenges that our community faces. We do this through events, forums, debate, and mentorship programs.
 
-### Networks, collaboration, and cooperation
+### Opportunities
 
-We provide forums to learn from one another, to help one another and to work to solve the challenges that our community faces. We do this through events, forums, debate and mentorship.
+We continue to experiment with ways and reasons to contribute to open source projects, partner with individuals and organizations to build capacity and develop skills within projects, and work with institutions to bring the benefits of open source to under-resourced communities.
+
+## To Financial Contributors and Sponsors
+
+### Flexibility
+
+Whether you lead an open source project or a team looking to sponsor projects, we offer a range of flexible ways to manage your money. We can work with and alongside other foundations, charities, and organizations to give you more freedom in how you choose to manage your projects.&#x20;
+
+### Services
+
+Through us you can:
+
+* Manage the financial support of multiple open source projects in a single place with Open Source Collective acting as a single ‘supplier’ to your organization.
+* Support projects instantly on a one-time or recurring basis using a credit card, PayPal, or electronic bank transfer.
+* Hold funds with us in a dedicated 'pool' to cover your contributions throughout the year.
+* Issue gift cards to your staff, which can be used to contribute on behalf of your organization.
+
