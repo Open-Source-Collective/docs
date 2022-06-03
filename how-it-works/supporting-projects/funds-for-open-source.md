@@ -6,7 +6,9 @@ description: Funds are an easy way to give money to multiple open source project
 
 ### What is a Fund?
 
-A Fund is a profile created under OSC for the purpose of moving money frictionlessly to multiple open source projects. Some Funds are created on behalf of a particular company while others are focused on a topic. Here are examples of some funds:
+A Fund is a specific type of profile created under OSC for the purpose of moving money frictionlessly to multiple open source projects. Some Funds are created on behalf of a particular company while others are focused on a topic.&#x20;
+
+Here are examples of some funds:
 
 * Google's [Open Source CMS Fund](https://opencollective.com/google-open-source-cms-fund)
 * General [Google Open Source Fund](https://opencollective.com/google)
@@ -26,6 +28,16 @@ We help companies invest in open source projects because we want open source cre
 The key to creating scalable, resilient projects is to support the community as a whole in ways that serve the full range of projects and creators. Open Collective liberates corporate support, getting it directly to projects at scale, across languages and ecosystems.
 
 The only real limitation is that all money spent through OSC must be directed at supporting open source projects and communities.
+
+### My organization already has an account on Open Collective. Why should I create a separate Fund?
+
+If companies get to the point where they are managing multiple funds, have different administrators or teams dedicated to those funds, or have different sets of acceptance criteria and rules around who can apply to those funds - then it is easier to keep things separate.&#x20;
+
+This allows you to set rules on the top level of the fund to articulate a specific purpose. Putting a Fund's specific rule sets into the platform will make administration easier and keep your finances separate. A great example of this is how Google uses funds:
+
+Google's main account - [https://opencollective.com/google](https://opencollective.com/google)\
+Google's Chrome fund - [https://opencollective.com/chrome](https://opencollective.com/chrome)\
+Google's Season of Docs fund - [https://opencollective.com/season-of-docs](https://opencollective.com/season-of-docs)
 
 ### Who can Funds pay?
 

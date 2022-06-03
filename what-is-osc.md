@@ -91,7 +91,7 @@ Didn’t find what you are looking for? :mag: Use the Search Bar in the upper ri
 
 🎟  Request support at [support@oscollective.org](mailto:support@opencollective.com)
 
-:speech\_balloon:Join [our Slack](https://join.slack.com/t/opencollective/shared\_invite/zt-f43qko76-sD8G\~e\_vQCm4TtpIsM4i\~A) and find us in the #opensource channel
+:speech\_balloon:Join [our Slack](https://join.slack.com/t/opencollective/shared\_invite/zt-19icklhol-9Y\_eKGEFi\~nYCaRp0k\_cXw) and find us in the #opensource channel
 
 :bird: Follow us on[ Twitter](https://twitter.com/opencollect),[ Instagram](https://www.instagram.com/opencollective/),[ Youtube](https://www.youtube.com/c/OpenCollective), and[ Facebook](https://www.facebook.com/OpenCollect)
 
