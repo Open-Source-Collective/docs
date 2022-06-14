@@ -18,6 +18,7 @@
 
 * [Receiving and Spending Money](how-it-works/basics.md)
 * [Making Financial Contributions (Sponsoring)](how-it-works/supporting-projects/README.md)
+  * [Purchase Orders and Procurement](how-it-works/supporting-projects/purchase-orders-and-procurement.md)
   * [Funds](how-it-works/supporting-projects/funds-for-open-source.md)
 * [Signing Contracts and Entering Into Legal Agreements](how-it-works/contracts-with-third-parties.md)
 * [Tax and Accounting](how-it-works/tax-info.md)

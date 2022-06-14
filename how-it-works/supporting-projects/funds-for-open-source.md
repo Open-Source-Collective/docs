@@ -8,7 +8,7 @@ description: Funds are an easy way to give money to multiple open source project
 
 A Fund is a specific type of profile created under OSC for the purpose of moving money frictionlessly to multiple open source projects. Some Funds are created on behalf of a particular company while others are focused on a topic.&#x20;
 
-Here are examples of some funds:
+Here are examples:
 
 * Google's [Open Source CMS Fund](https://opencollective.com/google-open-source-cms-fund)
 * General [Google Open Source Fund](https://opencollective.com/google)
@@ -17,48 +17,50 @@ Here are examples of some funds:
 * [Facebook Open Source Fund](https://opencollective.com/fbopensource)
 * Igalia’s[ Open Prioritization Fund](https://opencollective.com/open-prioritization)
 
-### Why do we need Funds?
+### Why should I create a Fund?
 
-Big companies call the process of paying for stuff “procurement”. It’s often pretty involved, with contracts, invoices, purchasing order numbers, and bureaucracy—a painful thing to go through repeatedly for small amounts.
+If your organisation has multiple funding programs, you have a strong identity for your funding program, you would like to collaborate with other organisations to fund projects, or you simply want to access deposited funds with minimal overhead Funds are for you.&#x20;
 
-It is simpler and more practical for corporations to make one large payment to one vendor, OSC. As an umbrella non-profit, we are set up for exactly this and Funds are a feature on the platform that can help companies disperse multiple payments to open source projects easily.
+#### Your money, on-demand
 
-We help companies invest in open source projects because we want open source creators to have a good livelihood and work sustainably, which is critical to the health of the whole ecosystem. Think of Funds as [an API for funders](https://blog.opencollective.com/zeit/) to give support to and build relationships with the maintainers of their dependencies.
+Funds are accessible to administrators as a funding source when making contributions within the Open Collective platform.&#x20;
 
-The key to creating scalable, resilient projects is to support the community as a whole in ways that serve the full range of projects and creators. Open Collective liberates corporate support, getting it directly to projects at scale, across languages and ecosystems.
+#### Support any project anywhere
 
-The only real limitation is that all money spent through OSC must be directed at supporting open source projects and communities.
+You don’t have to be on Open Collective or hosted by OSC to receive payment from a fund.&#x20;
 
-### My organization already has an account on Open Collective. Why should I create a separate Fund?
+#### You're in the driving seat&#x20;
 
-If companies get to the point where they are managing multiple funds, have different administrators or teams dedicated to those funds, or have different sets of acceptance criteria and rules around who can apply to those funds - then it is easier to keep things separate.&#x20;
+You decide when and how to support projects with your fund, we handle the payments, accounting and legal processes.&#x20;
 
-This allows you to set rules on the top level of the fund to articulate a specific purpose. Putting a Fund's specific rule sets into the platform will make administration easier and keep your finances separate. A great example of this is how Google uses funds:
+### Creating a Fund
 
-Google's main account - [https://opencollective.com/google](https://opencollective.com/google)\
-Google's Chrome fund - [https://opencollective.com/chrome](https://opencollective.com/chrome)\
-Google's Season of Docs fund - [https://opencollective.com/season-of-docs](https://opencollective.com/season-of-docs)
+If your company wants to set up a Fund, please [get in touch](mailto:hello@oscollective.org).
 
-### Who can Funds pay?
+### Contributing using a Fund
 
-You don’t have to be on Open Collective or hosted by OSC to receive payment from a fund. Any open source project—whether they are part of a company, has its own foundation, works with another fiscal host, or is unincorporated—can get contributions from a Fund.
+Funds appear as a source for any administrator when making a one-off or recurring contribution to a project on Open Collective. Select the Fund during the 'contribute as' step:
 
-Please refer to the section [Receiving and Spending Money](../basics.md) for more information on payments via Invoices and Expenses.&#x20;
+![](<../../.gitbook/assets/Screenshot 2022-06-14 at 10.10.11.png>)
 
-Funds admins approve what their money gets spent on but when it comes to creating invoices, purchase orders, payment processing, tax forms, etc, they don't need to worry about it. OSC takes care of the administration and paperwork with the payees making the process easier for both parties.
+[Read more about contributing to projects.](./)
 
-### How is funding decided?
+### Invoices and Reimbursements
 
-It's up to the creators of the Fund to decide the processes around allocating the Funds' money.&#x20;
+Individuals and projects can request payments direct from a fund. Reqeustors provide receipts or invoices that are passed to Fund administrators for approval.
 
-* Open Collective has a 'request a grant' function that some use to receive proposals from projects.&#x20;
-* Others use their Fund to process payments for an external program with its own process.&#x20;
-* Some have an internal team who decides where the money goes and they don't take requests.&#x20;
+[Read more about expenses and invoices.](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses)
 
-We carry out the Funds' decisions and handle the logistics, but the Fund administrators are in the driver's seat.
+### Grants
 
-### How do I create a Fund?
+Funds come with some lightweight 'grantmaking' features:&#x20;
 
-If your company wants to set up a Fund, please [get in touch](mailto:hello@oscollective.org). We offer a bespoke service for setting up new Funds.
+![](<../../.gitbook/assets/Screenshot 2022-06-14 at 10.00.46.png>)
 
-_Read the original blog post_ [_announcing Funds for Open Source_](https://blog.opencollective.com/funds-for-open-source/)_._
+Projects and individuals can request a grant directly from a Fund's profile page. We invite the requestor to provide a description of their activities and upload any supporting documentation. This information is passed to the Fund's administrators for approval.
+
+### Fees
+
+Open Source Collective charges a fixed 10% fee on all contributions received. i.e. we do not charge an additional 10% to Collectives once contributions are made.&#x20;
+
+[Read more about our fees.](../fees.md)
