@@ -1,6 +1,10 @@
 # Logo & Brand Assets
 
-If you need to refer to or link to Open Source Collective, please direct links to [https://oscollective.org](https://oscollective.org) and feel free to use the below images.
+Color #4a2f79
+
+If you need to refer or link to Open Source Collective, please direct links to [https://oscollective.org](https://oscollective.org) and feel free to use the below images.
+
+
 
 ![logo with full name](<../.gitbook/assets/OSC-Logo\_1\_transparency (1).png>)
 
