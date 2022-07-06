@@ -33,11 +33,12 @@
 
 * [Using Funds](guides/using-funds.md)
 * [Recruiting Financial Sponsors](guides/recruiting-financial-sponsors.md)
-* [Companies and trust](guides/companies-and-trust.md)
-* [Project hygiene](guides/project-hygiene.md)
-* [Accepting sponsorships](guides/accepting-sponsorships.md)
+* [Companies and Trust](guides/companies-and-trust.md)
+* [Project Hygiene](guides/project-hygiene.md)
+* [Accepting Sponsorships](guides/accepting-sponsorships.md)
 * [Accepting Event Funds](guides/accepting-event-funds.md)
 * [Crowdfunding](guides/crowdfunding.md)
+* [Handling Burnout and Career Planning](guides/handling-burnout-and-career-planning.md)
 
 ## About
 
