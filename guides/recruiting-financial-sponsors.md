@@ -10,7 +10,7 @@ _Based on an OSC workshop led by Sumana Harihareswara of_ [_Changeset Consulting
 
 Here's a diagram describing how money and other resources flow through an open-source project.
 
-![](../.gitbook/assets/money-resources-flow.jpg)
+![Figure showing money and resources flowing into and out of a project](<../.gitbook/assets/Money resources flow.png>)
 
 Two key things to notice here:
 

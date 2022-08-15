@@ -32,7 +32,10 @@
 
 ## Guides
 
-* [Using Funds](guides/using-funds.md)
+* [Growing Your Contributors](guides/growing-your-contributors.md)
+* [Deciding on how to use your money](guides/deciding-on-how-to-use-your-money/README.md)
+  * [Using Funds Directly](guides/deciding-on-how-to-use-your-money/using-funds.md)
+* [Marketing, Publicity, Roadmaps, and Comms](guides/marketing-publicity-roadmaps-and-comms.md)
 * [Recruiting Financial Sponsors](guides/recruiting-financial-sponsors.md)
 * [Companies and Trust](guides/companies-and-trust.md)
 * [Project Hygiene](guides/project-hygiene.md)
@@ -40,6 +43,7 @@
 * [Accepting Event Funds](guides/accepting-event-funds.md)
 * [Crowdfunding](guides/crowdfunding.md)
 * [Handling Burnout and Career Planning](guides/handling-burnout-and-career-planning.md)
+* [Promoting maintainers and handling conflict](guides/promoting-maintainers-and-handling-conflict.md)
 
 ## About
 
