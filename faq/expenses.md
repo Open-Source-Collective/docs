@@ -19,9 +19,8 @@ To initiate a return, please send an email to '[hello@oscollective.org](mailto:h
 
 _**Note:** _&#x20;
 
-* We can only issue refunds to the original source of payment used for the transaction.
-* Depending on your initial payment method, it may take several days for the refund to appear in your account.&#x20;
-* If the account you used for the original transaction is closed or the card you used is now expired, we can not issue a refund to another form of payment.
+* We can only issue refunds to the original source of payment used for the transaction. If the account you used for the original transaction is closed or the card you used is now expired, we can not issue a refund to another form of payment.
+* Refunds may take 1-2 billing cycles to appear on your credit card statement, depending on your credit card company. We will notify you by email when your return has been processed.
 
 
 
