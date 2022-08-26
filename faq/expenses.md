@@ -1,10 +1,29 @@
-# Expenses FAQ
+# Expenses, Taxes & Refunds FAQ
 
 ### What does the approval process look like for expenses?
 
 Once expenses are submitted, they need to be approved by a collective admin. Approved expenses are paid out by OSC[ twice a week, on Mondays and Thursdays](https://docs.opencollective.foundation/how-it-works/basics#submitting-expenses), US time. If there are any issues with the payment or you can expect delays, an OSC admin will comment below the expense and you will receive an email about it (note comments are private to admins and payees). Generally approved expenses take less than a week to be paid out and to hit your account, but could be more if there are issues or the payment processor takes longer.\
 \
 Please see[ Submitting Expenses](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses) for more information on the approval process.
+
+###
+
+### How can I get a refund on a payment or donation?
+
+If you need to refund your transaction for whatever reason, we're here to help! We can issue a refund of your transaction within **120 days** of purchase.&#x20;
+
+To initiate a return, please send an email to '[hello@oscollective.org](mailto:hello@oscollective.org)' with the following information:
+
+1. The URL of the collective you donated to (e.g. [https://opencollective.com/opensource](https://opencollective.com/opensource))
+2. The date and amount of the transaction
+
+_**Note:** _&#x20;
+
+* We can only issue refunds to the original source of payment used for the transaction.
+* Depending on your initial payment method, it may take several days for the refund to appear in your account.&#x20;
+* If the account you used for the original transaction is closed or the card you used is now expired, we can not issue a refund to another form of payment.
+
+
 
 ### What about tax forms?
 
