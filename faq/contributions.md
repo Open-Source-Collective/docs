@@ -6,7 +6,7 @@ description: Questions about contributing to our hosted collectives
 
 #### How do I cancel recurring donations/subscriptions/payments?
 
-See our instructions on how to cancel recurring or ongoing donations, subscriptions, payments, etc.,[ here](https://docs.opencollective.com/help/financial-contributors/payments#cancel-a-recurring-contribution).
+See our instructions on how to cancel recurring or ongoing donations, subscriptions, payments, etc., [here](https://docs.opencollective.com/help/financial-contributors/payments#change-the-amount-payment-method-or-cancel-an-existing-contribution).
 
 #### What if a contributor wants their contribution to be anonymous?
 
