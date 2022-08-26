@@ -49,6 +49,6 @@ Didn’t find what you are looking for? :mag: Use the Search Bar in the upper ri
 
 :speech\_balloon:Join [our Slack](https://slack.opencollective.com/) and find us in the #ocf channel
 
-:bird: Follow us on [Twitter](https://twitter.com/opensourcecoll)
+:bird: Follow us on [Twitter](https://twitter.com/opensourcecoll) & [Linkedin](https://www.linkedin.com/company/opensourcecollective)&#x20;
 
 :round\_pushpin: Our [mailing address](about/official-info-and-docs.md#address-and-contact-info) &[ Other Important Docs](about/official-info-and-docs.md#banking-info)
