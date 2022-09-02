@@ -6,7 +6,9 @@ Once expenses are submitted, they need to be approved by a collective admin. App
 \
 Please see[ Submitting Expenses](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses) for more information on the approval process.
 
-###
+### Can I issue payment using cryptocurrency, Venmo, or CashApp?
+
+Not at this time. We only pay out expenses via bank transfer or PayPal.&#x20;
 
 ### How can I get a refund on a payment or donation?
 
