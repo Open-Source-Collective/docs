@@ -1,16 +1,33 @@
 # Expenses, Taxes & Refunds FAQ
 
-### What does the approval process look like for expenses?
+## Expenses
+
+#### What does the approval process look like for expenses?
 
 Once expenses are submitted, they need to be approved by a collective admin. Approved expenses are paid out by OSC[ twice a week, on Mondays and Thursdays](https://docs.opencollective.foundation/how-it-works/basics#submitting-expenses), US time. If there are any issues with the payment or you can expect delays, an OSC admin will comment below the expense and you will receive an email about it (note comments are private to admins and payees). Generally approved expenses take less than a week to be paid out and to hit your account, but could be more if there are issues or the payment processor takes longer.\
 \
-Please see[ Submitting Expenses](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses) for more information on the approval process.
+Please see[ Submitting Expenses](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses) for more information on how to submit an expense.&#x20;
 
-### Can I issue payment using cryptocurrency, Venmo, or CashApp?
+_**Please Note:**_
+
+* We can only issue a reimbursement for the amount listed on the receipt.
+* We can only issue a reimbursement for the amount paid with a card or cash. For example, if you use existing coupons or vouchers in addition to paying with a credit card we can not reimburse you for the amount paid with a voucher or coupon.
+
+#### **Is private information on expenses publicly viewable?**
+
+The expense amount and title will be listed on the Collective's public page, but any private information, attached files and payment details are only visible to admins of the collective and admins of OSC who will be reviewing the expense.&#x20;
+
+#### How can we pay for large expenses that we cannot pay out-of-pocket and then get reimbursed later?
+
+Depending on the size of the expense, you may be able to use a virtual card!
+
+For large expenses that you cannot pay out-of-pocket, you can also have your vendors and service providers submit their invoices directly via your collective's page, or you can use the "[invite expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#inviting-a-third-party-to-submit-an-expense)" option, where you fill in the details and they receive an email and then just need to confirm. So vendors can invoice OSC through your page to get paid, and then we pay them directly.
+
+#### Can I issue payment using cryptocurrency, Venmo, or CashApp?
 
 Not at this time. We only pay out expenses via bank transfer or PayPal.&#x20;
 
-### How can I get a refund on a payment or donation?
+#### How can I get a refund on a payment or donation?
 
 If you need to refund your transaction for whatever reason, we're here to help! We can issue a refund of your transaction within **120 days** of purchase.&#x20;
 
@@ -24,9 +41,17 @@ _**Note:** _&#x20;
 * We can only issue refunds to the original source of payment used for the transaction. If the account you used for the original transaction is closed or the card you used is now expired, we can not issue a refund to another form of payment.
 * Refunds may take 1-2 billing cycles to appear on your credit card statement, depending on your credit card company. We will notify you by email when your return has been processed.
 
+#### Do I have to use my real name?
 
+We[ now](https://opencollective.com/opencollective/updates/new-legal-and-display-name-settings) have the option to differentiate between your public display name, and your private legal name.
 
-### What about tax forms?
+We do need your real name as your legal name for our accounting records. This private legal name will only be visible to admins.
+
+Details such as attachments, comments, the private note section, and the payout method information are only visible to the submitter of the request, the collective admin, and the fiscal host admin who processes the actual payment. Confidential details can also be included in those areas to ensure privacy.
+
+## Taxes
+
+#### What about tax forms?
 
 Open Source Collective must collect[ tax forms](https://docs.opencollective.com/help/expenses-and-getting-paid/tax-information#info-for-expense-submitters-getting-paid) for any individual who invoices (this does not apply to reimbursements) over $600 in a single calendar year. Those individuals will be automatically issued a 1099.
 
@@ -46,7 +71,7 @@ The Form 1099-K is an IRS informational tax form that is used to report goods an
 If your PayPal payments through Open Collective were in relation to invoices for services or other taxable income, you can use the 1099-K from PayPal to report that income. If these payments were reimbursements, where you uploaded a receipt expense to Open Collective, then you do not need to report these amounts from the 1099-K for income tax purposes. If you have further questions, please speak to a tax advisor.
 {% endhint %}
 
-### Reporting your income from OSC
+#### Reporting your income from OSC
 
 For tax purposes, you will be treated as an independent contractor and, if you are a US person, you will be issued a 1099 if your earnings exceed $600.[ Here](https://turbotax.intuit.com/tax-tools/tax-tips/Self-Employment-Taxes/Filing-IRS-Form-W-9/INF19741.html)'s a good explanation of how W9s work for independent contractors, and there's more info on what a 1099 is[ here](https://turbotax.intuit.com/tax-tools/tax-tips/Self-Employment-Taxes/What-is-an-IRS-1099-Form-/INF14810.html).
 
@@ -56,20 +81,3 @@ Open Source Collective is based in the US. If you are not based in the US, we wi
 
 For more information on taxes please [click here](https://docs.opencollective.com/help/expenses-and-getting-paid/tax-information#info-for-expense-submitters-getting-paid).&#x20;
 
-### Do I have to use my real name?
-
-We[ now](https://opencollective.com/opencollective/updates/new-legal-and-display-name-settings) have the option to differentiate between your public display name, and your private legal name.
-
-We do need your real name as your legal name for our accounting records. This private legal name will only be visible to admins.
-
-Details such as attachments, comments, the private note section, and the payout method information are only visible to the submitter of the request, the collective admin, and the fiscal host admin who processes the actual payment. Confidential details can also be included in those areas to ensure privacy.
-
-### **Is private information on expenses publicly viewable?**
-
-The expense amount and title will be listed on the Collective's public page, but any private information, attached files and payment details are only visible to admins of the collective and admins of OSC who will be reviewing the expense.&#x20;
-
-### How can we pay for large expenses that we cannot pay out-of-pocket and then get reimbursed later?
-
-Depending on the size of the expense, you may be able to use a virtual card!
-
-For large expenses that you cannot pay out-of-pocket, you can also have your vendors and service providers submit their invoices directly via your collective's page, or you can use the "[invite expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#inviting-a-third-party-to-submit-an-expense)" option, where you fill in the details and they recieve an email and then just need to confirm. So vendors can invoice OSC through your page to get paid, and then we pay them directly.
