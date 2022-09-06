@@ -141,13 +141,19 @@ Assuming your project makes 4 releases per year, here's a sample schedule you co
 
 *   1 month before release:
 
-    \*\* send/post "how to test this" to the beta testing enthusiasts wherever they are
+    ** send/post "how to test this" to the beta testing enthusiasts wherever they are
 *   1 week before release:
 
-    \*\* prepare FAQ and saved replies for bug triage/user support folks \*\* release notes
+    ** prepare FAQ and saved replies for bug triage/user support folks 
+    ** release notes
 *   at release:
 
-    \*\* announcement email/blog post \*\* send to relevant newsletters and podcasts \*\* post to subreddits/Discords/Slacks/Zulip/IRC \*\* possibly do livechats \*\* social media posts
+    ** announcement email/blog post 
+    ** send to relevant newsletters and podcasts 
+    ** post to subreddits/Discords/Slacks/Zulip/IRC 
+    ** possibly do livechats 
+    ** social media posts
 *   one month after release:
 
-    \*\* find people talking about the upgrade & boost them \*\* post a quarterly update about roadmap, releases, finance, maintainer promotions, first-time contributors, good first bugs
+    ** find people talking about the upgrade & boost them 
+    ** post a quarterly update about roadmap, releases, finance, maintainer promotions, first-time contributors, good first bugs
