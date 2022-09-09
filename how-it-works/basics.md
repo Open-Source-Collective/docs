@@ -55,8 +55,9 @@ If you have any issues with a specific expense, the best way to get an answer is
 
 ### Reimbursements
 
-Create a[ reimbursement](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#reimbursements) to pay for purchases made on behalf of the collective:
+Create a[ reimbursement](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#reimbursements) to pay for purchases or subscriptions made on behalf of the collective:
 
+* Reimbursements **can not** be used to pay for work or labor spent on the project.
 * Reimbursements are used to pay people (often volunteers) back when they have made purchases for the group.
 * Receipts are required so that we can ensure the requested amount matches the purchased amount in order to approve the reimbursement.
 
