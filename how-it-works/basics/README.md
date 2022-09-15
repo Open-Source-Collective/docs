@@ -20,7 +20,7 @@ Open Collective is also an [open source](https://github.com/opencollective) proj
 
 The Open Collective platform offers multiple ways for you to fund your project. Check out the[ Quick Start Guide](https://docs.opencollective.com/help/collectives/quick-start-guide) which offers a few great ways to get started.
 
-Our documentation includes information on how people can contribute directly to your collective. Feel free to share [this Financial Contributions overview](supporting-projects/) with your contributors.
+Our documentation includes information on how people can contribute directly to your collective. Feel free to share [this Financial Contributions overview](../supporting-projects/) with your contributors.
 
 In addition to direct donations, some of our collectives developed innovative ways to fund their projects. Read more about different funding options [here](https://docs.opencollective.com/help/collectives/funding-options).
 
@@ -40,7 +40,7 @@ OSC can[ pay out funds](https://docs.opencollective.com/help/expenses-and-gettin
 {% hint style="warning" %}
 Our tax status and the terms of our fiscal sponsorship agreement state that funds can only be used to further the cause of the projects we accept.&#x20;
 
-We have an [incredibly broad policy](basics.md#limitations) on expenses that we will allow but sometimes we may need more information to understand how an expense meets our policy.&#x20;
+We have an [incredibly broad policy](./#limitations) on expenses that we will allow but sometimes we may need more information to understand how an expense meets our policy.&#x20;
 {% endhint %}
 
 If you have any issues with a specific expense, the best way to get an answer is to post a comment on that expense page.
@@ -65,7 +65,7 @@ Create a[ reimbursement](https://docs.opencollective.com/help/expenses-and-getti
 
 Open Source Collective provides virtual cards to Collectives on request. Virtual cards act like credit cards and allow you to pay for expenses online using your Collective's balance.&#x20;
 
-[Click here for more information about virtual cards.](../what-we-offer/virtual-cards.md)
+[Click here for more information about virtual cards.](../../what-we-offer/virtual-cards.md)
 
 ## Policies and Limitations
 
@@ -83,5 +83,5 @@ While we try to accommodate every request, we work within some limits defined by
 * Payouts must be broken down into individual expenses that detail what the money is spent on. We do not pay out undifferentiated chunks of money.
 * We have certain paperwork requirements due to IRS rules and may need to collect W9 forms before we can pay someone. If this applies to you, we will let you know.
 
-Questions about payouts? [Email us](../about/contact.md).
+Questions about payouts? [Email us](../../about/contact.md).
 
