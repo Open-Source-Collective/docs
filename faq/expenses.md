@@ -11,25 +11,32 @@ Please see[ Submitting Expenses](https://docs.opencollective.com/help/expenses-a
 _**Please Note:**_
 
 * We can only issue a reimbursement for the amount listed on the receipt.
-* We can only issue a reimbursement for the amount paid with a card or cash. For example, if you use existing coupons or vouchers in addition to paying with a credit card we can not reimburse you for the amount paid with a voucher or coupon.
+* We can only issue a reimbursement for the amount paid with a card or cash. For example, if you use coupons or vouchers in addition to paying with a credit card, we can not reimburse you for the amount paid with a voucher or coupon.
+* The name of the person or business being paid must match the method of payment.&#x20;
+
+#### Do I have to use my real name?
+
+We[ now](https://opencollective.com/opencollective/updates/new-legal-and-display-name-settings) have the option to differentiate between your public display name, and your private legal name.
+
+We do need your real name as your legal name for our accounting records. This private legal name will only be visible to admins.
 
 #### **Is private information on expenses publicly viewable?**
 
-The expense amount and title will be listed on the Collective's public page, but any private information, attached files and payment details are only visible to admins of the collective and admins of OSC who will be reviewing the expense.&#x20;
+The expense amount and title will be listed on the Collective's public page, but any private information, attached files, comments, and payment details are only visible to admins of the collective and admins of OSC who will be reviewing the expense.&#x20;
 
 #### How can we pay for large expenses that we cannot pay out-of-pocket and then get reimbursed later?
 
-Depending on the size of the expense, you may be able to use a virtual card!
+Depending on the size of the expense, you may be able to use a virtual card.
 
-For large expenses that you cannot pay out-of-pocket, you can also have your vendors and service providers submit their invoices directly via your collective's page, or you can use the "[invite expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#inviting-a-third-party-to-submit-an-expense)" option, where you fill in the details and they receive an email and then just need to confirm. So vendors can invoice OSC through your page to get paid, and then we pay them directly.
+For large expenses that you cannot pay out-of-pocket, you can have your vendors and service providers submit invoices directly via your collective's page, or you can use the "[invite expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#inviting-a-third-party-to-submit-an-expense)" option, where you fill in the details and they receive an email and then just need to confirm. Vendors can invoice OSC through your page to get paid, and then we pay them directly.
 
 #### Can I issue payment using cryptocurrency, Venmo, or CashApp?
 
 Not at this time. We only pay out expenses via bank transfer or PayPal.&#x20;
 
-#### How can I get a refund on a payment or donation?
+## Can I refund a donation or get a refund for one I have made?
 
-If you need to refund your transaction for whatever reason, we're here to help! We can issue a refund of your transaction within **120 days** of purchase.&#x20;
+If you need to refund your transaction for whatever reason, we can issue a refund of your transaction within **120 days** of purchase.&#x20;
 
 To initiate a return, please send an email to '[hello@oscollective.org](mailto:hello@oscollective.org)' with the following information:
 
@@ -40,14 +47,6 @@ _**Note:** _&#x20;
 
 * We can only issue refunds to the original source of payment used for the transaction. If the account you used for the original transaction is closed or the card you used is now expired, we can not issue a refund to another form of payment.
 * Refunds may take 1-2 billing cycles to appear on your credit card statement, depending on your credit card company. We will notify you by email when your return has been processed.
-
-#### Do I have to use my real name?
-
-We[ now](https://opencollective.com/opencollective/updates/new-legal-and-display-name-settings) have the option to differentiate between your public display name, and your private legal name.
-
-We do need your real name as your legal name for our accounting records. This private legal name will only be visible to admins.
-
-Details such as attachments, comments, the private note section, and the payout method information are only visible to the submitter of the request, the collective admin, and the fiscal host admin who processes the actual payment. Confidential details can also be included in those areas to ensure privacy.
 
 ## Taxes
 
