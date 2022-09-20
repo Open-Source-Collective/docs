@@ -12,7 +12,7 @@ _**Please Note:**_
 
 * We can only issue a reimbursement for the amount listed on the receipt.
 * We can only issue a reimbursement for the amount paid with a card or cash. For example, if you use coupons or vouchers in addition to paying with a credit card, we can not reimburse you for the amount paid with a voucher or coupon.
-* The name of the person or business being paid must match the method of payment.&#x20;
+* The name of the person or business being paid must match the name in the method of payment.&#x20;
 
 #### Do I have to use my real name?
 
