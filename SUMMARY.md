@@ -21,6 +21,7 @@
 * [Contributions FAQ](faq/contributions.md)
 * [Expenses, Taxes & Refunds FAQ](faq/expenses.md)
 * [Legal & Compliance FAQ](faq/legal.md)
+* [Policy Infringements FAQ](faq/policy-infringements-faq.md)
 
 ## Getting Started
 
