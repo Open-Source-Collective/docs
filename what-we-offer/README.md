@@ -54,5 +54,5 @@ Through us you can:
 * Manage the financial support of multiple open source projects in a single place with Open Source Collective acting as a single ‘supplier’ to your organization.
 * Support projects instantly on a one-time or recurring basis using a credit card, PayPal, or electronic bank transfer. [More.](../how-it-works/supporting-projects/#credit-card-paypal-or-bank-transfer)
 * Hold funds with us in a dedicated 'pool' to cover your contributions throughout the year. [More.](../how-it-works/supporting-projects/funds-for-open-source.md)
-* Issue gift cards to your staff, which can be used to contribute on behalf of your organization. More.
+* Issue gift cards to your staff, which can be used to contribute on behalf of your organization.&#x20;
 
