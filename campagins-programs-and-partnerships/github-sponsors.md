@@ -6,6 +6,12 @@ Open Source Collective projects can use Open Collective to receive financial sup
 If you'd like to support an Open Source community through GitHub sponsors direct them to this page.&#x20;
 {% endhint %}
 
+### Supporting a project through GitHub Sponsors
+
+GitHub and Open Collective work together to ensure that any project registered on GitHub Sponsors, that uses Open Collective to manage its money, will receive that money automatically on a monthly basis.&#x20;
+
+Simply sponsor the project on GitHub, and we'll do the rest.&#x20;
+
 ### Registering your Collective with GitHub Sponsors
 
 To register your project for GitHub Sponsors you will need:&#x20;
