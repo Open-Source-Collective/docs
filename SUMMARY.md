@@ -7,22 +7,6 @@
   * [Our Platform](what-we-offer/our-platform.md)
   * [Virtual Cards](what-we-offer/virtual-cards.md)
 
-## About
-
-* [What is OSC?](what-is-osc.md)
-* [Official Info & Docs](about/official-info-and-docs.md)
-* [Our Team](about/team.md)
-* [Logo & Brand Assets](about/logo-and-brand-assets.md)
-* [Contact Us](about/contact.md)
-
-## FAQ
-
-* [General FAQ](faq/general.md)
-* [Contributions FAQ](faq/contributions.md)
-* [Expenses, Taxes & Refunds FAQ](faq/expenses.md)
-* [Legal & Compliance FAQ](faq/legal.md)
-* [Policy Infringements FAQ](faq/policy-infringements-faq.md)
-
 ## Getting Started
 
 * [How to Apply](getting-started/how-to-apply/README.md)
@@ -46,6 +30,22 @@
 
 * [GitHub Sponsors](campagins-programs-and-partnerships/github-sponsors.md)
 * [Google Summer of Code](campagins-programs-and-partnerships/google-season-of-code.md)
+
+## About
+
+* [What is OSC?](what-is-osc.md)
+* [Official Info & Docs](about/official-info-and-docs.md)
+* [Our Team](about/team.md)
+* [Logo & Brand Assets](about/logo-and-brand-assets.md)
+* [Contact Us](about/contact.md)
+
+## FAQ
+
+* [General FAQ](faq/general.md)
+* [Contributions FAQ](faq/contributions.md)
+* [Expenses, Taxes & Refunds FAQ](faq/expenses.md)
+* [Legal & Compliance FAQ](faq/legal.md)
+* [Policy Infringements FAQ](faq/policy-infringements-faq.md)
 
 ## Guides
 
