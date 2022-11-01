@@ -8,7 +8,7 @@ description: >-
 
 As the legal entity that represents your project, we can hold assets like web domains, trademarks, and more on your behalf.&#x20;
 
-### Domains
+## Domains
 
 Open Source Collective uses Google as our domain registrar. Transferring a domain to Google costs $15. Renewal costs will vary depending on the top-level domain. All costs are charged to your Collective.
 
@@ -38,15 +38,19 @@ If you wish to change nameservers we will update the domain records on request. 
 
 Open Source Collective will endeavor to update your domain's configuration as necessary but, as detailed above, we prefer that your organization remain in control of day-to-day configuration through a CDN provider like Cloudflare.&#x20;
 
-### Trademarks
+## Trademarks
 
-{% hint style="info" %}
-Having a trademark registration does not prevent someone from forking the code and publishing it under a different name.
+{% hint style="success" %}
+If you wish to register a trademark, contact [hello@oscollective.org](mailto:hello@oscollective.org)
 {% endhint %}
 
 Open Source Collective can work with you to register new trademarks and transfer existing trademarks to our protection.&#x20;
 
 Open Source Collective can also work with you, through our Open Source IP counsel, to notify those who infringe marks and, if necessary begin proceedings against abusers.&#x20;
+
+{% hint style="info" %}
+Having a trademark registration does not prevent someone from forking the code and publishing it under a different name.
+{% endhint %}
 
 Costs for registering, transferring, and protecting marks are to be covered by the Collective. The costs below are indicative of a typical registration but might vary slightly. All costs will be billed to your collective:
 
