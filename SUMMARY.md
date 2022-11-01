@@ -61,3 +61,4 @@
 * [Crowdfunding](guides/crowdfunding.md)
 * [Handling Burnout and Career Planning](guides/handling-burnout-and-career-planning.md)
 * [Promoting maintainers and handling conflict](guides/promoting-maintainers-and-handling-conflict.md)
+* [Growing from a one person project to a Collective](guides/growing-from-a-one-person-project-to-a-collective.md)
