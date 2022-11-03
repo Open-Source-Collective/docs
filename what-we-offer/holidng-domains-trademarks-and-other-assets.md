@@ -44,7 +44,7 @@ Having a trademark registration does not prevent someone from forking the code a
 
 Costs for registering, transferring, and protecting marks are to be covered by the Collective. The costs below are indicative of a typical registration but might vary slightly. All costs will be billed to your collective:
 
-**US Single application for name and/or logo** US (one class; price increases $250 for each additional class): $1200
+**US Single application for name and/or logo** US (one class; price increases $350 for each additional class): $1200
 
 **Trademark transfer - preparing assignment of single, already registered US trademark** and recording assignment with the USPTO (the price of recording increases by $25 for each additional trademark): $350
 
