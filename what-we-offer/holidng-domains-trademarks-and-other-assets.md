@@ -6,17 +6,15 @@ description: >-
 
 # Holidng Domains, Trademarks and Other 'Assets'
 
-As the legal entity that represents your project, we can hold assets like web domains, trademarks, and more on your behalf.&#x20;
+{% hint style="success" %}
+If you wish for OSC to host your Domain or help with Trademark services, contact us at [hello@oscollective.org](mailto:hello@oscollective.org)
+{% endhint %}
 
 ## Domains
 
 Open Source Collective uses Google as our domain registrar. Transferring a domain to Google costs $15. Renewal costs will vary depending on the top-level domain. All costs are charged to your Collective.
 
-#### Transferring a domain to Open Source Collective
-
-{% hint style="success" %}
 To initiate a transfer of a domain to our registrar, please reach out to [hello@oscollective.org](mailto:hello@oscollective.org)
-{% endhint %}
 
 Transferring a domain to Open Source Collective will require you to 'unlock' the domain with your current registrar and share an authorization, transfer, EPP, or 'REG-ID' code with us.&#x20;
 
@@ -32,17 +30,9 @@ Instructions to do so can be found in your CDN's documentation: [CloudFlare's Do
 
 #### Updating Nameservers
 
-{% hint style="success" %}
-If you wish to change nameservers we will update the domain records on request. Contact [hello@oscollective.org](mailto:hello@oscollective.org)
-{% endhint %}
-
 Open Source Collective will endeavor to update your domain's configuration as necessary but, as detailed above, we prefer that your organization remain in control of day-to-day configuration through a CDN provider like Cloudflare.&#x20;
 
 ## Trademarks
-
-{% hint style="success" %}
-If you wish to register a trademark, contact [hello@oscollective.org](mailto:hello@oscollective.org)
-{% endhint %}
 
 Open Source Collective can work with you to register new trademarks and transfer existing trademarks to our protection.&#x20;
 
