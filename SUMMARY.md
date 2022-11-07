@@ -12,7 +12,7 @@
 * [How to Apply](getting-started/how-to-apply/README.md)
   * [GitHub Verification](getting-started/how-to-apply/github-verification.md)
   * [Manual Verification](getting-started/how-to-apply/manual-verification.md)
-* [Eligibility Requirements](getting-started/acceptance-criteria.md)
+* [Eligibility Requirements](getting-started/acceptance-criteria/README.md)
 * [Terms of Fiscal Sponsorship](getting-started/terms-of-fiscal-sponsorship.md)
 
 ## How it works
