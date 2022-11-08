@@ -27,7 +27,7 @@ In addition to being our projects' legal and financial home, we provide:
 * Virtual debit cards linked to your project’s balance that you can use online. [More.](virtual-cards.md)
 * Administrative support for organizations participating in funding campaigns or support programs. [More.](broken-reference)
 * Vendor registration and invoicing on behalf of corporate supporters. [More](../how-it-works/supporting-projects/purchase-orders-and-procurement.md).
-* Register and hold trademarks on behalf of your project. [More](holidng-domains-trademarks-and-other-assets.md).
+* Register and hold trademarks on behalf of your project. [More](trademark-registration-and-holding.md).
 
 ### Representation and unity &#x20;
 

@@ -3,7 +3,8 @@
 * [Welcome!](README.md)
 * [What We Offer](what-we-offer/README.md)
   * [Fiscal Hosting](what-we-offer/fiscal-hosting.md)
-  * [Holidng Domains, Trademarks and Other 'Assets'](what-we-offer/holidng-domains-trademarks-and-other-assets.md)
+  * [Trademark Registration and Holding](what-we-offer/trademark-registration-and-holding.md)
+  * [Domain Transfers and Registration](what-we-offer/domain-transfers-and-registration.md)
   * [Our Platform](what-we-offer/our-platform.md)
   * [Virtual Cards](what-we-offer/virtual-cards.md)
 
