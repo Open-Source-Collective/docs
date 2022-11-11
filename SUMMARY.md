@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome!](README.md)
+  * [Is OSC right for me?](readme/is-osc-right-for-me.md)
 * [What We Offer](what-we-offer/README.md)
   * [Fiscal Hosting](what-we-offer/fiscal-hosting.md)
   * [Our Platform](what-we-offer/our-platform.md)
@@ -18,7 +19,6 @@
 
 ## How it works
 
-* [Is OSC right for me?](how-it-works/is-osc-right-for-me.md)
 * [Receiving and Spending Money](how-it-works/basics/README.md)
   * [Invoices vs. Reimbursements](how-it-works/basics/invoices-vs.-reimbursements.md)
 * [Making Financial Contributions (Sponsoring)](how-it-works/supporting-projects/README.md)

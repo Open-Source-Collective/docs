@@ -35,3 +35,10 @@ If the above sounds like where your project is currently at, then the level of o
 * [https://ko-fi.com/](https://ko-fi.com/)
 * [https://www.patreon.com/](https://www.patreon.com/)
 
+You can see a side-by-side comparison of these platforms and ours to compare pricing and feature options here: [https://docs.opencollective.com/help/product/comparison](https://docs.opencollective.com/help/product/comparison)
+
+### Use Open Collective as an Independent Collective
+
+You don't need to be part of a fiscal host to benefit from the platform and it's functionality. If your organization or project already exists as an LLC or a 501c3, you can use the platform as an Independent Collective.&#x20;
+
+More about that here: [https://docs.opencollective.com/help/independent-collectives/about-independent-collectives](https://docs.opencollective.com/help/independent-collectives/about-independent-collectives)
