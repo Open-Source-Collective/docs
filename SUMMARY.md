@@ -18,6 +18,7 @@
 
 ## How it works
 
+* [Is OSC right for me?](how-it-works/is-osc-right-for-me.md)
 * [Receiving and Spending Money](how-it-works/basics/README.md)
   * [Invoices vs. Reimbursements](how-it-works/basics/invoices-vs.-reimbursements.md)
 * [Making Financial Contributions (Sponsoring)](how-it-works/supporting-projects/README.md)

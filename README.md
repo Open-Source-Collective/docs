@@ -25,7 +25,7 @@ We take care of all the accounting, taxes, invoices, and administration. You dec
 * And [much more...](what-we-offer/)&#x20;
 
 {% hint style="success" %}
-**Check out our** [**eligibility criteria**](getting-started/acceptance-criteria/) **and** [**apply today**](https://opencollective.com/create/opensource)**.**
+**Check out our** [**eligibility criteria**](getting-started/acceptance-criteria.md) **and** [**apply today**](https://opencollective.com/create/opensource)**.**
 {% endhint %}
 
 ### For Sponsors
