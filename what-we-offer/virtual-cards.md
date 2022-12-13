@@ -28,7 +28,7 @@ Virtual Cards can be issued to hosted Collectives for paying recurring payments,
 #### If you need to input Cardholder contact details/address:
 
 * **Name**: Open Source Collective
-* **Address**: 340 S. Lemon Avenue, #3717Walnut, California, 91789-2706, USA.
+* **Address**: 440 N Barranca Ave #3717 Covina, CA 91723&#x20;
 
 ## Steps
 
