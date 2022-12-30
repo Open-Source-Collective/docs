@@ -9,13 +9,11 @@ Founding Director and strategic advisor
 **Richard Littauer**\
 Community Development Manager
 
-**Lauren Gardner**
+**Lauren Gardner**\
+****Head of Operations
 
-Head of Operations
-
-**Ronen Hirsch**
-
-Senior Product Manager
+**Ronen Hirsch**\
+****Senior Product Manager
 
 **Alanna Irving**\
 Director and strategic advisor
@@ -23,13 +21,11 @@ Director and strategic advisor
 **Alina Manko**\
 Operations, support, and admin
 
-**Ember Buck**
+**Ember Buck**\
+****Operations, support, and admin
 
-Operations, support, and admin
-
-**Shannon Wray**&#x20;
-
-Support, Documentation and Marketing&#x20;
+**Shannon Wray** \
+****Support, Documentation and Marketing&#x20;
 
 
 

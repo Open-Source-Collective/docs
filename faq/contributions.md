@@ -18,7 +18,15 @@ If a donor is not comfortable with online credit card transactions, they can sen
 
 #### Someone said they sent my collective money but I don’t see it in my account! Help?
 
-If you’re a collective, ping us! We often receive money into our bank account without any indication of where it should go. (This is why it's so important to include the name of the collective in any correspondence/check/transfer that gets sent to OSC). We don't use/disperse that money anywhere until we know who its for, so it just sits in our account until someone claims it., Just send us a message (via[ Slack](http://slack.opencollective.com) or [email](https://docs.oscollective.org/about/contact)) with screenshots/receipts that include the dollar amount, the collective name and the sender/any info about the bank transfer, so that we may get your funds to you.
+#### \~or\~
+
+#### I sent in money but I don't see my donation on the collective's page?!
+
+Ping us! We often receive money in our bank account without any indication of where it should go. (This is why it's so important to include the order# in the bank transfer).&#x20;
+
+At the end of the month, unidentified funds are moved to a [holding fund](https://opencollective.com/osc-holding). We keep the money there until we can identify who it is intended for and then we transfer it.
+
+Just send us a message (via[ Slack](http://slack.opencollective.com) or [email](https://docs.oscollective.org/about/contact)) with screenshots/receipts that include the dollar amount, the collective name, and the sender/any info about the bank transfer, so that we can send the funds to their happy home.
 
 #### What if a financial contributor requests a donation invoice?
 
@@ -26,7 +34,7 @@ Reach out to us at hello@oscollective.org. We are happy to procure an invoice of
 
 #### Can we use outside fundraising platforms to fundraise for our collective?
 
-We recommend using Open Collective as much as possible so that you can manage your full budget in one place, but you may use other platforms to raise funds for your community. In some cases we may be able to accept payments from third party platforms like Patreon, GoFundMe, Kofi, etc. directly. To set up something like that, reach out to us at hello@oscollective.org.
+We recommend using Open Collective as much as possible so that you can manage your full budget in one place, but you may use other platforms to raise funds for your community. In some cases, we may be able to accept payments from third-party platforms like Patreon, GoFundMe, Kofi, etc. directly. To set up something like that, reach out to us at hello@oscollective.org.
 
 {% hint style="info" %}
 If you’re interested in taking advantage of our partnership with GitHub Sponsors, [please see our guide to connecting Sponsors](https://docs.oscollective.org/getting-started/github-sponsors) with your collective.
