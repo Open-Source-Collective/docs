@@ -32,9 +32,14 @@ Just send us a message (via[ Slack](http://slack.opencollective.com) or [email](
 
 Reach out to us at hello@oscollective.org. We are happy to procure an invoice of this kind when requested. Please be ready to provide: Donor name, Email, Collective Name, & Donation amount (+ screenshots/links if applicable) for context.
 
+#### Can we accept tax-deductible or charitable funds from things like Benevity?
+
+No, Open Source Collective is a 501c6 nonprofit (for member benefit). Benevity earmarks its funds for 501c3 nonprofits that use their funds for public benefit.
+
 #### Can we use outside fundraising platforms to fundraise for our collective?
 
-We recommend using Open Collective as much as possible so that you can manage your full budget in one place, but you may use other platforms to raise funds for your community. In some cases, we may be able to accept payments from third-party platforms like Patreon, GoFundMe, Kofi, etc. directly. To set up something like that, reach out to us at hello@oscollective.org.
+We recommend using Open Collective as much as possible so that you can manage your budget in one place, but you may use other platforms to raise funds for your community. \
+At this time, we can not accept payments from third-party platforms like Patreon, GoFundMe, Kofi, etc. directly. You would need to move this money into OSC manually. Reach out to us at hello@oscollective.org with any questions on how to do this.
 
 {% hint style="info" %}
 If you’re interested in taking advantage of our partnership with GitHub Sponsors, [please see our guide to connecting Sponsors](https://docs.oscollective.org/getting-started/github-sponsors) with your collective.
