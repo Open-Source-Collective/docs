@@ -15,7 +15,6 @@ Virtual Cards can be issued to hosted Collectives for paying recurring payments,
 
 ## **Requirements / Policy:**
 
-* Collectives must have a minimum of 2 admin members
 * These are **virtual cards.** No physical card will be issued, so these cannot be used in-store.
 * Receipts must be submitted within 30 days. If a receipt is not submitted within 30 days, the card access will be paused until you do submit the receipt
   * The card's Assignee is responsible for collecting and uploading the receipts.&#x20;
