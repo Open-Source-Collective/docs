@@ -25,13 +25,11 @@ A world in which it is as rewarding and financially secure to build and maintain
 
 ## Strategy
 
-In January 2022 we [published our strategy](https://blog.opencollective.com/open-source-collectives-strategy-2022-2025/) which included three strategic goals:
+In January 2022 we [published our strategy](https://blog.opencollective.com/open-source-collectives-strategy-2022-2025/) which included three strategic goals to help us deliver on our mission:
 
 > Taking an ecosystem-wide approach to supporting open source software\
 > \
 > Enabling projects to use their money as well as raise it\
 > \
-> Make financially contributing to open source not only a good business decision, but an easy one
-
-We continue to iterate on our strategy, and we welcome feedback on our work, see contact details below.&#x20;
+> Make financially contributing to open source not only a good business decision but an easy one
 
