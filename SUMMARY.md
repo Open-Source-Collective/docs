@@ -2,6 +2,7 @@
 
 * [Welcome!](README.md)
   * [Is OSC right for me?](readme/is-osc-right-for-me.md)
+* [Mission, Values & Strategy](mission-values-and-strategy.md)
 * [What We Offer](what-we-offer/README.md)
   * [Fiscal Hosting](what-we-offer/fiscal-hosting.md)
   * [Our Platform](what-we-offer/our-platform.md)
@@ -36,7 +37,6 @@
 ## About
 
 * [What is OSC?](what-is-osc.md)
-* [Mission, Values & Strategy](about/mission-values-and-strategy.md)
 * [Official Info & Docs](about/official-info-and-docs.md)
 * [Our Team](about/team.md)
 * [Logo & Brand Assets](about/logo-and-brand-assets.md)
