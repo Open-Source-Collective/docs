@@ -1,10 +1,14 @@
+---
+description: The Mission, Values and Strategy of Open Source Collective
+---
+
 # Mission, Values & Strategy
 
-## Our Mission
+## Mission
 
-Open Source Collective mission is to promote a sustainable and healthy open source ecosystem and work for the common interests of those who create and use open source software.
+Our mission is to promote a sustainable and healthy open source ecosystem and work for the common interests of those who create and use open source software.
 
-## Our Values
+## Values
 
 **Impact**: we are not a neutral platform\
 **Collectivity**: we are building collective power\
@@ -15,7 +19,7 @@ Open Source Collective mission is to promote a sustainable and healthy open sour
 **Dignity**: we treat others with respect\
 **Sustainability and resilience**: we are here for the long haul
 
-## Our Strategy
+## Strategy
 
 In January 2022 we [published our strategy](https://blog.opencollective.com/open-source-collectives-strategy-2022-2025/) which included three strategic goals:
 
