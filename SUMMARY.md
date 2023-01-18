@@ -36,6 +36,7 @@
 ## About
 
 * [What is OSC?](what-is-osc.md)
+* [Mission, Values & Strategy](about/mission-values-and-strategy.md)
 * [Official Info & Docs](about/official-info-and-docs.md)
 * [Our Team](about/team.md)
 * [Logo & Brand Assets](about/logo-and-brand-assets.md)
