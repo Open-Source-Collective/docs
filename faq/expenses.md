@@ -47,6 +47,7 @@ _**Note:** _&#x20;
 
 * We can only issue refunds to the original source of payment used for the transaction. If the account you used for the original transaction is closed or the card you used is now expired, we can not issue a refund to another form of payment.
 * Refunds may take 1-2 billing cycles to appear on your credit card statement, depending on your credit card company. We will notify you by email when your return has been processed.
+* We can not issue refunds on donations made with cryptocurrency.
 
 ## Taxes
 
