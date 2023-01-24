@@ -29,7 +29,7 @@ Use[ reimbursements](https://docs.opencollective.com/help/expenses-and-getting-p
 
 ### FAQs
 
-#### What type of expense do I create for Upwork payments?
+#### What type of expense do I create for Upwork or Fiverr payments?
 
-You can create a _reimbursement_ or use a _Virtual Card_ for regular Upwork services. This is because [Upwork issues a 1099](https://support.upwork.com/hc/en-us/articles/211063958-Report-Income-from-Upwork) for their contractors/users. &#x20;
+You can create a _reimbursement_ or use a _Virtual Card_ for payment. This is because both [Fiverr](https://www.fiverr.com/support/articles/360011135837-W-9-Collection?segment=seller) and [Upwork issues a 1099](https://support.upwork.com/hc/en-us/articles/211063958-Report-Income-from-Upwork) for their contractors/users. &#x20;
 
