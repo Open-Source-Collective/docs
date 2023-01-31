@@ -12,17 +12,8 @@ Community Development Manager
 **Lauren Gardner**\
 ****Head of Operations
 
-**Ronen Hirsch**\
-****Senior Product Manager
-
 **Alanna Irving**\
 Director and strategic advisor
-
-**Alina Manko**\
-Operations, support, and admin
-
-**Ember Buck**\
-****Operations, support, and admin
 
 **Shannon Wray** \
 ****Support, Documentation and Marketing&#x20;
