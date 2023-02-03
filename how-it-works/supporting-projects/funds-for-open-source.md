@@ -19,19 +19,17 @@ Here are examples:
 
 ### Why should I create a Fund?
 
-If your organisation has multiple funding programs, you have a strong identity for your funding program, you would like to collaborate with other organisations to fund projects, or you simply want to access deposited funds with minimal overhead Funds are for you.&#x20;
+If your organization has multiple funding programs, you want a strong identity for your funding program, or you want to simplify the invoicing process around funding open source projects - Funds are for you.&#x20;
+
+#### Simplify invoicing
+
+Instead of managing multiple invoices/POs for donations to multiple projects or even to one project over multiple months, you can request one invoice to cover all your funding needs and hold the balance in your account on Open Collective.&#x20;
 
 #### Your money, on-demand
 
-Funds are accessible to administrators as a funding source when making contributions within the Open Collective platform.&#x20;
+You decide when and how to support projects with your fund, we handle the payments, accounting, and legal processes.&#x20;
 
-#### Support any project anywhere
-
-You don’t have to be on Open Collective or hosted by OSC to receive payment from a fund.&#x20;
-
-#### You're in the driving seat&#x20;
-
-You decide when and how to support projects with your fund, we handle the payments, accounting and legal processes.&#x20;
+You can even use the balance in your fund to contribute to projects that are not hosted on the Open Collective platform by [inviting a third party to submit an expense!](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses/nviting-a-third-party-to-submit-an-expense)
 
 ### Creating a Fund
 
@@ -61,6 +59,8 @@ Projects and individuals can request a grant directly from a Fund's profile page
 
 ### Fees
 
-Open Source Collective charges a fixed 10% fee on all contributions received. i.e. we do not charge an additional 10% to Collectives once contributions are made.&#x20;
+Open Source Collective charges a fixed 10% fee on all contributions received into the platform.&#x20;
+
+For funds, this means the 10% host fee is collected when a deposit is made into the fund. This is different from a user account where the 10% fee is collected when the donation is made to the open source project and comes out of the donation amount. This fee is only collected once so donations from a fund to a collective do not incur additional fees.&#x20;
 
 [Read more about our fees.](../fees.md)
