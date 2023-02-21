@@ -67,6 +67,10 @@ Open Source Collective provides virtual cards to Collectives on request. Virtual
 
 [Click here for more information about virtual cards.](../../what-we-offer/virtual-cards.md)
 
+### Paying Upwork or Fiverr contractors
+
+You can create a _reimbursement_ or use a _Virtual Card_ for payment to both of these services. Both [Fiverr](https://www.fiverr.com/support/articles/360011135837-W-9-Collection?segment=seller) and [Upwork issue a 1099](https://support.upwork.com/hc/en-us/articles/211063958-Report-Income-from-Upwork) for their contractors/users. &#x20;
+
 ## Policies and Limitations
 
 {% hint style="info" %}

@@ -62,9 +62,3 @@ A **valid receipt** contains:
 5. The currency in question. This is normally clear from the address and the currency symbol. &#x20;
 6. Form of payment (cash, check, or last four digits of the credit card)
 
-### FAQs
-
-#### What type of expense do I create for Upwork or Fiverr payments?
-
-You can create a _reimbursement_ or use a _Virtual Card_ for payment. This is because both [Fiverr](https://www.fiverr.com/support/articles/360011135837-W-9-Collection?segment=seller) and [Upwork issues a 1099](https://support.upwork.com/hc/en-us/articles/211063958-Report-Income-from-Upwork) for their contractors/users. &#x20;
-
