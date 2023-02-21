@@ -1,5 +1,5 @@
 ---
-description: FAQs on when you should choose between the two different expense types.
+description: When you should choose between the two different expense types.
 ---
 
 # Invoice and Reimbursement Examples
@@ -10,16 +10,16 @@ description: FAQs on when you should choose between the two different expense ty
 
 ### Invoices must meet the following criteria to be paid:
 
-* Must have a description of the work done & hours or time/duration spent on work.&#x20;
+* Must have a description of the work done, and the amount of time (normally in hours) spent on work.&#x20;
 * The payee must include their billing address.
-* The Payee's name must match the billing contact.
-* For any invoice over 5k
-  * the payee can’t be the approver and&#x20;
-  * the payee must be a verified user or provide a form of banking integration
+* The payee's name must match the billing contact.
+* For any invoice over $5000USD:
+  * the payee can’t be the one who approved the expense (unless they are the sole admin) and;&#x20;
+  * the payee must be a verified user or provide a form of banking integration.
 
 Invoices need a clear description of services rendered and provide sufficient detail to make it clear what the collective is paying for.&#x20;
 
-We may mark an invoice incomplete and follow up on invoices that just say "payment" or lack an explanation of the work performed.
+We may mark an invoice incomplete and follow up on invoices that just say "Payment" or which lack an explanation of the work performed.
 
 #### Examples
 
@@ -51,15 +51,16 @@ Or you can create one invoice for the total and attach your own invoice or time 
 
 Use[ reimbursements](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#reimbursements) to pay for purchases, donations, or subscriptions made on behalf of the collective.
 
-Receipts are required so that we can ensure the requested amount matches the purchased amount in order to approve the reimbursement
+Receipts are required so that we can ensure the requested amount matches the purchased amount in order to approve the reimbursement.
 
 A **valid receipt** contains:
 
 1. Name of the vendor (person or company you paid) &#x20;
 2. Transaction date (when you paid) &#x20;
 3. A detailed description of goods or services purchased (what you bought) &#x20;
-4. Amount paid &#x20;
-5. Form of payment (cash, check, or last four digits of the credit card)
+4. Amount paid
+5. The currency in question. This is normally clear from the address and the currency symbol. &#x20;
+6. Form of payment (cash, check, or last four digits of the credit card)
 
 ### FAQs
 
