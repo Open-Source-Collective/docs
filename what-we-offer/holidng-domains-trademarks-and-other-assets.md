@@ -58,6 +58,8 @@ If you have the budget and wish to register in multiple countries, you can, but 
 
 The vast majority of trademark issues are resolved without going to court, so you don’t necessarily need to have a trademark registered in the country where the infringer lives in order to achieve some degree of compliance.
 
+If you register your trademark in non-US countries, Chestek Legal will coordinate with lawyers in those countries to perform the services on your behalf. Their fees will be billed to you without any markup.
+
 #### What are trademark guidelines?
 
 We include help creating your trademark guidelines in our service because it’s an important part of the process. These guidelines are normally hosted on your website, repo, or Collective page, and they help people understand how they can and cannot use your name and/or logo, and how your trademark interacts with your open source license.&#x20;
