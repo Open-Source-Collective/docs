@@ -20,7 +20,9 @@ OSC
 
 ### Address & Contact Info
 
-340 S Lemon Ave #3717, Walnut CA 91789 USA
+Open Source Collective 501(c)(6)\
+440 N. Barranca Avenue, #3717\
+Covina, CA 91723
 
 `hello@oscollective.org`
 

@@ -22,12 +22,12 @@ We take care of invoices, bank transfers, tax filings, contracts, and legal issu
 
 In addition to being our projects' legal and financial home, we provide:
 
-* Fundraising, budgeting, and grantmaking tools.
-* Backend integration with other fundraising platforms, like GitHub Sponsors.&#x20;
-* Virtual debit cards linked to your project’s balance that you can use online.
-* Administrative support for organizations participating in funding campaigns or support programs.&#x20;
-* Vendor registration and invoicing on behalf of corporate supporters.
-* Register and hold trademarks on behalf of your project.
+* Fundraising, budgeting, and grantmaking tools. [More.](../how-it-works/basics/)
+* Backend integration with other fundraising platforms, like GitHub Sponsors. [More](../campagins-programs-and-partnerships/github-sponsors.md).
+* Virtual debit cards linked to your project’s balance that you can use online. [More.](virtual-cards.md)
+* Administrative support for organizations participating in funding campaigns or support programs. [More.](broken-reference)
+* Vendor registration and invoicing on behalf of corporate supporters. [More](../how-it-works/supporting-projects/purchase-orders-and-procurement.md).
+* Register and hold trademarks on behalf of your project. [More](holidng-domains-trademarks-and-other-assets.md).
 
 ### Representation and unity &#x20;
 
@@ -52,7 +52,7 @@ Whether you lead an open source project or a team looking to sponsor projects, w
 Through us you can:
 
 * Manage the financial support of multiple open source projects in a single place with Open Source Collective acting as a single ‘supplier’ to your organization.
-* Support projects instantly on a one-time or recurring basis using a credit card, PayPal, or electronic bank transfer.
-* Hold funds with us in a dedicated 'pool' to cover your contributions throughout the year.
-* Issue gift cards to your staff, which can be used to contribute on behalf of your organization.
+* Support projects instantly on a one-time or recurring basis using a credit card, PayPal, or electronic bank transfer. [More.](../how-it-works/supporting-projects/#credit-card-paypal-or-bank-transfer)
+* Hold funds with us in a dedicated 'pool' to cover your contributions throughout the year. [More.](../how-it-works/supporting-projects/funds-for-open-source.md)
+* Issue gift cards to your staff, which can be used to contribute on behalf of your organization.&#x20;
 
