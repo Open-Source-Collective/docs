@@ -30,7 +30,7 @@ Maintainer activities, of course, aim to keep a project going; we want to avoid 
 
 Consider this diagram of how people flow through a project:
 
-<figure><img src="../.gitbook/assets/People Flow (2).png" alt=""><figcaption></figcaption></figure>
+![People Flow diagram](assets/people-flow.jpg)
 
 You can encourage healthy movement with steps such as:
 
