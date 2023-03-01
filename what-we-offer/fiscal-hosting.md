@@ -42,7 +42,7 @@ As a 501c6 we are not a registered charity so we do not offer tax-deductible don
 
 #### Geography Specific Hosts
 
-If you are based in Europe, need to handle VAT reporting and would like European legal protection for your project you may want to apply to [Open Collective Europe](https://opencollective.com/oceu).
+If you are based in Europe, need to handle VAT reporting and would like European legal protection for your project you may want to apply to [Open Collective Europe](https://opencollective.com/europe).
 
 If you're based in New Zealand and need a host to manage GST reporting you may want to look at [Open Collective NZ](https://opencollective.com/ocnz)
 

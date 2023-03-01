@@ -22,9 +22,9 @@ If you are a US-based project with an explicitly charitable mission, and you wis
 
 If you submit invoice expenses totaling $600 USD or more per year, you will need to provide us your W9 (for US persons) or W8-BEN/E (for non-US persons) form. Receipt reimbursements don't count toward the $600 limit, only invoices.
 
-When you submit an invoice that puts you over the $600 threshold, you will be sent an email with a link to complete your tax form online. This email will come from HelloWorks and say "Open Collective has requested you to review and complete the Open Collective Tax Form".
+When you submit an invoice that puts you over the $600 threshold, you will be sent an email with a link to complete your tax form online. This email will come from Dropbox Forms and say "Open Collective sent you a request via Dropbox Forms".
 
-![](<../.gitbook/assets/Screen Shot 2021-04-19 at 4.48.10 PM (1).png>)
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-04 at 10.16.51 AM (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Your invoice will not be paid until the tax form has been submitted.

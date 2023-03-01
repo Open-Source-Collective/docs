@@ -47,6 +47,7 @@ _**Note:** _&#x20;
 
 * We can only issue refunds to the original source of payment used for the transaction. If the account you used for the original transaction is closed or the card you used is now expired, we can not issue a refund to another form of payment.
 * Refunds may take 1-2 billing cycles to appear on your credit card statement, depending on your credit card company. We will notify you by email when your return has been processed.
+* We can not issue refunds on donations made with cryptocurrency.
 
 ## Taxes
 
@@ -54,9 +55,9 @@ _**Note:** _&#x20;
 
 Open Source Collective must collect[ tax forms](https://docs.opencollective.com/help/expenses-and-getting-paid/tax-information#info-for-expense-submitters-getting-paid) for any individual who invoices (this does not apply to reimbursements) over $600 in a single calendar year. Those individuals will be automatically issued a 1099.
 
-When you submit an expense that puts you over the $600 threshold, you will be sent an email with a link to complete your tax form online. This email will come from HelloWorks and say "Open Collective has requested you to review and complete the Open Collective Tax Form".
+When you submit an expense that puts you over the $600 threshold, you will be sent an email with a link to complete your tax form online. This email will come from Dropbox Forms and say "Open Collective sent you a request via Dropbox Forms".
 
-![](https://lh4.googleusercontent.com/jYSwpNVkLYfrDUSWOKjOd4c6QffNtacb-gexnEtPto\_dtRxtOUW7LK3cDf6V-ggUZaUfDtIe53TbREAzWpPpXl4ryNV\_PSmk-\_dD4szpdzlz8igB3sar2kyndiF54-rqdsth5Jw)
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-04 at 10.16.51 AM.png" alt=""><figcaption></figcaption></figure>
 
 Expenses will not be paid out to you until you submit the tax form.
 

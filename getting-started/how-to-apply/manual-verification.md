@@ -2,7 +2,7 @@
 
 If your project is not centred on a Github repository, or you can't get the automated verification system to work, you can request manual verification.
 
-1. Ensure your project meets the [acceptance criteria](../acceptance-criteria.md).
+1. Ensure your project meets the [acceptance criteria](../acceptance-criteria/).
 2. Go to [https://opencollective.com/opensource/apply](https://opencollective.com/opensource/apply)
 3. Agree to the terms of fiscal sponsorship
 4. Click 'Request manual verification'
