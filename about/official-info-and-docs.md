@@ -14,9 +14,7 @@ You may provide this information to anyone who asks for it (sometimes sponsors o
 
 Our EIN (tax ID number) is: **82-2037583**.
 
-{% file src="../.gitbook/assets/fw9 Open Source Collective 501c6.pdf" %}
-OSC
-{% endfile %}
+{% file src="../.gitbook/assets/OSC fw9 2022.pdf" %}
 
 ### Address & Contact Info
 
@@ -28,7 +26,7 @@ Covina, CA 91723
 
 ### Banking Info
 
-All transactions should be set up on Open Collective wherever possible. If someone makes a contribution and selects 'bank transfer' as the payment method, they will automatically receive these details.&#x20;
+All transactions should be set up on Open Collective wherever possible. If someone makes a contribution and selects 'bank transfer' as the payment method, they will automatically receive these details. However, if you need our banking info, please contact us directly at  hello@oscollective.org.
 
 However, if you need our banking information to initiate a transfer, please contact us at  hello@oscollective.org.
 

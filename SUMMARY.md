@@ -6,6 +6,7 @@
 * [What We Offer](what-we-offer/README.md)
   * [Fiscal Hosting](what-we-offer/fiscal-hosting.md)
   * [Our Platform](what-we-offer/our-platform.md)
+  * [Employment, Payroll and Benefits](what-we-offer/employment-payroll-and-benefits.md)
   * [Virtual Cards](what-we-offer/virtual-cards.md)
   * [Trademark Registration and Holding](what-we-offer/holidng-domains-trademarks-and-other-assets.md)
   * [Domain Transfers and Registration](what-we-offer/domain-transfers-and-registration.md)
