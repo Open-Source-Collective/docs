@@ -40,7 +40,11 @@ A trademark registration will help you stop those who put out a bad product, or 
 
 #### Do I need to renew the trademark or will it expire?
 
-Trademark protections are typically renewed on a five-year (first renewal) or ten-year basis. Unless otherwise notified we will renew your trademarks and invoice your Collective when needed. If you Collective does not have sufficient funds to renew we will notify you as soon as possible and work with you to establish a successor or let the trademark lapse.&#x20;
+Unless otherwise notified we will renew your trademarks and invoice your Collective when needed. If you Collective does not have sufficient funds to renew we will notify you as soon as possible and work with you to establish a successor or let the trademark lapse.&#x20;
+
+Depending on the type of maintenance filings, the USPTO charges either $425 or $525 per class in the registration. Our fee to prepare and file the maintenance documents is $450.&#x20;
+
+Maintenance filings are due 6 years after registration and 10 years after registration. Once you make the filing for the 10 years, the maintenance is due every 10 years after that.
 
 #### What happens if someone is infringing my trademark?&#x20;
 
