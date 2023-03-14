@@ -12,7 +12,9 @@ We are a registered 501(c)(6) non-profit in the United States, meaning our incom
 
 You may provide this information to anyone who asks for it (sometimes sponsors or grantmakers will request it).
 
-Our EIN (tax ID number) is: **82-2037583**.
+Our EIN (tax ID number) is: **82-2037583**
+
+OSC’s NAICS code is [813910](https://www.naics.com/naics-code-description/?code=813910) &#x20;
 
 {% file src="../.gitbook/assets/OSC fw9 2022.pdf" %}
 
