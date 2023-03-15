@@ -26,6 +26,8 @@ Covina, CA 91723
 
 `hello@oscollective.org`
 
+phone: ‪(802) 695-0005‬
+
 ### Banking Info
 
 All transactions should be set up on Open Collective wherever possible. If someone makes a contribution and selects 'bank transfer' as the payment method, they will automatically receive these details. However, if you need our banking info, please contact us directly at  hello@oscollective.org.
