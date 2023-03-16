@@ -10,6 +10,7 @@
   * [Virtual Cards](what-we-offer/virtual-cards.md)
   * [Trademark Registration and Holding](what-we-offer/holidng-domains-trademarks-and-other-assets.md)
   * [Domain Transfers and Registration](what-we-offer/domain-transfers-and-registration.md)
+  * [Grants for Conference Attendance](what-we-offer/grants-for-conference-attendance.md)
 
 ## Getting Started
 
