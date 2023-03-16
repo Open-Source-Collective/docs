@@ -1,9 +1,9 @@
 # Grants for Conference Attendance
 
-We supporting open source maintainers to attend **non-technical conferences** with free/subsidized tickets.  __  [_Read more_ ](https://opencollective.com/opensource/updates/subsidising-confrence-and-events-for-open-source-maintainers-inc-foss-backstage-17-18th-march)about our decision and the types of conferences that are supported.
+We're delighted to offer support to open source maintainers who are interested in attending non-technical conferences. We recognize that many maintainers find themselves in a leadership role within their community but may not have the necessary resources to expand their knowledge outside of technical areas. We believe that by attending these events, maintainers can improve their project management skills and become more well-rounded leaders.
 
-We believe that many maintainers inherit a position of 'community leader' and have little support for expanding their knowledge in non-technical directions and that this could greatly improve their ability to manage their projects.\
-\
-We encourage projects to use their Collective budget to reimburse members of their community for events like these. _If your collective doesn't have the funds to do so, we'll cover it._&#x20;
+We also encourage collectives to use their budget to reimburse their members for attending such events. However, we understand that not all collectives have the financial means to do so. In such cases, **we're happy to cover the costs**.&#x20;
 
-Apply for funding [here](https://opencollective.com/conferences) by submitting an expense from your collective and make sure to attach the cost of the ticket.
+To apply for funding, simply submit an expense [(here)](https://opencollective.com/conferences) from your collective and make sure to include the cost of the ticket.&#x20;
+
+You can find more information about our decision and the types of conferences we support on our [announcement here](https://opencollective.com/opensource/updates/subsidising-confrence-and-events-for-open-source-maintainers-inc-foss-backstage-17-18th-march).
