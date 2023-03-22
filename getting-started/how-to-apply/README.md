@@ -44,7 +44,7 @@ If your collective is currently with another organization that does not use Open
 Please be sure to communicate your plans to us [within your application](https://opencollective.com/create/opensource) and your current organisation in advance of your application to ensure a smooth transition.&#x20;
 
 {% hint style="success" %}
-Contact us at hello@oscollective.com to ensure we can support you quickly and appropriately.
+Contact us at hello@oscollective.org to ensure we can support you quickly and appropriately.
 {% endhint %}
 
 Once you have tied up any loose ends with your current host, they can transfer the funds to us electronically. We can issue an invoice to them and sign agreements if needed. Our normal[ fees](https://docs.oscollective.org/getting-started/fees) apply to funds transferred in.
