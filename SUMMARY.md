@@ -8,6 +8,7 @@
   * [Our Platform](what-we-offer/our-platform.md)
   * [Employment, Payroll and Benefits](what-we-offer/employment-payroll-and-benefits.md)
   * [Virtual Cards](what-we-offer/virtual-cards.md)
+  * [Signing Contracts and Entering Into Legal Agreements](what-we-offer/contracts-with-third-parties.md)
   * [Trademark Registration and Holding](what-we-offer/holidng-domains-trademarks-and-other-assets.md)
   * [Domain Transfers and Registration](what-we-offer/domain-transfers-and-registration.md)
   * [Grants for Conference Attendance](what-we-offer/grants-for-conference-attendance.md)
@@ -27,7 +28,6 @@
 * [Making Financial Contributions (Sponsoring)](how-it-works/supporting-projects/README.md)
   * [Purchase Orders and Procurement](how-it-works/supporting-projects/purchase-orders-and-procurement.md)
   * [Funds](how-it-works/supporting-projects/funds-for-open-source.md)
-* [Signing Contracts and Entering Into Legal Agreements](how-it-works/contracts-with-third-parties.md)
 * [Tax and Accounting](how-it-works/tax-info.md)
 * [Fees](how-it-works/fees.md)
 
