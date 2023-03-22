@@ -87,7 +87,7 @@ We continue to iterate on our strategy, and we welcome feedback on our work, see
 
 Didn’t find what you are looking for? :mag: Use the Search Bar in the upper right corner!
 
-:love\_letter:Email us at [contact@oscollective.com](mailto:contact@oscollective.com)
+:love\_letter:Email us at [contact@oscollective.org](mailto:contact@oscollective.org)
 
 🎟  Request support at [support@oscollective.org](mailto:support@opencollective.com)
 
