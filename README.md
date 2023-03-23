@@ -45,7 +45,7 @@ Support the open source projects you rely on. See how projects are using their f
 
 Didn’t find what you are looking for? :mag: Use the Search Bar in the upper right corner!
 
-:love\_letter:Email us at [contact@oscollective](mailto:contact@oscollective.com).org
+:love\_letter:Email us at [contact@oscollective.org](mailto:contact@oscollective.org)
 
 :speech\_balloon:Join [our Slack](https://slack.opencollective.com/) and find us in the #ocf channel
 

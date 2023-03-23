@@ -22,11 +22,6 @@ In addition to being our projects' legal and financial home, we provide:
 * Administrative support for organizations participating in funding campaigns or support programs. [More.](broken-reference)
 * Vendor registration and invoicing on behalf of corporate supporters. [More](../how-it-works/supporting-projects/purchase-orders-and-procurement.md).
 * Register and hold trademarks on behalf of your project. [More](holidng-domains-trademarks-and-other-assets.md).
-* Provide fundraising, budgeting and grantmaking tools
-* Integrate with GitHub Sponsors, adding your sponsors to your balance each month.
-* Register as a vendor to and invoice your corporate supporters
-* Register and hold trademarks on behalf of your project
-* Provide virtual debit cards linked to your project’s balance that you can use online
 
 ### Representation and unity &#x20;
 
