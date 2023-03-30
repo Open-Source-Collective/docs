@@ -8,7 +8,7 @@
 
 🌱 Read the latest[ Updates from OSC](https://opencollective.com/opensource/updates) on our page and on the[ Open Collective Blog](https://blog.opencollective.com)
 
-:bird:Follow us on[ Twitter](https://twitter.com/opencollect),[ Instagram](https://www.instagram.com/opencollective/),[ Youtube](https://www.youtube.com/c/OpenCollective), and[ Facebook](https://www.facebook.com/OpenCollect)
+:bird:Follow us on [Twitter](https://twitter.com/OpenSourceColl), [Youtube](https://www.youtube.com/channel/UC44Sz3HbmtxErhyruW7GHhg), and [Linkedin](https://www.linkedin.com/company/opensourcecollective/?viewAsMember=true)
 
 📍 Our [mailing address & Other Important Docs](official-info-and-docs.md)
 
