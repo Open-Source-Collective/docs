@@ -16,7 +16,7 @@
 
 💌 Email any OSC-specific questions to [hello@oscollective.org](mailto:hello@oscollective.org)&#x20;
 
-🎟  Request platform support at [support@oscollective.org](mailto:support@opencollective.com)
+🎟  Request platform support [here](https://opencollective.com/help)
 
 💬 Join our [Slack](https://slack.opencollective.com/) to get in touch with the entire Open Collective community (& join in the #opensource channel)
 
