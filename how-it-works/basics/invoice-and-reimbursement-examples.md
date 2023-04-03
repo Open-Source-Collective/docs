@@ -51,7 +51,7 @@ Or you can create one invoice for the total and attach your own invoice or time 
 
  
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-02-17 at 7.57.00 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-02-17 at 7.57.00 PM (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

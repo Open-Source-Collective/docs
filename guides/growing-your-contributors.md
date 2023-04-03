@@ -4,7 +4,7 @@ _This is a guide based on an Open Source Collective workshop led by Sumana Harih
 
 ### First, an overview: engagement/retention funnel
 
-![A figure showing the contributor funnel, with more users, fewer contributions, even fewer maintainers, and ultimately a large emerita base. Along the way, attrition lessens the pipeline, with the crux of the funnel being the maintainers.](<../.gitbook/assets/People Flow.png>)
+![A figure showing the contributor funnel, with more users, fewer contributions, even fewer maintainers, and ultimately a large emerita base. Along the way, attrition lessens the pipeline, with the crux of the funnel being the maintainers.](<../.gitbook/assets/People Flow (1) (1) (1).png>)
 
 Here's a diagram describing how open source projects engage, retain, and lose people. You may recognize this as an "engagement funnel"; projects attract users, some of whom convert into contributors, and some of those convert into maintainers. (This diagram oversimplifies; some contributors were not initially users.) And eventually, maintainers leave or step down; some of them disappear while some remain in the project spaces.
 

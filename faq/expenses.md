@@ -58,7 +58,7 @@ Open Source Collective must collect[ tax forms](https://docs.opencollective.com/
 
 When you submit an expense that puts you over the $600 threshold, you will be sent an email with a link to complete your tax form online. This email will come from Dropbox Forms and say "Open Collective sent you a request via Dropbox Forms".
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-11-04 at 10.16.51 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-04 at 10.16.51 AM (1).png" alt=""><figcaption></figcaption></figure>
 
 Expenses will not be paid out to you until you submit the tax form.
 
