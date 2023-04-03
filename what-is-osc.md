@@ -87,11 +87,11 @@ We continue to iterate on our strategy, and we welcome feedback on our work, see
 
 Didn’t find what you are looking for? :mag: Use the Search Bar in the upper right corner!
 
-:love\_letter:Email us at [contact@oscollective.com](mailto:contact@oscollective.com)
+:love\_letter: Email us at [contact@oscollective.org](mailto:contact@oscollective.org)
 
-🎟  Request support at [support@oscollective.org](mailto:support@opencollective.com)
+🎟 Request support at [support@oscollective.org](mailto:support@opencollective.com)
 
-:speech\_balloon:Join [our Slack](https://slack.opencollective.com/) and find us in the #opensource channel
+:speech\_balloon: Join [our Slack](https://slack.opencollective.com/) and find us in the #opensource channel
 
 :bird: Follow us on[ Twitter](https://twitter.com/opencollect),[ Instagram](https://www.instagram.com/opencollective/),[ Youtube](https://www.youtube.com/c/OpenCollective), and[ Facebook](https://www.facebook.com/OpenCollect)
 
