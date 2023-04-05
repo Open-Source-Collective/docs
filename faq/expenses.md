@@ -43,8 +43,9 @@ To initiate a return, please send an email to '[hello@oscollective.org](mailto:h
 1. The URL of the donation (e.g. [https://opencollective.com/opensource](https://opencollective.com/opensource)<mark style="color:blue;">/expenses/123456</mark>)
 2. The date and amount of the transaction
 
-_**Note:** _&#x20;
+_**Note:**_&#x20;
 
+* If a contribution was made with your authorisation (i.e. you were not the subject of fraud) and a refund would materially affect the Collective's activities and/or the contribution has already been used to further the cause of the project we reserve the right to deny your refund request.&#x20;
 * We can only issue refunds to the original source of payment used for the transaction. If the account you used for the original transaction is closed or the card you used is now expired, we can not issue a refund to another form of payment.
 * Refunds to credit cards take 1 to 3 days to process, but may take 1-2 billing cycles to appear on your credit card statement, depending on your credit card company.&#x20;
 * Refunds via Stripe Bank Transfer take 7 to 10 days to process.
