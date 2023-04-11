@@ -10,13 +10,13 @@ Founding Director and strategic advisor
 Community Development Manager
 
 **Lauren Gardner**\
-****Head of Operations
+Head of Operations
 
 **Alanna Irving**\
 Director and strategic advisor
 
 **Shannon Wray** \
-****Support, Documentation and Marketing&#x20;
+Support, Documentation and Marketing&#x20;
 
 
 

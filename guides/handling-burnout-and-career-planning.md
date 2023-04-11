@@ -30,7 +30,7 @@ Maintainer activities, of course, aim to keep a project going; we want to avoid 
 
 Consider this diagram of how people flow through a project:
 
-<figure><img src="../.gitbook/assets/People Flow (1) (1).png" alt="A figure showing the contributor funnel, with more users, fewer contributions, even fewer maintainers, and ultimately a large emerita base. Along the way, attrition lessens the pipeline, with the crux of the funnel being the maintainers."><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/People Flow (1) (1) (1).png" alt="A figure showing the contributor funnel, with more users, fewer contributions, even fewer maintainers, and ultimately a large emerita base. Along the way, attrition lessens the pipeline, with the crux of the funnel being the maintainers."><figcaption></figcaption></figure>
 
 You can encourage healthy movement with steps such as:
 

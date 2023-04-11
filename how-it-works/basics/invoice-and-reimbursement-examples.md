@@ -43,7 +43,11 @@ You could include the detail of the work done in the description field of each l
 
 </div>
 
-Or you can create one invoice for the total and attach your own invoice or time tracker to detail the work done. Here are examples of attachments.
+You could create one invoice for the total and attach your own invoice or time tracker to detail the work done. You do not need to attach your own invoice or time tracker, but it does make it easier for us.&#x20;
+
+Another thing you could do is note something like: "Maintenance on core for month of April, 2023."\
+\
+Here are examples of attachments:
 
 <div>
 
@@ -51,7 +55,7 @@ Or you can create one invoice for the total and attach your own invoice or time 
 
  
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-02-17 at 7.57.00 PM (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-02-17 at 7.57.00 PM.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

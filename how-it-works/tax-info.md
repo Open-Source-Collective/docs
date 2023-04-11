@@ -24,7 +24,7 @@ If you submit invoice expenses totaling $600 USD or more per year, you will need
 
 When you submit an invoice that puts you over the $600 threshold, you will be sent an email with a link to complete your tax form online. This email will come from Dropbox Forms and say "Open Collective sent you a request via Dropbox Forms".
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-11-04 at 10.16.51 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screen Shot 2022-11-04 at 10.16.51 AM (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Your invoice will not be paid until the tax form has been submitted.
