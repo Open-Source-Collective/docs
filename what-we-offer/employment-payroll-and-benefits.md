@@ -68,7 +68,7 @@ Anyone who wishes to be employed and meets the above requirements is welcome to 
 
 There are laws designed to prevent worker exploitation and ensure workers are afforded the protections and benefits of employment where appropriate. Regulations vary by state—someone in California may need to be employed while someone in Texas doing the same work might be allowed to be a contractor.
 
-If you'd like to learn more about classification, read the guide below. It's a complex topic and we regularly run scenarios past our lawyer to be sure. If you have any questions about classification, please [contact us](mailto:contact@oscollective.org).
+If you'd like to learn more about classification, read the guide below. It's a complex topic and we regularly run scenarios past our lawyer to be sure. If you have any questions about classification, please [contact us](mailto:hello@oscollective.org).
 
 {% file src="../.gitbook/assets/Independent_Contractor_Classification_Guide.pdf" %}
 
