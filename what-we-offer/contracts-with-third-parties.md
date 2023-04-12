@@ -23,3 +23,7 @@ OSC is the legal and financial home of our hosted projects. If you would like to
 {% hint style="info" %}
 Collectives can receive their GitHub Sponsor payments directly through the Open Collective platform. [Read more about our partnership.](../campagins-programs-and-partnerships/github-sponsors.md)
 {% endhint %}
+
+### There are instances where we can not sign for you.&#x20;
+
+For example, the Apple Developer Program. Unfortunately we can not offer this to collectives. Apple's agreement would be between Apple and OSC. If there was an infraction by one collectives, it would impact all of the collectives under OSC's Apple agreement.
