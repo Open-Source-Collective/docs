@@ -74,3 +74,5 @@ A **valid receipt** contains:
 5. The currency in question. This is normally clear from the address and the currency symbol. &#x20;
 6. Form of payment (cash, check, or last four digits of the credit card)
 
+When uploading the receipt into Open Collective, the date, currency, and amount given **must** match the receipt exactly. The name of the vendor or detailed description should also be generally clear.&#x20;
+
