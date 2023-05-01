@@ -33,7 +33,7 @@ Using funds from your collective’s budget to pay expenses is simple:
 3. Next, a member of OSC's team reviews and approves the expense. This is done to ensure the expense meets requirements, e.g., having a valid receipt.
 4. Once the expense is verified, the expense recipient gets[ paid](https://docs.opencollective.com/help/fiscal-hosts/payouts#what-payment-methods-do-you-support-for-withdrawals).
 
-Expenses are processed and paid out by Open Source Collective **twice per week** (on Mondays and Thursdays).
+Expenses are processed and paid out by Open Source Collective **twice per week** (on Tuesdays and Thursdays).
 
 OSC can[ pay out funds](https://docs.opencollective.com/help/expenses-and-getting-paid/expenses#by-what-method-can-i-get-paid) via PayPal and electronic bank transfer via Wise (f.k.a. Transferwise). Make sure to review the[ Expenses and Getting Paid](https://docs.opencollective.com/help/expenses-and-getting-paid/expenses) section of Open Collective’s documentation for a full overview of the process.
 
