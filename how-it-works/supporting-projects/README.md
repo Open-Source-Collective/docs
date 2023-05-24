@@ -10,7 +10,7 @@ There are many ways you (or your company) can support open source projects hoste
 
 * [Credit Card, PayPal, or Bank Transfer](./#giving-via-credit-card-paypal-or-bank-transfer)
 * [Purchase Orders and Procurement](purchase-orders-and-procurement.md#how-it-works)
-* [Crypto](https://blog.opencollective.com/support-open-source-software-using-crypto/)
+* [Crypto](./#crpyto)
 * [Stocks](https://openstocks.co)
 * [Funds](funds-for-open-source.md)
 * [Company-issued gift cards](https://opencollective.com/gift-cards)
@@ -39,6 +39,14 @@ If you select to make a contribution via bank transfer, you will automatically b
 Once the money has arrived, we will credit the amount to the initiative’s balance and you will automatically receive a receipt.‌
 
 When you arrange the transfer, if you have the option of sending an email notification for the transaction, please use [our email](../../about/contact.md).
+
+### Crpyto
+
+Open Source Collective does not hold crypto on behalf of its projects due to the impracticality of operating a payments service at scale and issues concerning the fluctuation of currencies between accepting and making payments.
+
+However, we offer to accept crypto, convert to fiat (USD for our projects) and attribute the balance to the collective. \
+\
+Collectives that are able to accept crypto will add their wallet address to their description; contact ops@oscollective.org to verify a transaction.&#x20;
 
 ### **Giving Anonymously**
 

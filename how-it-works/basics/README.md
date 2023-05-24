@@ -18,11 +18,21 @@ Open Collective is also an [open source](https://github.com/opencollective) proj
 
 ## Receiving Funds <a href="#docs-internal-guid-9d3d88de-7fff-93ac-a041-9317b46b3b12" id="docs-internal-guid-9d3d88de-7fff-93ac-a041-9317b46b3b12"></a>
 
-The Open Collective platform offers multiple ways for you to fund your project. Check out the[ Quick Start Guide](https://docs.opencollective.com/help/collectives/quick-start-guide) which offers a few great ways to get started.
+The Open Collective platform offers multiple ways for you to fund your project. Check out the[ Quick Start Guide](https://docs.opencollective.com/help/collectives/quick-start-guide), which offers a few great ways to get started.
 
 Our documentation includes information on how people can contribute directly to your collective. Feel free to share [this Financial Contributions overview](../supporting-projects/) with your contributors.
 
 In addition to direct donations, some of our collectives developed innovative ways to fund their projects. Read more about different funding options [here](https://docs.opencollective.com/help/collectives/funding-options).
+
+### Receiving Crypto
+
+Open Source Collective has limited support for crypto. Due to the impracticalities of running a payments service at scale and fluctuations in various crypto markets, we **do not hold crypto on behalf of our member projects.** Instead, we will accept crypto, convert it to fiat (USD) and attribute the balance to member projects accordingly.
+
+Projects wishing to accept crypto should email ops@oscollective.org to receive a wallet address managed by Open Source Collective.
+
+{% hint style="info" %}
+Note that Open Source Collective does not have an 'outside money' policy. You are free to raise, manage and spend crypto (and fiat contributions) separate from the money you raise, manage and spend through Open Source Collective.
+{% endhint %}
 
 ## Managing Expenses&#x20;
 
