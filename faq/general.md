@@ -4,7 +4,7 @@
 
 Email us at hello@oscollective.org. We answer Monday-Friday and strive to respond within 3 business days. If you are having issues with the platform, feel free to check out our [help page](https://opencollective.com/help).
 
-You can also join[ our Slack](https://join.slack.com/t/opencollective/shared\_invite/zt-f43qko76-sD8G\~e\_vQCm4TtpIsM4i\~A) to get in touch with the entire Open Collective community. Check in at the #opensource channel.
+You can also join [our Slack](https://slack.opencollective.com/) to get in touch with the entire Open Collective community. Check in at the #opensource channel.
 
 #### What is the difference between Open Collective and Open Source Collective?
 
