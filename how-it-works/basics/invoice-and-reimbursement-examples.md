@@ -18,6 +18,11 @@ Unlike reimbursements, a photo or a PDF of an invoice document is not required f
 * For any invoice over $5000USD:
   * the payee can’t be the one who approved the expense (unless they are the sole admin) and;&#x20;
   * the payee must be a verified user or provide a form of banking integration.
+*   Attached pdf invoices that include an address must be made out to OSC like:
+
+    Open Source Collective\
+    440 N Barranca Ave #3717 \
+    Covina, CA 91723&#x20;
 
 **Regarding descriptions:** Invoices need a clear description of services rendered and provide sufficient detail to make it clear what the collective is paying for. This is because this description may be checked by our accountant for compliance. That means that someone with no knowledge of your project, and only a limited knowledge of open source, should be able to understand what was done from the description.
 
