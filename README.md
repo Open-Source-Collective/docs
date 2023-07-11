@@ -47,7 +47,7 @@ Didn’t find what you are looking for? :mag: Use the Search Bar in the upper ri
 
 :love\_letter:Email us at [hello@oscollective.org](mailto:hello@oscollective.org)
 
-:speech\_balloon:Join [our Slack](https://slack.opencollective.com/) and find us in the #ocf channel
+:speech\_balloon:Join [our Slack](https://slack.opencollective.com/) and find us in the #opensource channel
 
 :bird: Follow us on [Twitter](https://twitter.com/opensourcecoll) & [Linkedin](https://www.linkedin.com/company/opensourcecollective)&#x20;
 
