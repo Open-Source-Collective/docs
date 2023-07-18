@@ -47,6 +47,10 @@ Expenses are processed and paid out by Open Source Collective **twice per week**
 
 OSC can[ pay out funds](https://docs.opencollective.com/help/expenses-and-getting-paid/expenses#by-what-method-can-i-get-paid) via PayPal and electronic bank transfer via Wise (f.k.a. Transferwise). Make sure to review the[ Expenses and Getting Paid](https://docs.opencollective.com/help/expenses-and-getting-paid/expenses) section of Open Collective’s documentation for a full overview of the process.
 
+{% hint style="danger" %}
+It is the responsibility of the collective admin to ensure that expenses are unique. If a payee files multiple expenses for the same work, please reject duplicate expenses so they are not accidentally paid by the host admin.
+{% endhint %}
+
 {% hint style="warning" %}
 Our tax status and the terms of our fiscal sponsorship agreement state that funds can only be used to further the cause of the projects we accept.&#x20;
 
