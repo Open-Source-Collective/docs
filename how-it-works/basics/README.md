@@ -75,6 +75,14 @@ Create a[ reimbursement](https://docs.opencollective.com/help/expenses-and-getti
 * Reimbursements are used to pay people (often volunteers) back when they have made purchases for the group.
 * Receipts are required so that we can ensure the requested amount matches the purchased amount in order to approve the reimbursement.
 
+### Outstanding Expenses
+
+The responsibility for ensuring payment completions lies with the collective/submitter. In case of a payment error, OSC will notify the submitter by commenting on the expense ticket. If the collective or submitter fails to respond and rectify the issue within 30 days, the ticket will be declined. Should payment still be required, the submitter should resubmit the request.
+
+To address pending 'error' or 'incomplete' payments predating 2023, OSC will make one final attempt to reach out and confirm the necessity of the payment. If no response is received within 30 days, OSC will proceed to close the expense request. If payment is still required, the submitter should resubmit the expense request.&#x20;
+
+By declining unresolved expense requests after 30 days, OSC is able to avoid having many unresolved tickets pile up. This will help the OSC team avoid confusion, inaccurate financial reporting, and potential budgetary complications.
+
 ### Virtual Cards
 
 Open Source Collective provides virtual cards to Collectives on request. Virtual cards act like credit cards and allow you to pay for expenses online using your Collective's balance.&#x20;
