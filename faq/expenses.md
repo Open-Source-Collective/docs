@@ -73,6 +73,10 @@ The Form 1099-K is an IRS informational tax form that is used to report goods an
 If your PayPal payments through Open Collective were in relation to invoices for services or other taxable income, you can use the 1099-K from PayPal to report that income. If these payments were reimbursements, where you uploaded a receipt expense to Open Collective, then you do not need to report these amounts from the 1099-K for income tax purposes. If you have further questions, please speak to a tax advisor.
 {% endhint %}
 
+#### Does this apply to non-US citizens?
+
+Yes. We need you to fill in the tax forms so we can show that the payment went to a non US citizen. This is needed for accounting purposes. We have to verify what payments went to US vs. non-US payees.
+
 #### Reporting your income from OSC
 
 For tax purposes, you will be treated as an independent contractor and, if you are a US person, you will be issued a 1099 if your earnings exceed $600.[ Here](https://turbotax.intuit.com/tax-tools/tax-tips/Self-Employment-Taxes/Filing-IRS-Form-W-9/INF19741.html)'s a good explanation of how W9s work for independent contractors, and there's more info on what a 1099 is[ here](https://turbotax.intuit.com/tax-tools/tax-tips/Self-Employment-Taxes/What-is-an-IRS-1099-Form-/INF14810.html).
