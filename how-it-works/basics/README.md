@@ -77,9 +77,9 @@ Create a[ reimbursement](https://docs.opencollective.com/help/expenses-and-getti
 
 ### Outstanding Expenses
 
-The responsibility for ensuring payment completions lies with the collective/submitter. In case of a payment error, OSC will notify the submitter by commenting on the expense ticket. If the collective or submitter fails to respond and rectify the issue within 30 days, the ticket will be declined. Should payment still be required, the submitter should resubmit the request.
+The responsibility for ensuring payment completions lies with the collective and/or payee. In case of a payment error, OSC will notify the collective and payee by commenting on the expense ticket. If the collective and/or payee fails to respond and rectify the issue within 30 days, the ticket will be left in an incomplete status. Should payment still be required once the expense is marked as 'incomplete', the collective and/or payee should edit the expense accordingly for payment.
 
-To address pending 'error' or 'incomplete' payments predating 2023, OSC will make one final attempt to reach out and confirm the necessity of the payment. If no response is received within 30 days, OSC will proceed to close the expense request. If payment is still required, the submitter should resubmit the expense request.&#x20;
+To address pending 'error' payments predating 2023, OSC will make one final attempt to reach out and confirm the necessity of the payment. If no response is received within 30 days, OSC will proceed to close the expense request. If payment is still required, the submitter should resubmit the expense request.&#x20;
 
 By declining unresolved expense requests after 30 days, OSC is able to avoid having many unresolved tickets pile up. This will help the OSC team avoid confusion, inaccurate financial reporting, and potential budgetary complications.
 
