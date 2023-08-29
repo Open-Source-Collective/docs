@@ -32,6 +32,10 @@ To make this easier, we suggest:
 * Adding the link to the relevant GitHub issue or other public code tracker
 * Adding a link to any external documentation that may help make this clear, such as a blog post for awards, a changelog for development work, or similar.&#x20;
 
+Terms that are not clear
+
+* Please do not use the words 'grant', 'award', or 'donation' without explaining how the payment benefits the project. If you have a link to the grant announcement or results, please include that.
+
 We may mark an invoice incomplete and follow up on invoices which lack sufficient explanation of the work performed. This does not mean we are cancelling your payment, but that we need you to add more detail to the description.&#x20;
 
 #### Examples
