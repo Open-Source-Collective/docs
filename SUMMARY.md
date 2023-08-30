@@ -47,6 +47,7 @@
 ## FAQ
 
 * [General FAQ](faq/general.md)
+* [Closing a Collective](faq/closing-a-collective.md)
 * [Contributions FAQ](faq/contributions.md)
 * [Expenses, Taxes & Refunds FAQ](faq/expenses.md)
 * [Legal & Compliance FAQ](faq/legal.md)
