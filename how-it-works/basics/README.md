@@ -107,6 +107,7 @@ While we try to accommodate every request, we work within some limits defined by
 * OSC **only** makes payments via Paypal, bank transfers, and virtual cards.&#x20;
 * We can't make direct payments via cashapp, venmo and similar services (because they don't allow nonprofits like OSC to sign up, among other reasons).
 * Payouts must be broken down into individual expenses that detail what the money is spent on. We do not pay out undifferentiated chunks of money.
+* Payment methods must be owned by the person(s) submitting a claim to be paid.&#x20;
 * We have certain paperwork requirements due to IRS rules and may need to collect W9 forms before we can pay someone. If this applies to you, we will let you know.
 
 Questions about payouts? [Email us](../../about/contact.md).
