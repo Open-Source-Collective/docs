@@ -32,10 +32,6 @@ To make this easier, we suggest:
 * Adding the link to the relevant GitHub issue or other public code tracker
 * Adding a link to any external documentation that may help make this clear, such as a blog post for awards, a changelog for development work, or similar.&#x20;
 
-Terms that are not clear
-
-* Please do not use the words 'grant', 'award', or 'donation' without explaining how the payment benefits the project. If you have a link to the grant announcement or results, please include that.
-
 We may mark an invoice incomplete and follow up on invoices which lack sufficient explanation of the work performed. This does not mean we are cancelling your payment, but that we need you to add more detail to the description.&#x20;
 
 #### Examples
@@ -64,9 +60,19 @@ Here are examples of attachments:
 
  
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-02-17 at 7.57.00 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-02-17 at 7.57.00 PM.png" alt=""><figcaption><p>Invoice Example</p></figcaption></figure>
 
 </div>
+
+
+
+## Grants, Awards or Donations
+
+Grants, awards and donations should be used to reflect "gifts". Gifts can be given when there is no expectation of work to be performed on the project, however we do need an example of how this gift benefits the community. A URL of the award announcement or link to a discussion on your forums/discord is sufficient.
+
+Example: 'Aosus writing contest' [award announcement](https://opencollective.com/aosus/projects/aosus-writing-contest)
+
+* If you are sending money to someone for contributions made to the project (code, documentation, design, community), please **do not use** these terms: Grant, Award, or Donation. You should instead use terms like 'work on', 'time spent on', or 'contributions to'.
 
 ## Reimbursements
 
