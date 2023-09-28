@@ -28,6 +28,7 @@ If the above sounds like you, then you should consider applying by going to [htt
 * You don't expect your project to eventually bring in more than $600 of donations per year.
 * Your project does not use an open license.
 * You're not interested in building a community that will eventually take over ownership of the project.
+* You want to hold your money in a currency that is not USD. OSC only holds funds in USD.
 
 If the above sounds like where your project is currently at, then the level of oversight our platform requires might be too much of a lift on your current process. For projects at this stage, we suggest using a more individually focused fundraising platform like:
 
