@@ -10,7 +10,7 @@ While we try to accommodate every request, we work within some limits defined by
 * Payouts must be broken down into individual expenses that detail what the money is spent on. We do not pay out undifferentiated chunks of money.
 * Payment methods must be owned by the person(s) submitting a claim to be paid.&#x20;
 * We have certain paperwork requirements due to IRS rules and may need to collect W9 forms before we can pay someone. If this applies to you, we will let you know.
-* OSC limit PayPal expense payments to a maximum of $5,000 USD. For expenses larger than $5,000 USD, payments will be made by electronic bank transfer via Wise. This allows us to prevent potential risk and continue to protect our community and their financial assets.
+* We limit PayPal expense payments to a maximum of $5,000 USD. For expenses larger than $5,000 USD, payments must be made by electronic bank transfer via Wise. This allows us to prevent potential risk and continue to protect our community and their financial assets.
 
 ### Paying Upwork, Fiverr, or Kofi contractors
 
