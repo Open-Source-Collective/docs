@@ -80,13 +80,13 @@ Use[ reimbursements](https://docs.opencollective.com/help/expenses-and-getting-p
 
 Receipts are required so that we can ensure the requested amount matches the purchased amount in order to approve the reimbursement.
 
-A **valid receipt** contains:
+A **valid receipt** needs to be issued by the vendor and contains:
 
-1. Name of the vendor (person or company you paid) &#x20;
+1. The name of the vendor (person or company you paid) &#x20;
 2. Transaction date (when you paid) &#x20;
 3. A detailed description of goods or services purchased (what you bought) &#x20;
 4. Amount paid
-5. The currency in question. This is normally clear from the address and the currency symbol. &#x20;
+5. The currency in question. This is usually clear from the address and the currency symbol. &#x20;
 6. Form of payment (cash, check, or last four digits of the credit card)
 
 When uploading the receipt into Open Collective, the date, currency, and amount given **must** match the receipt exactly. The name of the vendor or detailed description should also be generally clear.&#x20;

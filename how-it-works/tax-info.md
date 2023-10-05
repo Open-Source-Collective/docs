@@ -32,8 +32,8 @@ Your invoice will not be paid until the tax form has been submitted.
 
 ### Reporting income from OSC
 
-For tax purposes, you will be treated as an independent contractor and, if you are a US person, you will be issued a 1099 if your earnings from OSC exceed $600 in a year. [Here ](https://turbotax.intuit.com/tax-tools/tax-tips/Self-Employment-Taxes/Filing-IRS-Form-W-9/INF19741.html)is a good explanation of how W9s work for independent contractors, and there's more info on what a 1099 is [here](https://turbotax.intuit.com/tax-tools/tax-tips/Self-Employment-Taxes/What-is-an-IRS-1099-Form-/INF14810.html).
+For tax purposes, you will be treated as an independent contractor, and if you are a US citizen or a dual citizen of the US, you will be issued a 1099 if your earnings from OSC exceed $600 in a year. [Here ](https://turbotax.intuit.com/tax-tools/tax-tips/Self-Employment-Taxes/Filing-IRS-Form-W-9/INF19741.html)is a good explanation of how W9s work for independent contractors, and there's more info on what a 1099 is [here](https://turbotax.intuit.com/tax-tools/tax-tips/Self-Employment-Taxes/What-is-an-IRS-1099-Form-/INF14810.html).
 
-If you don’t meet the $600 threshold, simply report your earnings as miscellaneous self-employment income when you file your taxes.
+If you don’t meet the $600 threshold, report your earnings as miscellaneous self-employment income when you file your taxes.
 
-If you are not a US person, we will only keep your information on file and it's up to you to meet any tax reporting obligations in your country.
+If you are not a US person, we will only keep your information on file, and it's up to you to meet any tax reporting obligations in your country.
