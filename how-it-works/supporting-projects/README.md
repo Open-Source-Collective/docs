@@ -40,7 +40,7 @@ Once the money has arrived, we will credit the amount to the initiative’s bala
 
 When you arrange the transfer, if you have the option of sending an email notification for the transaction, please use [our email](../../about/contact.md).
 
-### Crpyto
+### Crypto
 
 On May 19, 2023, we disabled our automated crypto donation functionality because we received a donation from a sanctioned country. You can read the announcement [here](https://opencollective.com/opensource/updates/open-source-collective-is-disabling-contributions-in-cryptocurrencies). Because of this incident, we are changing our donation procedures and collecting personal information from the person making the crypto donation to follow KYC and AML procedures.&#x20;
 
