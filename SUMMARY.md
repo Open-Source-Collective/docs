@@ -4,6 +4,7 @@
   * [Is OSC right for me?](readme/is-osc-right-for-me.md)
 * [Mission, Values & Strategy](mission-values-and-strategy.md)
 * [What We Offer](what-we-offer/README.md)
+  * [Domain Transfers and Registration](what-we-offer/domain-transfers-and-registration.md)
   * [Fiscal Hosting](what-we-offer/fiscal-hosting.md)
   * [Our Platform](what-we-offer/our-platform.md)
   * [Employment, Payroll and Benefits](what-we-offer/employment-payroll-and-benefits.md)
