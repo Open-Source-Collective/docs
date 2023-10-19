@@ -42,11 +42,11 @@ When you arrange the transfer, if you have the option of sending an email notifi
 
 ### Crpyto
 
-Open Source Collective does not hold crypto on behalf of its projects due to the impracticality of operating a payments service at scale and issues concerning the fluctuation of currencies between accepting and making payments.
+On May 19, 2023, we disabled our automated crypto donation functionality because we received a donation from a sanctioned country. You can read the announcement [here](https://opencollective.com/opensource/updates/open-source-collective-is-disabling-contributions-in-cryptocurrencies). Because of this incident, we are changing our donation procedures and collecting personal information from the person making the crypto donation to follow KYC and AML procedures.&#x20;
 
-However, we offer to accept crypto, convert to fiat (USD for our projects) and attribute the balance to the collective. \
-\
-Collectives that are able to accept crypto will add their wallet address to their description; contact ops@oscollective.org to verify a transaction.&#x20;
+If you want to donate or accept a crypto donation, we will accept it on your behalf, convert it to fiat (USD), and attribute the balance to a hosted collective.&#x20;
+
+To initiate this process, please fill in [this form](https://form.asana.com/?k=0qJRLfChBud2xoY0ygU-kg\&d=477117439367644), with the donor's information (including full legal name, place of birth, date of birth, and current address), and we will reach out regarding next steps.
 
 ### **Giving Anonymously**
 
