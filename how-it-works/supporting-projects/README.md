@@ -42,15 +42,18 @@ When you arrange the transfer, if you have the option of sending an email notifi
 
 ### Crypto
 
-On May 19, 2023, we disabled our automated crypto donation functionality because we received a donation from a sanctioned country. You can read the announcement [here](https://opencollective.com/opensource/updates/open-source-collective-is-disabling-contributions-in-cryptocurrencies). Because of this incident, we are changing our donation procedures and collecting personal information from the person making the crypto donation to follow KYC and AML procedures.&#x20;
+On May 19, 2023, we disabled our automated crypto donation functionality because we received a donation from a sanctioned country. You can read the announcement [here](https://opencollective.com/opensource/updates/open-source-collective-is-disabling-contributions-in-cryptocurrencies). Because of this incident,&#x20;
 
-If you want to donate or accept a crypto donation, we will accept it on your behalf, convert it to fiat (USD), and attribute the balance to a hosted collective.&#x20;
+* We are changing our donation procedures and collecting personal information from the person making the crypto donation to follow KYC and AML procedures.
+* We will only accept crypto donations in amounts equal to or over $2,500.
 
-To initiate this process, please fill in [this form](https://form.asana.com/?k=0qJRLfChBud2xoY0ygU-kg\&d=477117439367644), with the donor's information (including full legal name, place of birth, date of birth, and current address), and we will reach out regarding next steps.
+If you want to donate or accept a crypto donation, we will accept it on your behalf, convert it to fiat (USD), and attribute the balance to a hosted collective.
+
+To initiate this process, please fill in [this form](https://form.asana.com/?k=0qJRLfChBud2xoY0ygU-kg\&d=477117439367644) with the donor's information (including full legal name, place of birth, date of birth, and current address), and we will reach out regarding the next steps.
 
 ### **Giving Anonymously**
 
-If you would like your contribution to be partially or fully anonymous, see our documentation on incognito and [guest](https://docs.opencollective.com/help/financial-contributors/guest-contributions) contributions.
+If you would like your contribution to be partially or fully anonymous, see our incognito and guest contributions [documentation](https://docs.opencollective.com/help/financial-contributors/guest-contributions).
 
 ### **Secure Contributions**
 
@@ -60,8 +63,8 @@ Open Source Collective doesn't store donor credit card numbers on our servers. I
 
 Open Source Collective does not accept check donations.
 
-### Fees&#x20;
+### Fees
 
-Open Source Collective charges our hosted Collectives a fixed 10% fee on all contributions received in return for our fiscal hosting services.&#x20;
+Open Source Collective charges our hosted Collectives a fixed 10% fee on all contributions received in return for our fiscal hosting services.
 
 [Read more about our fees.](../fees.md)
