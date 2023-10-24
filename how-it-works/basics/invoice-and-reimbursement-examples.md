@@ -12,7 +12,7 @@ Unlike reimbursements, a photo or a PDF of an invoice document is not required f
 
 ### Invoices must meet the following criteria to be paid:
 
-* Must have a description of the work done, and the amount of time (normally in hours) spent on work or time covered (normally in months).&#x20;
+* Must have a description of the work done, and the amount of time (typically specified by month and year or quarter) spent on work or time covered (normally the months covered).&#x20;
 * The payee must include their billing address.
 * The payee's name must match the billing contact.
 * For any invoice over $5000USD:
