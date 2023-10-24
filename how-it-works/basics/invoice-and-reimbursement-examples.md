@@ -24,15 +24,21 @@ Unlike reimbursements, a photo or a PDF of an invoice document is not required f
     440 N Barranca Ave #3717 \
     Covina, CA 91723&#x20;
 
-**Regarding descriptions:** Invoices need a clear description of services rendered and provide sufficient detail to make it clear what the collective is paying for. This is because this description may be checked by our accountant for compliance. That means that someone with no knowledge of your project, and only a limited knowledge of open source, should be able to understand what was done from the description.
+### **Invoice Descriptions**
 
-To make this easier, we suggest:
+Invoices need a clear description of services rendered and sufficient detail to clarify what the collective is paying for. This is because our accountant may check this description for compliance.&#x20;
 
-* Using words like "maintenance" or "development", instead of more generic words like "payment" or "work".
-* Adding the link to the relevant GitHub issue or other public code tracker
-* Adding a link to any external documentation that may help make this clear, such as a blog post for awards, a changelog for development work, or similar.&#x20;
+That means that someone with no knowledge of your project, and only a limited knowledge of open source should be able to understand what was done from the description.
 
-We may mark an invoice incomplete and follow up on invoices which lack sufficient explanation of the work performed. This does not mean we are cancelling your payment, but that we need you to add more detail to the description.&#x20;
+Rule of thumb, explain it like I'm 5!&#x20;
+
+Invoices require the following:
+
+* **Do not** use words like "payment" or "work" as the sole description on the invoice. These words do not explain the type of labor performed. &#x20;
+* **Do provide** a link to the repo or the specific URL of the work you checked into the project. (GitHub or other public code repo)
+* **Add** **a link** to any external documentation that may help make this clear, such as a blog post for awards, a changelog for development work, or similar.&#x20;
+
+We may mark an invoice incomplete and follow up on invoices that lack sufficient explanation of the work performed. This does not mean we are canceling your payment but that we need you to add more detail to the description.&#x20;
 
 #### Examples
 
