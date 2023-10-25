@@ -1,62 +1,61 @@
 ---
-description: When you should choose between the two different expense types.
+description: When to use "invoice" vs. "reimbursement" and what is required on each
 ---
 
-# Invoice and Reimbursement Examples
+# Invoice and Reimbursements
 
 ## Invoices&#x20;
 
-[Invoices](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#invoices) should be used to pay individuals for work completed on behalf of the collective.\
+[Invoices](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#invoices) are used to pay people for labor or work done on behalf of the collective. \
 \
-Unlike reimbursements, a photo or a PDF of an invoice document is not required for invoices to be submitted on the Open Collective platform. However, there are some requirements for how an invoice is opened on the platform itself.&#x20;
+Unlike reimbursements, you don't need to include a picture or PDF of an invoice to submit on Open Collective. However, invoices must meet specific criteria and include certain information:
 
-### Invoices must meet the following criteria to be paid:
+### Invoices Must Meet the Following Criteria:
 
-* Must have a description of the work done, and the amount of time (typically specified by month and year or quarter) spent on work or time covered (normally the months covered).&#x20;
-* The payee must include their billing address.
-* The payee's name must match the billing contact.
-* For any invoice over $5000USD:
-  * the payee can’t be the one who approved the expense (unless they are the sole admin) and;&#x20;
-  * the payee must be a verified user or provide a form of banking integration.
-*   Attached pdf invoices that include an address must be made out to OSC like:
+1. The "pay to" name (the payee) must match the name under "payout method"
+2. The "pay to" name (the payee) must include their billing address, which the payee will be prompted for when submitting the invoice
+3. Invoices can only be processed for work done during your tenure with Open Source Collective; we cannot process any invoices for work completed prior to becoming hosted by OSC
+4. For any invoice over $5,000 USD:
+   * &#x20;the payee can’t be the one who approved the expense (unless they are the sole admin), and; &#x20;
+   * payments must be made by electronic bank transfer via Wise, not PayPal
+5. If attaching a .pdf invoice that requires an address, the invoice should be made out to OSC:
 
-    Open Source Collective\
-    440 N Barranca Ave #3717 \
-    Covina, CA 91723&#x20;
+> **Open Source Collective**&#x20;
+>
+> **440 N. Barranca Ave #3717**&#x20;
+>
+> **Covina, CA 91723**
 
-### **Invoice Descriptions**
+### **Invoices Must Include the Following Detail:**
 
-Invoices need a clear description of services rendered and sufficient detail to clarify what the collective is paying for. This is because our accountant may check this description for compliance.&#x20;
+1. A clear and detailed description of the work completed
+   * **This part is very important.** Our accountants and auditors perform audits to ensure compliance. Make your descriptions simple, clear, and informative. Instead of writing "maintenance" or "support", specify what you're maintaining or supporting. A good rule of thumb when submitting an invoice: Explain it like I'm 5!&#x20;
+   * Whenever possible, please include links to the relevant changelogs, repositories, or blog posts to support your invoices. Providing links and other supporting documentation fosters transparency and expedites invoicing processing, allowing you to get paid quicker.
+   * **Do not** solely use words like "work" or "payment"; those words do not describe the work completed.&#x20;
+2. A time-frame of when the work was completed. Typically, this is specified by month and year or quarter. You may also share the hours worked, but please also specify the month as well.&#x20;
+   1. Eg: "February 2023", "q1 2023", or "5 hours in September 2023"
 
-That means that someone with no knowledge of your project, and only a limited knowledge of open source should be able to understand what was done from the description.
+{% hint style="warning" %}
+&#x20;We might mark an invoice "incomplete" that lacks sufficient explanation of the work performed or is missing other important information. This does not mean we are canceling your payment, but we need you to add more detail to the description. In the event that your invoice is marked "incomplete", a collective admin will need to re-approve it after you have made the necessary revisions.&#x20;
+{% endhint %}
 
-Rule of thumb, explain it like I'm 5!&#x20;
+### Invoice Examples
 
-Invoices require the following:
-
-* **Do not** use words like "payment" or "work" as the sole description on the invoice. These words do not explain the type of labor performed. &#x20;
-* **Do provide** a link to the repo or the specific URL of the work you checked into the project. (GitHub or other public code repo)
-* **Add** **a link** to any external documentation that may help make this clear, such as a blog post for awards, a changelog for development work, or similar.&#x20;
-
-We may mark an invoice incomplete and follow up on invoices that lack sufficient explanation of the work performed. This does not mean we are canceling your payment but that we need you to add more detail to the description.&#x20;
-
-#### Examples
-
-You could include the detail of the work done in the description field of each line item.&#x20;
+You can include the detail of the work done in the description field of each line item.&#x20;
 
 <div>
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-02-17 at 6.28.57 PM.png" alt=""><figcaption><p>Bug bounties can include a link to the fix</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-02-17 at 6.28.57 PM.png" alt=""><figcaption><p>Bug bounties can include a link to the fix. Links are very helpful.</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-02-17 at 6.52.14 PM (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-02-17 at 6.52.14 PM (1).png" alt=""><figcaption><p>Including versions and project names is very helpful.</p></figcaption></figure>
 
 </div>
 
-You could create one invoice for the total and attach your own invoice or time tracker to detail the work done. You do not need to attach your own invoice or time tracker, but it does make it easier for us.&#x20;
+You can create one invoice for the total and attach your own invoice or time tracker to detail the work done. You do not need to attach your own invoice or time tracker for OSC, unless your collective requires it.
 
-Another thing you could do is note something like: "Maintenance on core for month of April, 2023."\
+Another thing you could do is note something like: "Maintenance on core for the month of April, 2023."\
 \
 Here are examples of attachments:
 
@@ -66,25 +65,31 @@ Here are examples of attachments:
 
  
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-02-17 at 7.57.00 PM.png" alt=""><figcaption><p>Invoice Example</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-02-17 at 7.57.00 PM.png" alt=""><figcaption><p>Invoice example. While OSC does not require you to use an invoice, some collectives do</p></figcaption></figure>
 
 </div>
 
 
 
-## Grants, Awards or Donations
+### Grants, Awards or Donations
 
-Grants, awards and donations should be used to reflect "gifts". Gifts can be given when there is no expectation of work to be performed on the project, however we do need an example of how this gift benefits the community. A URL of the award announcement or link to a discussion on your forums/discord is sufficient.
+Grants, awards, and donations should be used to reflect "gifts". Gifts can be given when there is no expectation of work to be performed on the project. However, we need an example of how this gift benefits the community. A URL to the award announcement or link to a discussion on your forums/discord is sufficient.
 
-Example: 'Aosus writing contest' [award announcement](https://opencollective.com/aosus/projects/aosus-writing-contest)
+**Example:** 'Aosus writing contest' [award announcement](https://opencollective.com/aosus/projects/aosus-writing-contest)
 
-* If you are sending money to someone for contributions made to the project (code, documentation, design, community), please **do not use** these terms: Grant, Award, or Donation. You should instead use terms like 'work on', 'time spent on', or 'contributions to'.
+
+
+{% hint style="info" %}
+If you are sending money to someone for contributions made to the project (code, documentation, design, community), please **do not use** these terms: "grant", "award", or "donation". You should instead use terms like 'supporting...', 'time spent on...', or 'maintenance on....'
+{% endhint %}
 
 ## Reimbursements
 
-Use[ reimbursements](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#reimbursements) to pay for purchases, donations, or subscriptions made on behalf of the collective.
+[Reimbursements](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#reimbursements) are used to re-pay someone for expenses and costs for goods that have already been incurred on behalf of the collective.
 
-Receipts are required so that we can ensure the requested amount matches the purchased amount in order to approve the reimbursement.
+Receipts are required so that we can ensure the requested amount matches the purchased amount to approve the reimbursement.
+
+Do not use reimbursements to pay someone for services rendered to the collective. If someone needs to receive payment for work completed, please ask that person to file an invoice.
 
 A **valid receipt** needs to be issued by the vendor and contains:
 

@@ -4,8 +4,10 @@ description: So you've been approved. What next?
 
 # Receiving and Spending Money
 
+
+
 {% hint style="success" %}
-Once you apply to join Open Source Collective and receive an approval email from us, you can immediately get started with managing your collective on Open Collective.&#x20;
+Once you apply to join Open Source Collective and receive our approval email, you can immediately start managing your collective on Open Collective.&#x20;
 {% endhint %}
 
 ## Open Collective (the platform) <a href="#docs-internal-guid-93351402-7fff-eb72-4817-b23d01650052" id="docs-internal-guid-93351402-7fff-eb72-4817-b23d01650052"></a>

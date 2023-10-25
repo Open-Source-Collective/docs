@@ -24,7 +24,7 @@
 ## How it works
 
 * [Receiving and Spending Money](how-it-works/basics/README.md)
-  * [Invoice and Reimbursement Examples](how-it-works/basics/invoice-and-reimbursement-examples.md)
+  * [Invoice and Reimbursements](how-it-works/basics/invoice-and-reimbursement-examples.md)
   * [Expense Policies and Limitations](how-it-works/basics/expense-policies-and-limitations.md)
   * [Holding Unknown Funds](how-it-works/basics/holding-unknown-funds.md)
 * [Making Financial Contributions (Sponsoring)](how-it-works/supporting-projects/README.md)
