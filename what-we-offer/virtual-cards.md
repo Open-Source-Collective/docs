@@ -12,6 +12,7 @@ Virtual Cards can be issued to hosted Collectives for paying recurring payments,
 * Submit a virtual card request (click 'Actions' > 'request virtual card on your Collective's page) with the intended use of the card and the amount budgeted for that monthly. The virtual card with that limit will be set up for your collective.
 * If, at any point, your collective needs a higher limit on your virtual card, please request a limit increase by contacting us at hello@oscollective.org with the intended use and the amount increase needed.
 * Cards must be used in compliance with our policy below.
+* Each collective can have one virtual card.
 
 ## **Requirements / Policy:**
 
