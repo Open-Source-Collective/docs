@@ -6,15 +6,15 @@ Open Source Collective is a 501c6 nonprofit working for the common interests of 
 
 ### People are more important than code
 
-Open source software is a byproduct of active communities working toward a common goal. We prioritize the needs of people first.&#x20;
+Open source software is a byproduct of active communities working toward a common goal. We prioritize the needs of people first.
 
 ### One size does not fit all
 
-Open Source Collective does not impose a structure, a process, or a statute on you and your community.&#x20;
+Open Source Collective does not impose a structure, a process, or a statute on you and your community.
 
 ### Strength lies in _community_
 
-That said, we do believe that strength comes from broad and diverse community-centered approaches. We encourage members to think about distributing their responsibilities and building communities.&#x20;
+That said, we do believe that strength comes from broad and diverse community-centered approaches. We encourage members to think about distributing their responsibilities and building communities.
 
 ### Solving problems _together_
 
@@ -24,7 +24,7 @@ We believe that we can address many of the problems we face by working together.
 
 ### For Maintainers
 
-We take care of all the accounting, taxes, invoices, and administration. You decide where the money gets spent, then we make it happen.&#x20;
+We take care of all the accounting, taxes, invoices, and administration. You decide where the money gets spent, then we make it happen.
 
 Through us you can:
 
@@ -34,11 +34,11 @@ Through us you can:
 * Receive funds from corporate supporters (we’re registered as a supplier to many corporate sponsors).
 * Register trademarks, sign contracts and legal agreements and apply for grants.
 * Pay yourself, your team, contractors, vendors, and suppliers.
-* And [much more...](what-we-offer/)&#x20;
+* And [much more...](what-we-offer/)
 
 ### Financial Contributors and Sponsors
 
-Support the open source projects you rely on. See how projects are using their finances, engage with and stay up to date with progress, and get recognition for your contributions.&#x20;
+Support the open source projects you rely on. See how projects are using their finances, engage with and stay up to date with progress, and get recognition for your contributions.
 
 Through us you can:
 
@@ -49,7 +49,7 @@ Through us you can:
 
 ## How we're organised
 
-Open Source Collective is a non-profit 501(c)(6) mutual benefit organisation.&#x20;
+Open Source Collective is a non-profit 501(c)(6) mutual benefit organisation.
 
 Our board of directors provide insight into the impact of our work and keep our goals aligned with those of our community:
 
@@ -65,7 +65,7 @@ Our board of directors are:
 * Duanne O'Brian, Indeed Open Source
 * Alyssa Wright, Bloomberg Open Source
 
-The board selects an Executive Director who has the authority to execute agreements and is tasked with delivering on the mission of the organization.&#x20;
+The board selects an Executive Director who has the authority to execute agreements and is tasked with delivering on the mission of the organization.
 
 ### Executive Director
 
@@ -81,15 +81,13 @@ In January 2022 we [published our strategy](https://blog.opencollective.com/open
 > \
 > Make financially contributing to open source not only a good business decision, but an easy one
 
-We continue to iterate on our strategy, and we welcome feedback on our work, see contact details below.&#x20;
+We continue to iterate on our strategy, and we welcome feedback on our work, see contact details below.
 
 ## Contact Us
 
 Didn’t find what you are looking for? :mag: Use the Search Bar in the upper right corner!
 
-:love\_letter: Email us at [hello@oscollective.org](mailto:hello@oscollective.org)
-
-🎟 Request support at [support@oscollective.org](mailto:support@opencollective.com)
+:e-mail: Request support at [hello@oscollective.org](mailto:hello@oscollective.org)
 
 :speech\_balloon: Join [our Slack](https://slack.opencollective.com/) and find us in the #opensource channel
 
