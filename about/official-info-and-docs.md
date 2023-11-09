@@ -14,6 +14,8 @@ You may provide this information to anyone who asks for it (sometimes sponsors o
 
 Our EIN (tax ID number) is: **82-2037583**
 
+Our DUNS number is: **105389379**
+
 OSC’s NAICS code is [813910](https://www.naics.com/naics-code-description/?code=813910) &#x20;
 
 {% file src="../.gitbook/assets/OSC fw9 2022.pdf" %}
