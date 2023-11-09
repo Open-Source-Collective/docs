@@ -1,22 +1,30 @@
 # Our Team
 
-**Ben Nickolls**\
-Executive Director
+**Lauren Gardner** - she/her, Executive Director
 
-**Pia Mancini**\
-Founding Director and strategic advisor
+**Benjamin Nickolls** (aka BenJam) - he/him, Head of Strategy
 
-**Richard Littauer**\
-Community Development Manager
+**Sourav Das** - he/him, Operations Coordinator
 
-**Lauren Gardner**\
-Head of Operations
+**Grace Powers** - she/her, Operations Coordinator
 
-**Alanna Irving**\
-Director and strategic advisor
+**Shannon Wray** - she/her, Marketing. Part-time with OC, OCNZ and Gift Collective.
 
-**Shannon Wray** \
-Support, Documentation and Marketing&#x20;
+## Our Board of Directors
+
+Pia Mancini (president)&#x20;
+
+Ben Nickolls (treasurer)&#x20;
+
+Justin Dorfman (Secretary)&#x20;
+
+Samson Goddy&#x20;
+
+Henry Zhu&#x20;
+
+Alyssa Wright&#x20;
+
+Duane O’Brien
 
 
 
