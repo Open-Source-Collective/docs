@@ -69,7 +69,7 @@ The board selects an Executive Director who has the authority to execute agreeme
 
 ### Executive Director
 
-Our Executive Director is Benjamin Nickolls.
+Our Executive Director is Lauren Gardner
 
 ## Our Strategy
 
