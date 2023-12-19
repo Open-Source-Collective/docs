@@ -23,7 +23,7 @@ OSC’s NAICS code is [813910](https://www.naics.com/naics-code-description/?cod
 ### Address & Contact Info
 
 Open Source Collective 501(c)(6)\
-440 N. Barranca Avenue, #3717\
+440 N. Barranca Avenue, #3939\
 Covina, CA 91723
 
 `hello@oscollective.org`
