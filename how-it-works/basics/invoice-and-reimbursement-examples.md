@@ -22,7 +22,7 @@ Unlike reimbursements, you don't need to include a picture or PDF of an invoice 
 
 > **Open Source Collective**&#x20;
 >
-> **440 N. Barranca Ave #3717**&#x20;
+> **440 N. Barranca Ave #3939**
 >
 > **Covina, CA 91723**
 
