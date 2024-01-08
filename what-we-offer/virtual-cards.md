@@ -4,6 +4,10 @@ description: Credit or debit cards, linked to your Collective's balance
 
 # Virtual Cards
 
+{% hint style="warning" %}
+We have temporarily stopped our virtual cards program, if you need help or have a request regarding a virtual card please reach out to hello@oscollective.org. Our [announcement](https://opencollective.com/opensource/updates/closing-our-virtual-card-program) on virtual cards.&#x20;
+{% endhint %}
+
 Virtual Cards can be issued to hosted Collectives for paying recurring payments, bills, online resources and tools, subscriptions, vendors (e.g. hosting providers), etc.
 
 ## How it works

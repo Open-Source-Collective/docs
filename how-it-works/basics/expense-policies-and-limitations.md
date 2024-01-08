@@ -17,10 +17,12 @@ description: >-
 Collective admins can[ set additional expense policies](https://docs.opencollective.com/help/collectives/expense-policy) to give guidance to expense submitters.
 {% endhint %}
 
-### Permitted Countries and OFAC Checks
+### Permitted Countries, OFAC Checks, and Payments to Certain Countries&#x20;
 
 * OSC cannot pay people in territories in the following sanctioned countries: Crimea, Cuba, Iran, North Korea, Sudan, Syrian Arab Republic, and Venezuela.&#x20;
 * In addition, we may be unable to pay people in: Afghanistan, Burundi, Central African Republic, Chad, Congo Republic, Democratic Republic of the Congo, Eritrea, Iraq, Libya, Somalia, Republic of South Sudan, Yemen.
+* We may face issues processing payments to some countries because Wise, our payment processor, doesn't support all countries. If your bank or country is not supported by Wise or PayPal, we cannot guarantee payment. You can find the list of countries on this website: [https://wise.com/help/articles/2571942/what-countriesregions-can-i-send-to](https://wise.com/help/articles/2571942/what-countriesregions-can-i-send-to). Note that some banks that Wise can send to may require assistance from intermediary banks, which may result in additional charges. We have no control over these charges, as they are determined by the payment processors.
+* When it comes to sending payments to certain countries, such as Nigeria, there may be difficulties due to the high fees charged by banks. Unfortunately, we have no control over this. If you are based in Nigeria, please be aware that you will need to have a minimum balance of over $30 for payouts, as the fees are typically more than $15. Please be aware that there may be instances where the fees are higher than the actual payouts you receive.&#x20;
 
 ### Methods of Payment
 
