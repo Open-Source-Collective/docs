@@ -4,7 +4,7 @@ If you plan on participating in [Google Summer of Code](https://opencollective.c
 \
 **On the first page of the form:**
 
-* The email address of the person responsible for accepting payment at your Organization is -- **support@opencollective.com**
+* The email address of the person responsible for accepting payment at your Organization is -- **hello@oscollective.org**
 * Does your Mentor Organization have an account with Payoneer and linked to the GSoC Program? -- Select the **'Yes'** checkbox.
 
 **On the second page of the form:**
@@ -14,7 +14,7 @@ If you plan on participating in [Google Summer of Code](https://opencollective.c
 * What is the email address associated with this Payoneer account? -- **support@opencollective.com**
 * If you are accepting funds for several orgs, have Linux Foundation, NumFOCUS, Open Collective, Software Freedom Conservancy, Software in the Public Interest, or another fiscal sponsor, please note it here. -- **Open Source Collective**
 
-Once you have completed the form, send us an email at '_support@opencollective.com'_ to confirm you will be participating and we can better track the payment associated with your organization.
+Once you have completed the form, send us an email at '**hello@oscollective.org**_'_ to confirm you will be participating and we can better track the payment associated with your organization.
 
 \
 Please reach out with any questions to '_support@opencollective.com'_
