@@ -9,7 +9,8 @@ description: >-
 ### Expense Basics
 
 * OSC will only process payouts approved by an admin of the collective.
-* OSC doesn't pay future expenses, such as an invoice for future work done.
+* OSC doesn't pay future expenses, such as invoices for work scheduled in the future. For instance, an invoice can only be paid for work completed the day prior to its submission.
+* Expense submitter must have their "Legal Name" in their profile info setting.&#x20;
 * Payouts must be broken down into individual expenses that detail the money spent. We do not pay out undifferentiated chunks of money and can not issue funds for future expenses.
 * All expenditures must be permitted under 501(c)(6) regulations and adhere to our mission statement 'to promote a sustainable and healthy ecosystem to sustain open source technology for the future.'
 * Due to IRS regulations, we may need to collect W9 forms before we can pay someone. If this applies to you, we will let you know.
