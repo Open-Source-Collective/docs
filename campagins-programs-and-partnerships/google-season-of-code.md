@@ -17,4 +17,4 @@ If you plan on participating in [Google Summer of Code](https://opencollective.c
 Once you have completed the form, send us an email at '**hello@oscollective.org**_'_ to confirm you will be participating and we can better track the payment associated with your organization.
 
 \
-Please reach out with any questions to '_support@opencollective.com'_
+Please reach out with any questions to '**hello@oscollective.org**_'_
