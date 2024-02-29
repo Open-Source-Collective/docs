@@ -2,6 +2,7 @@
 
 * [Welcome!](README.md)
   * [Is OSC right for me?](readme/is-osc-right-for-me.md)
+  * [OCF collectives looking for a new host](readme/ocf-collectives-looking-for-a-new-host.md)
 * [Mission, Values & Strategy](mission-values-and-strategy.md)
 * [What We Offer](what-we-offer/README.md)
   * [Fiscal Hosting](what-we-offer/fiscal-hosting.md)
