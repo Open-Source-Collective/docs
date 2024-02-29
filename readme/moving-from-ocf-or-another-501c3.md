@@ -1,4 +1,4 @@
-# OCF collectives looking for a new host
+# Moving from OCF or another 501c3
 
 As per [this announcement](https://opencollective.com/foundation/updates/announcement-we-are-dissolving-open-collective-foundation-at-the-end-of-this-year) made on Feb 27th, 2024, Open Collective Foundation will dissolve its nonprofit entity effective December 31, 2024. If you are currently hosted by OCF and considering OSC as your new fiscal host, here are some things to consider before applying.
 
@@ -14,7 +14,7 @@ OCF is a 501(c)(3). A c3 nonprofit is for public benefit.&#x20;
 
 OSC is a 501(c)(6). A c6 nonprofit is for member benefit.
 
-The governing body that classifies what projects are considered a public benefit does not consider open-source projects a public benefit unless they can clearly show the funds will be used for public benefit. This is generally true for open-source projects with an educational or scientific research focus.&#x20;
+The governing body that classifies what projects are considered a public benefit does not consider open-source projects a public benefit. Few open source projects are considered a public benefit unless they are (for example) with an educational or scientific research focus.&#x20;
 
 Please refer to a lawyer for more information regarding your designation. Here's some articles written by nonprofit lawyers to help explain the decision by the IRS:
 
