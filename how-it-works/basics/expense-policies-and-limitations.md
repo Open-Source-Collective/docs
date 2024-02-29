@@ -13,6 +13,7 @@ description: >-
 * Expense submitter must have their "Legal Name" in their profile info setting.&#x20;
 * Payouts must be broken down into individual expenses that detail the money spent. We do not pay out undifferentiated chunks of money and can not issue funds for future expenses.
 * All expenditures must be permitted under 501(c)(6) regulations and adhere to our mission statement 'to promote a sustainable and healthy ecosystem to sustain open source technology for the future.'
+* We are unable to process payments for expenses that were incurred before Open Source Collective started hosting the collective.
 * Due to IRS regulations, we may need to collect W9 forms before we can pay someone. If this applies to you, we will let you know.
 
 {% hint style="info" %}
