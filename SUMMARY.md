@@ -38,6 +38,7 @@
 
 * [GitHub Sponsors](campagins-programs-and-partnerships/github-sponsors.md)
 * [Google Summer of Code](campagins-programs-and-partnerships/google-season-of-code.md)
+* [Google Season of Docs](campagins-programs-and-partnerships/google-season-of-docs.md)
 
 ## About
 
