@@ -45,11 +45,4 @@ Ans. Please reach out to support@opencollective.com, and the Open Collective tea
 
 **4. I have queries related to Google Season of docs programs and grants.**&#x20;
 
-Ans. If you have any questions or concerns related to grants or the program, please contact the Season of Docs team.
-
-
-
-###
-
-
-
+Ans. If you have any questions or concerns related to grants or the program, please [contact](https://developers.google.com/season-of-docs/docs/contact) the Season of Docs team.
