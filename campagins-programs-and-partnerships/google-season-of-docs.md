@@ -18,7 +18,7 @@ Steps to create a collective profile and apply to OSC.&#x20;
 
 1. First, you need to create a personal account. Visit at [https://opencollective.com/create-account](https://opencollective.com/create-account) to create a personal account.&#x20;
 2. Once you have the personal account set up, you will be able to create a Collective profile for your project. Visit the guide to create a collective profile at [https://docs.opencollective.com/help/collectives/create-collective](https://docs.opencollective.com/help/collectives/create-collective).
-3. Apply to Open Source Collective at [https://opencollective.com/opensource/apply](https://opencollective.com/opensource/apply).
+3. Apply to Open Source Collective at [https://opencollective.com/opensource/apply](https://opencollective.com/opensource/apply). (add a note that your project has been accepted by the Season of docs program)
 
 **Your project has a fiscal host or a bank account.**
 
