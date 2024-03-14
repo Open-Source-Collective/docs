@@ -34,7 +34,7 @@ Steps to create a collective profile and apply to OSC.&#x20;
 \
 **1. Are there any fees to receive a grant from Season of Docs if our projects are fiscally hosted by Open Source Collective?**
 
-Ans. There are no fees associated with transferring funds to your project's collective profile if your project is fiscally hosted by Open Source Collective (OSC) for Season of docs program.
+Ans. No fees for transferring funds to your collective profile if your project is hosted by Open Source Collective (OSC) for the Season of Docs program. Minimal expense processing charges for paying technical writers, volunteers, or maintainers from the collective. Check our docs for more on [fees](https://docs.oscollective.org/how-it-works/fees) and contact us.&#x20;
 
 **2. How do I contact Open Source Collective if I have any questions related to fiscal hosting and expenses?**\
 Ans. Please reach out to hello@oscollective.org, we will get back to you shortly.&#x20;
