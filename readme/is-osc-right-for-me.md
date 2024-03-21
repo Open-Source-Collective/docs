@@ -33,6 +33,7 @@ If the above sounds like you, then you should consider applying by going to [htt
 If the above sounds like where your project is currently at, then the level of oversight our platform requires might be too much of a lift on your current process. For projects at this stage, we suggest using a more individually focused fundraising platform like:
 
 * [https://github.com/sponsors](https://github.com/sponsors)
+* [https://en.liberapay.com/](https://en.liberapay.com/)
 * [https://ko-fi.com/](https://ko-fi.com/)
 * [https://www.patreon.com/](https://www.patreon.com/)
 
