@@ -37,6 +37,7 @@
 ## Campagins, Programs & Partnerships
 
 * [GitHub Sponsors](campagins-programs-and-partnerships/github-sponsors.md)
+* [Drips](campagins-programs-and-partnerships/drips.md)
 * [Google Summer of Code](campagins-programs-and-partnerships/google-season-of-code.md)
 * [Google Season of Docs](campagins-programs-and-partnerships/google-season-of-docs.md)
 
