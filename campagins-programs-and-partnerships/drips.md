@@ -36,12 +36,10 @@ From there, you can use Drips to decide how much of the funds received by your p
 
 ### Using Drips with a Safe Wallet
 
-Drips can be used through a multi-signature Safe wallet in much the same way Drips is used with an individual wallet.&#x20;
-
-Transactions are 'proposed' to the Safe Wallet for signing by the Drips application, and executed once the threshold has been reached and execution costs paid.&#x20;
+Drips can be used through a multi-signature Safe wallet in much the same way Drips is used with an individual wallet. Transactions are 'proposed' to the Safe Wallet for signing by the Drips application, and executed once the threshold has been reached and execution costs paid.&#x20;
 
 {% hint style="info" %}
-Note that gas fees will be due on transactions written to the Ethereum blockchain, this includes claiming a project on Drips, modifying splits, and collecting funds. Open Source Collective will pay for and charge back these costs if needed.&#x20;
+Note that gas fees will be due on transactions written to the Ethereum blockchain; this includes claiming a project on Drips, modifying splits, and collecting funds. Open Source Collective will pay for and charge these costs back to the Collective if needed.&#x20;
 {% endhint %}
 
 [Read more about using Drips with a Safe Wallet here.](https://docs.drips.network/usage-with-a-safe/)\
