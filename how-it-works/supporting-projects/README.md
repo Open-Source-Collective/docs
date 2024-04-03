@@ -10,6 +10,7 @@ There are many ways you (or your company) can support open source projects hoste
 
 * [Credit Card, PayPal, or Bank Transfer](./#giving-via-credit-card-paypal-or-bank-transfer)
 * [Purchase Orders and Procurement](purchase-orders-and-procurement.md#how-it-works)
+* [Invoices (For Companies and Institutions)](./#invoicing-for-companies-and-institutions)
 * [Crypto](./#crpyto)
 * [Stocks](https://openstocks.co)
 * [Funds](funds-for-open-source.md)
@@ -39,6 +40,24 @@ If you select to make a contribution via bank transfer, you will automatically b
 Once the money has arrived, we will credit the amount to the initiative’s balance and you will automatically receive a receipt.‌
 
 When you arrange the transfer, if you have the option of sending an email notification for the transaction, please use [our email](../../about/contact.md).
+
+### Invoicing (For Companies and Institutions)
+
+Sometimes companies need to receive an invoice before they can make a financial contribution. This is primarily done only for amounts >$1000. If a potential donor cannot donate directly through the project's Open Collective page and needs an invoice, please contact us at hello@oscollective.org. We handle invoice creation using Quickbooks.
+
+In your email, please include:
+
+* Link to Collective's page
+* Donor company name and email address
+* Preferred date for the invoice, if if should be issued in the future
+* Description of the service the project is providing
+* Donation amount, in USD
+* Any specific Purchase Order (PO) number that needs to be on the invoice
+* Any other specific instructions
+
+Unless a different agreement is made, our standard payment term for invoices is 30 days.
+
+After the invoice is paid, it typically takes a few days for the payment to appear. As soon as our team confirms the payment has been received, we will direct the funds to your collective.&#x20;
 
 ### Crypto
 
