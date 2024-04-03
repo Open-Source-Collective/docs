@@ -28,9 +28,9 @@ At the end of the month, unidentified funds are moved to a [holding fund](https:
 
 Just send us a message (via[ Slack](http://slack.opencollective.com) or [email](https://docs.oscollective.org/about/contact)) with screenshots/receipts that include the dollar amount, the collective name, and the sender/any info about the bank transfer, so that we can send the funds to their happy home.
 
-#### What if a financial contributor requests a donation invoice?
+#### What if a financial contributor requests an invoice before making the donation?
 
-Reach out to us at hello@oscollective.org. We are happy to procure an invoice of this kind when requested. Please be ready to provide: Donor name, Email, Collective Name, & Donation amount (+ screenshots/links if applicable) for context.
+Reach out to us at hello@oscollective.org. We are happy to procure an invoice of this kind when requested. Please provide: Donor name, Email, Collective Name, & Donation amount (+ screenshots/links if applicable) for context.
 
 #### Can we accept tax-deductible or charitable funds from things like Benevity?
 
