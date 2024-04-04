@@ -6,9 +6,9 @@ description: >-
 
 # Fiscal Hosting
 
-[Fiscal hosting](https://opencollective.com/fiscal-hosting) is when an organization **holds funds on behalf of smaller projects** (which we call them  C_ollectives_). A fiscal host becomes the financial and legal representative for otherwise unincorporated groups.
+[Fiscal hosting](https://opencollective.com/fiscal-hosting) is when an organization **holds funds on behalf of smaller projects** (which we call them C\_ollectives\_). A fiscal host becomes the financial and legal representative for otherwise unincorporated groups.
 
-Fiscal hosts often provide administrative support and services such as financial oversight and management. We use the Open Collective platform to manage all financial transactions with the collectives we host.&#x20;
+Fiscal hosts often provide administrative support and services such as financial oversight and management. We use the Open Collective platform to manage all financial transactions with the collectives we host.
 
 This platform enables us (OSC and the collective) to be transparent with our finances and it allows our collectives to administer their funds directly\![ Learn more.](https://opencollective.com/fiscal-hosting)
 
@@ -22,7 +22,7 @@ One other term you may run into is “fiscal agent.” This term is often mistak
 
 ### Our Approach
 
-As the fiscal host, we hold our collectives’ funds in our bank account and are responsible for taxes, accounting, legal compliance, and financial administration. While our hosted collectives have a great deal of autonomy within the bounds of our Terms, Open Source Collective ultimately is responsible for the oversight of collectives’ funds.&#x20;
+As the fiscal host, we hold our collectives’ funds in our bank account and are responsible for taxes, accounting, legal compliance, and financial administration. While our hosted collectives have a great deal of autonomy within the bounds of our Terms, Open Source Collective ultimately is responsible for the oversight of collectives’ funds.
 
 [You can read more about what we offer our Collectives and contributors here.](./)
 
@@ -36,13 +36,13 @@ Our services are great for a variety of community-focused and collaborative proj
 
 Open Source Collective is just[ ](https://docs.opencollective.com/help/fiscal-hosts/fiscal-hosts#what-are-some-examples-of-fiscal-hosts)[one of many](https://opencollective.com/hosts) [fiscal hosts](https://docs.opencollective.com/help/fiscal-hosts/fiscal-hosts#what-are-some-examples-of-fiscal-hosts) on[ Open Collective](https://opencollective.com).
 
-#### Tax Deductible Hosts&#x20;
+#### Tax Deductible Hosts
 
-As a 501c6 we are not a registered charity so we do not offer tax-deductible donations to contributors. If this is important you may wish to look at [NumFOCUS](https://opencollective.com/numfocus), or if your project has a direct charitable or social impact that benefits the public good, you should consider our friends at [Open Collective Foundation](https://opencollective.foundation).
+As a 501c6, we are not a registered charity so we do not offer tax-deductible donations to contributors. If this is important, you may wish to look at [NumFOCUS](https://opencollective.com/numfocus), or if your project has a direct charitable or social impact that benefits the public good, you should consider a 501c3 fiscal host.
 
 #### Geography Specific Hosts
 
-If you are based in Europe, need to handle VAT reporting and would like European legal protection for your project you may want to apply to [Open Collective Europe](https://opencollective.com/europe).
+If you are based in Europe, need to handle VAT reporting, and would like European legal protection for your project, you may want to apply to [Open Collective Europe](https://opencollective.com/europe).
 
 If you're based in New Zealand and need a host to manage GST reporting you may want to look at [Open Collective NZ](https://opencollective.com/ocnz)
 
@@ -53,4 +53,3 @@ There are also fiscal sponsors that operate without the Open Collective platform
 {% hint style="info" %}
 [Ten Things to Look for in a Fiscal Sponsor](https://www.transparency-initiative.org/blog/5011/ten-things-to-look-for-in-a-fiscal-sponsor/) - _Transparency and Accountability Initiative_
 {% endhint %}
-
