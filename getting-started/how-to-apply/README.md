@@ -6,10 +6,6 @@ description: Applying to be hosted by Open Source Collective takes only minutes!
 
 **When you are ready, you can** [**apply to Open Source Collective here**](https://opencollective.com/create/opensource)**.**
 
-{% hint style="warning" %}
-If you are a US-based project with an explicitly charitable mission, and you wish to qualify for charity grants and tax-deductible donations, you may wish to apply to[ Open Collective Foundation](http://opencollective.com/foundation).
-{% endhint %}
-
 If your project is registered with GitHub we may be able to verify and accept your application immediately. Select ‘verify using GitHub’ and follow the instructions. [Read more. ](github-verification.md)
 
 Otherwise, we will ask you some questions about your project and manually approve your project within a few working days. [Read more.](manual-verification.md)

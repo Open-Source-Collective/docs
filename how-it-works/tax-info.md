@@ -14,8 +14,6 @@ OSC collects all the necessary tax information from financial contributors and p
 
 You can accept grants as a fiscally-sponsored project with OSC as your host organization.  Before you apply for a grant, make sure they can give grant funding to organizations that are 501c6 (mutual-benefit nonprofit). Some grants can only be awarded to nonprofits that are 501c3 (public-benefit nonprofit).
 
-If you are a US-based project with an explicitly charitable mission, and you wish to qualify for charity grants and tax-deductible donations, you may wish you apply to [Open Collective Foundation](http://opencollective.com/foundation).
-
 ## For Payees from Collectives
 
 ### Tax forms we require
