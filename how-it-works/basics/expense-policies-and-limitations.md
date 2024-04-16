@@ -42,6 +42,10 @@ Collective admins can[ set additional expense policies](https://docs.opencollect
 
 You can create a reimbursement or use a Virtual Card to pay for these services if it is easier.  [Fiverr](https://www.fiverr.com/support/articles/360011135837-W-9-Collection?segment=seller), [Kofi](https://help.ko-fi.com/hc/en-us/articles/10792069957661-How-Tax-Works-on-Ko-fi#01H8PEJ62CHRQEC48B6SR8CHS8), and [Upwork all issue a 1099](https://support.upwork.com/hc/en-us/articles/211063958-Report-Income-from-Upwork) for their contractors/users. &#x20;
 
+### Reimbursing shipping, duty, or import fees
+
+For any payment reimbursing costs related to import or duty fees, please also include a receipt for the package/item related to the shipping fee. For tax purposes, we need to see that the shipping expense was related to a purchase/cost that is directly associated with your hosted project.&#x20;
+
 ### Outstanding or Incomplete Expenses
 
 The responsibility for ensuring payment completions lies with the collective and/or payee. In case of a payment error
