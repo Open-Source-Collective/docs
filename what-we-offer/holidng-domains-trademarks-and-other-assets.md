@@ -7,26 +7,26 @@ description: >-
 # Trademark Registration and Holding
 
 {% hint style="info" %}
-If you wish for OSC to help with Trademark services, please fill out [this form.](https://forms.gle/UhGkAzAgxLRFvnMfA)
+If you wish for OSC to help with Trademark services, please fill out [this form](https://form.asana.com/?k=teRAD9KIlLHlWBz3xW1HTg\&d=477117439367644).
 {% endhint %}
 
 ## Trademarks
 
 Open Source Collective can work with you to register new trademarks or transfer existing trademarks to our protection.&#x20;
 
-Having a trademark registration does not prevent someone from forking the code and publishing it under a different name. OSC can also work with you, through our Open Source IP counsel, to notify those who infringe marks and, if necessary begin proceedings against abusers.&#x20;
+Having a trademark does not prevent someone from forking the code and publishing it under a different name. OSC can also work with you, through our Open Source IP counsel, to notify those who infringe marks and, if necessary, begin proceedings against abusers.&#x20;
 
-OSC does not automatically take ownership of intellectual property for projects we fiscally sponsor, but you may optionally have us hold assets, including trademarks, for your project.&#x20;
+OSC does not automatically take ownership of intellectual property for projects we fiscally sponsor, but you may have us hold assets, including trademarks, for your project.&#x20;
 
-Related expenses are paid from your Collective’s budget. Costs below are indicative of a typical registration.
+Related expenses are paid from your Collective’s budget. The costs below are an estimate of a typical registration however, depending on the countries you register your trademark in or the complexity of your application, your fees may vary.
 
 ### Options and Prices&#x20;
 
-Each of these options includes one hour with Chestek Legal to help you understand your trademarks and how to use and protect them, and advice about creating your trademark guidelines explaining how people may and may not use your name/logo. We suggest two half hour calls: one initial call to discuss strategy and a second call to review and discuss the implementation of the plan.
+Each option includes one hour with Chestek Legal to help you understand your trademarks and how to use and protect them, as well as advice about creating your trademark guidelines explaining how people may and may not use your name/logo. We suggest two half-hour calls: one initial call to discuss strategy and a second call to review and discuss the plan's implementation.
 
 * **US Single application for name and/or logo** US (one class; price increases $350 for each additional class): $1200
 * **Trademark transfer - preparing assignment of single, already registered US trademark** and recording assignment with the USPTO (the price of recording increases by $25 for each additional trademark): $350
-* **Non-US trademark(s) transfer or registration**: Please contact [hello@oscollective.org](mailto:hello@oscollective.org) for a quote.&#x20;
+* **Non-US trademark(s) transfer or registration**: Please get in touch with hello@oscollective.org for a quote.&#x20;
 
 ### FAQ
 
@@ -36,11 +36,11 @@ A trademark is “a recognizable sign, design, or expression which identifies pr
 
 While open source software is created to be shared and modified, a modified version should not also be characterized as equivalent to the original through using the same name.&#x20;
 
-A trademark registration will help you stop those who put out a bad product, or even introduce malware, and pass it off as your authentic code. It will also help you stop those who try to exploit your name by creating complementary products using your name or something similar to it. Having a trademark registration does not prevent someone from forking the code and publishing it under a different name.
+A trademark registration will help you stop those who put out a bad product or even introduce malware and pass it off as your authentic code. It will also help you stop those who try to exploit your name by creating complementary products using your name or something similar to it. Having a trademark does not prevent someone from forking the code and publishing it under a different name.
 
 #### Do I need to renew the trademark or will it expire?
 
-Unless otherwise notified we will renew your trademarks and invoice your Collective when needed. If you Collective does not have sufficient funds to renew we will notify you as soon as possible and work with you to establish a successor or let the trademark lapse.&#x20;
+Unless otherwise notified, we will renew your trademarks and invoice your Collective when needed. If your Collective does not have sufficient funds to renew, we will notify you as soon as possible and work with you to establish a successor or let the trademark lapse.&#x20;
 
 Depending on the type of maintenance filings, the USPTO charges either $425 or $525 per class in the registration. Our fee to prepare and file the maintenance documents is $450.&#x20;
 
