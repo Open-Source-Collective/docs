@@ -8,23 +8,16 @@
 
 **Grace Powers** - she/her, Operations Coordinator
 
-**Shannon Wray** - she/her, Marketing. Part-time with OC, OCNZ and Gift Collective.
-
 ## Our Board of Directors
 
-Pia Mancini (president)&#x20;
+Pia Mancini
 
-Ben Nickolls (treasurer)&#x20;
+Alyssa Wright
 
-Justin Dorfman (Secretary)&#x20;
+Justin Dorfman
 
-Samson Goddy&#x20;
+Samson Goddy
 
-Henry Zhu&#x20;
+Duane O'Brien
 
-Alyssa Wright&#x20;
-
-Duane O’Brien
-
-
-
+Joel Wasserman
