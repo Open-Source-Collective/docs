@@ -45,7 +45,7 @@ If you reach this step please contact [support@opencollective.com](mailto:suport
 
 ### Receiving Financial Contributions
 
-GitHub processes payments to GitHub Sponsors participants on a monthly basis. We allocate these payments when we receive them, **typically on the 27th of each month**.
+GitHub processes payments to GitHub Sponsors participants on a monthly basis. We allocate these payments when we receive them, **typically at the end of the calendar month or 1st week of the following month**.
 
 {% hint style="success" %}
 Funds will be automatically added to Collectives' balance, minus our 10% administration fee, at the end of each month. 'GitHub Sponsors' will be indicated as the source of the funds. &#x20;
