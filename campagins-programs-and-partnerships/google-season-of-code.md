@@ -13,7 +13,7 @@ If you plan on participating in [Google Summer of Code](https://opencollective.c
 
 * What is the EXACT name of your account in the Payoneer system? --\
   **Open Source Collective 501 c 6**
-* What is the email address associated with this Payoneer account? -- **support@opencollective.com**
+* What is the email address associated with this Payoneer account? -- **hello@oscollective.org**
 * If you are accepting funds for several orgs, have Linux Foundation, NumFOCUS, Open Collective, Software Freedom Conservancy, Software in the Public Interest, or another fiscal sponsor, please note it here. -- **Open Source Collective**
 
 Once you have completed the form, send us an email at '**hello@oscollective.org**_'_ to confirm you will be participating and we can better track the payment associated with your organization.
