@@ -40,7 +40,7 @@ GitHub staff will review your application, and you'll be notified when you can p
 {% hint style="info" %}
 Open Source Collective acts as your legal and financial home. You do not need to enter your own Stripe account or business information.\
 \
-If you reach this step please contact [support@opencollective.com](mailto:suport@opnollec) and we will amend your application with GitHub.
+If you reach this step please contact hello@oscollective.org and we will amend your application with GitHub.
 {% endhint %}
 
 ### Receiving Financial Contributions
