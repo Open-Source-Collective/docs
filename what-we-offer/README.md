@@ -17,7 +17,7 @@ We take care of invoices, bank transfers, tax filings, contracts, and legal issu
 In addition to being our projects' legal and financial home, we provide:
 
 * Fundraising, budgeting, and grantmaking tools. [More.](../how-it-works/basics/)
-* Backend integration with other fundraising platforms, like GitHub Sponsors. [More](../campagins-programs-and-partnerships/github-sponsors.md).
+* Backend integration with other fundraising platforms, like GitHub Sponsors. [More](../campaigns-programs-and-partnerships/github-sponsors.md).
 * Virtual debit cards linked to your project’s balance that you can use online. [More.](virtual-cards.md)
 * Administrative support for organizations participating in funding campaigns or support programs. [More.](broken-reference)
 * Vendor registration and invoicing on behalf of corporate supporters. [More](../how-it-works/supporting-projects/purchase-orders-and-procurement.md).

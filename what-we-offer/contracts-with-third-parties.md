@@ -21,7 +21,7 @@ OSC is the legal and financial home of our hosted projects. If you would like to
 * Issue template agreements for general or event-specific sponsorship.
 
 {% hint style="info" %}
-Collectives can receive their GitHub Sponsor payments directly through the Open Collective platform. [Read more about our partnership.](../campagins-programs-and-partnerships/github-sponsors.md)
+Collectives can receive their GitHub Sponsor payments directly through the Open Collective platform. [Read more about our partnership.](../campaigns-programs-and-partnerships/github-sponsors.md)
 {% endhint %}
 
 ### There are instances where we can not sign for you.&#x20;

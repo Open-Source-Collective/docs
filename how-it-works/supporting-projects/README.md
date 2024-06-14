@@ -15,7 +15,7 @@ There are many ways you (or your company) can support open source projects hoste
 * [Stocks](https://openstocks.co)
 * [Funds](funds-for-open-source.md)
 * [Company-issued gift cards](https://opencollective.com/gift-cards)
-* [GitHub Sponsors](../../campagins-programs-and-partnerships/github-sponsors.md)
+* [GitHub Sponsors](../../campaigns-programs-and-partnerships/github-sponsors.md)
 
 On behalf of our collectives, thank you for your support! We value all of our contributors. If there is anything you need as a donor, please [reach out](../../about/contact.md).
 

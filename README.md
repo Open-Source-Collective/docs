@@ -20,7 +20,7 @@ We handle your accounting, taxes, invoices, and administration. You decide where
 
 * Manage your open source project’s funds transparently
 * Receive financial contributions by credit card, PayPal, electronic bank transfer, or [crypto](https://docs.oscollective.org/how-it-works/supporting-projects#crypto) (beta)
-* Receive funds through our partners, including [GitHub Sponsors](campagins-programs-and-partnerships/github-sponsors.md), [Drips](campagins-programs-and-partnerships/drips.md), [Google Summer of Code](campagins-programs-and-partnerships/google-summer-of-code.md), and [Google Season of Docs](campagins-programs-and-partnerships/google-season-of-docs.md)
+* Receive funds through our partners, including [GitHub Sponsors](campaigns-programs-and-partnerships/github-sponsors.md), [Drips](campaigns-programs-and-partnerships/drips.md), [Google Summer of Code](campaigns-programs-and-partnerships/google-summer-of-code.md), and [Google Season of Docs](campaigns-programs-and-partnerships/google-season-of-docs.md)
 * Receive funds from corporate supporters, including Microsoft and Google. We’re registered as a supplier to many corporate sponsors.
 * Register trademarks, sign contracts and legal agreements, and apply for grants
 * Pay yourself, your team, contractors, vendors, and suppliers

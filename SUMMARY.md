@@ -34,12 +34,12 @@
 * [Tax and Accounting](how-it-works/tax-info.md)
 * [Fees](how-it-works/fees.md)
 
-## Campagins, Programs & Partnerships
+## Campaigns, Programs & Partnerships
 
-* [GitHub Sponsors](campagins-programs-and-partnerships/github-sponsors.md)
-* [Drips](campagins-programs-and-partnerships/drips.md)
-* [Google Summer of Code](campagins-programs-and-partnerships/google-summer-of-code.md)
-* [Google Season of Docs](campagins-programs-and-partnerships/google-season-of-docs.md)
+* [GitHub Sponsors](campaigns-programs-and-partnerships/github-sponsors.md)
+* [Drips](campaigns-programs-and-partnerships/drips.md)
+* [Google Summer of Code](campaigns-programs-and-partnerships/google-summer-of-code.md)
+* [Google Season of Docs](campaigns-programs-and-partnerships/google-season-of-docs.md)
 
 ## About
 
