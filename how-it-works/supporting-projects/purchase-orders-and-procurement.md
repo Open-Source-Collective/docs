@@ -27,6 +27,11 @@ We'll work with you to establish the best vehicle for you and your organization,
 
 ### Fees
 
+{% hint style="info" %}
+If you are including the 10% host fee in the Purchase Order (P.O.) / Invoice, here's[ our guide on how to calculate](https://docs.google.com/document/d/1fPxFh3RO2I0UiAZYcs9\_hiFQdaMeLOHH-ET7dxkqutU/edit?usp=sharing) the host fee from the Gross amount so you receive exact total amount in your collective balance.   Kindly get in touch with Open Source Collective at hello@oscollective.org&#x20;
+{% endhint %}
+
 Open Source Collective charges a fixed 10% fee on all contributions received on the initial deposit. i.e. we **do not** charge an additional 10% to Collectives when donation distributions are made.&#x20;
 
 [Read more about our fees.](../fees.md)
+
