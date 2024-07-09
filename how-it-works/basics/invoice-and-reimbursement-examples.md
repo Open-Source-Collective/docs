@@ -6,7 +6,7 @@ description: When to use "invoice" vs. "reimbursement" and what is required on e
 
 ## Invoices&#x20;
 
-[Invoices](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#invoices) are used to pay people for labor or work done on behalf of the collective. \
+[Invoices](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#invoices) are typically used to pay people for labor or work done on behalf of the collective. \
 \
 Unlike reimbursements, you don't need to include a picture or PDF of an invoice to submit on Open Collective. However, invoices must meet specific criteria and include certain information:
 

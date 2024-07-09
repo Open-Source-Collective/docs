@@ -10,6 +10,7 @@ description: >-
 
 * OSC will only process payouts approved by an admin of the collective.
 * OSC doesn't pay future expenses, such as invoices for work scheduled in the future. For instance, an invoice can only be paid for work completed the day prior to its submission.
+* If a vendor requires partial payment to reserve their services, you must submit a written invoice from the vendor that contains the information about the reservation and partial payment.
 * Expense submitter must have their "Legal Name" in their profile info setting.&#x20;
 * Payouts must be broken down into individual expenses that detail the money spent. We do not pay out undifferentiated chunks of money and can not issue funds for future expenses.
 * All expenditures must be permitted under 501(c)(6) regulations and adhere to our mission statement 'to promote a sustainable and healthy ecosystem to sustain open source technology for the future.'
