@@ -8,7 +8,7 @@ If your open source organization/project is participating in the Season of Docs 
 Google Season of Docs program uses the Open Source Collective (a 501c6 nonprofit organization) as a fiscal host and utilizes the Open Collective platform to give grants to the accepted projects.
 {% endhint %}
 
-## Your project has been accepted by the Google Season of Docs program. :tada:
+## If Your project has been accepted by the Google Season of Docs program join us! &#x20;
 
 **If your project has no legal status and bank account or is not fiscally hosted by any organization.**
 

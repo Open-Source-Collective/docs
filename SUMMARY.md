@@ -40,6 +40,7 @@
 * [Drips](campaigns-programs-and-partnerships/drips.md)
 * [Google Summer of Code](campaigns-programs-and-partnerships/google-summer-of-code.md)
 * [Google Season of Docs](campaigns-programs-and-partnerships/google-season-of-docs.md)
+* [Polas.sh](campaigns-programs-and-partnerships/polas.sh.md)
 
 ## About
 
