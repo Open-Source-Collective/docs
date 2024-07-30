@@ -29,19 +29,25 @@ Unlike reimbursements, you don't need to include a picture or PDF of an invoice 
 ### **Invoices Must Include the Following Detail:**
 
 1. A clear and detailed description of the work completed
-   * **This part is very important.** Our accountants and auditors perform audits to ensure compliance. Make your descriptions simple, clear, and informative. Instead of writing "maintenance" or "support", specify what you're maintaining or supporting. A good rule of thumb when submitting an invoice: Explain it like I'm 5!&#x20;
-   * Whenever possible, please include links to the relevant changelogs, repositories, or blog posts to support your invoices. Providing links and other supporting documentation fosters transparency and expedites invoicing processing, allowing you to get paid quicker.
+   * **This part is very important.** Our accountants and auditors perform audits to ensure compliance. Make your descriptions simple, clear, and informative. Instead of writing "maintenance" or "support," specify what you're maintaining or supporting. When submitting an invoice, a good rule of thumb is to explain it like I'm 5.
    * **Do not** solely use words like "work" or "payment"; those words do not describe the work completed.&#x20;
-2. A time-frame of when the work was completed. Typically, this is specified by month and year or quarter. You may also share the hours worked, but please also specify the month as well.&#x20;
-   1. Eg: "February 2023", "q1 2023", or "5 hours in September 2023"
+2. A time-frame of when the work was completed. Typically, this is specified by month and year or quarter. You may also share the hours worked, but please also specify the month as well.  Eg: "February 2023", "q1 2023", or "5 hours in September 2023"
 
 {% hint style="warning" %}
-&#x20;We might mark an invoice "incomplete" that lacks sufficient explanation of the work performed or is missing other important information. This does not mean we are canceling your payment, but we need you to add more detail to the description. In the event that your invoice is marked "incomplete", a collective admin will need to re-approve it after you have made the necessary revisions.&#x20;
+&#x20;We might mark an invoice "incomplete" if it lacks sufficient explanation of the work performed or other important information. This does not mean we are canceling your payment, but we need you to add more detail to the description. In the event that your invoice is marked "incomplete," a collective admin will need to re-approve it after you have made the necessary revisions.&#x20;
+{% endhint %}
+
+
+
+{% hint style="info" %}
+It is helpful to include the relevant changelogs, repositories, or blog posts to support your invoices whenever possible. Providing links and supporting documentation fosters transparency and expedites invoicing processing, allowing you to get paid quickly.
+
+You can reference GitHub's [URL structure here](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/autolinked-references-and-urls) to create a link that encompasses the work in your invoice. For example, this URL will show the work done for a specific time period by one particular user:  https://github.com/_ORG_/_REPO_/commits?author=_USER_\&since=_YYYY-MM-DD_\&until=_YYYY-MM-DD_
 {% endhint %}
 
 ### Invoice Examples
 
-You can include the detail of the work done in the description field of each line item.&#x20;
+You can include the details of the work done in the description field of each line item.&#x20;
 
 <div>
 
