@@ -1,43 +1,73 @@
 ---
-description: When to use "invoice" vs. "reimbursement" and what is required on each
+description: >-
+  Understanding when to use an Invoice vs. a Reimbursement and what is required
+  for each.
 ---
 
-# Invoice and Reimbursements
+# Invoice vs. Reimbursement
 
-## Invoices&#x20;
+### Invoice vs. Reimbursement: What's the Difference?
 
-[Invoices](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#invoices) are typically used to pay people for labor or work done on behalf of the collective. \
-\
-Unlike reimbursements, you don't need to include a picture or PDF of an invoice to submit on Open Collective. However, invoices must meet specific criteria and include certain information:
+**Invoice:** Use an [invoice](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#invoices) when you're getting paid for work (like coding, designing, or contributing to the community). An invoice should include:
 
-### Invoices Must Meet the Following Criteria:
+* **Description of services** provided
+* **Timeframe of work**, such as "February 2023,"" Q1 2023," or "5 hours in September 2023"
+* **Total amount** due
+* **Payment details** (e.g., bank account, PayPal)
 
-1. The "pay to" name (the payee) must match the name under "payout method"
-2. The "pay to" name (the payee) must include their billing address, which the payee will be prompted for when submitting the invoice
-3. Invoices can only be processed for work done during your tenure with Open Source Collective; we cannot process any invoices for work completed prior to becoming hosted by OSC
-4. For any invoice over $5,000 USD:
-   * &#x20;the payee can’t be the one who approved the expense (unless they are the sole admin), and; &#x20;
-   * payments must be made by electronic bank transfer via Wise, not PayPal
-5. If attaching a .pdf invoice that requires an address, the invoice should be made out to OSC:
+_Example_: If you've spent 10 hours coding a new feature, you will submit an invoice detailing your hourly rate and the total amount for those hours.
 
-> **Open Source Collective**&#x20;
->
-> **440 N. Barranca Ave #3939**
->
-> **Covina, CA 91723**
+**Reimbursement:** Use this when you're getting paid back for expenses you’ve already incurred on behalf of the project (like purchasing software, hosting services, or equipment).&#x20;
 
-### **Invoices Must Include the Following Detail:**
+Reimbursements require **Receipts** showing:
 
-1. A clear and detailed description of the work completed
-   * **This part is very important.** Our accountants and auditors perform audits to ensure compliance. Make your descriptions simple, clear, and informative. Instead of writing "maintenance" or "support," specify what you're maintaining or supporting. When submitting an invoice, a good rule of thumb is to explain it like I'm 5.
-   * **Do not** solely use words like "work" or "payment"; those words do not describe the work completed.&#x20;
-2. A time-frame of when the work was completed. Typically, this is specified by month and year or quarter. You may also share the hours worked, but please also specify the month as well.  Eg: "February 2023", "q1 2023", or "5 hours in September 2023"
+* Vendor’s name (who you paid)
+* Transaction date
+* Description of the item or service
+* Amount paid
+* Currency and form of payment (cash, credit, etc.)
+* Name of the hosted project or payee who made the purchase
+
+_Example_: If you bought a domain name for the project, you'd submit a reimbursement request with the receipt containing your name or the hosted project's name.
+
+{% hint style="info" %}
+In order for any expense to be paid&#x20;
+
+* The "pay to" name (the payee) must match the name under "payout method"
+* The "pay to" name (the payee) must include their billing address, which the payee will be prompted for when submitting the invoice
+* Invoices can only be processed for work done during your tenure with Open Source Collective; we cannot process any invoices for work completed prior to becoming hosted by OSC
+{% endhint %}
+
+## Examples
+
+### Reimbursements
+
+Receipts are required so that we can ensure the requested amount matches the purchased amount. A **valid receipt** needs to be issued by the vendor and contains:
+
+1. The name of the vendor (person or company you paid) &#x20;
+2. Transaction date (when you paid) &#x20;
+3. A detailed description of goods or services purchased (what you bought) &#x20;
+4. Amount paid
+5. The currency in question. This is usually clear from the address and the currency symbol. &#x20;
+6. Form of payment (cash, check, or last four digits of the credit card)
+7. The name of the payee or hosted project.
+
+When uploading the receipt into Open Collective, the date, currency, and amount given **must** match the receipt exactly. The name of the vendor or detailed description should also be generally clear.&#x20;
+
+### Invoices&#x20;
+
+1. Must include a detailed description of the work completed. **This part is very important.** Our accountants and auditors check records so make your descriptions easy to understand and concise. Instead of writing "maintenance" or "support," specify what you are maintaining or supporting. Using words like "work" or "payment" is too vague.
+2.  If attaching a .pdf invoice that requires an address, the invoice should be made out to OSC:\
+    **Open Source Collective** \
+    **440 N. Barranca Ave #3939**
+
+    **Covina, CA 91723**
+3. For any invoice over $5,000 USD:\
+   the payee can’t be the one who approved the expense (unless they are the sole admin), and;  payments must be made by electronic bank transfer via Wise, not PayPal
 
 {% hint style="warning" %}
 &#x20;We might mark an invoice "incomplete" if it lacks sufficient explanation of the work performed or other important information. This does not mean we are canceling your payment, but we need you to add more detail to the description. In the event that your invoice is marked "incomplete," a collective admin will need to re-approve it after you have made the necessary revisions.&#x20;
 {% endhint %}
-
-
 
 {% hint style="info" %}
 It is helpful to include the relevant changelogs, repositories, or blog posts to support your invoices whenever possible. Providing links and supporting documentation fosters transparency and expedites invoicing processing, allowing you to get paid quickly.
@@ -83,28 +113,7 @@ Grants, awards, and donations should be used to reflect "gifts". Gifts can be gi
 
 **Example:** 'Aosus writing contest' [award announcement](https://opencollective.com/aosus/projects/aosus-writing-contest)
 
-
-
 {% hint style="info" %}
 If you are sending money to someone for contributions made to the project (code, documentation, design, community), please **do not use** these terms: "grant", "award", or "donation". You should instead use terms like 'supporting...', 'time spent on...', or 'maintenance on....'
 {% endhint %}
-
-## Reimbursements
-
-[Reimbursements](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#reimbursements) are used to re-pay someone for expenses and costs for goods that have already been incurred on behalf of the collective.
-
-Receipts are required so that we can ensure the requested amount matches the purchased amount to approve the reimbursement.
-
-Do not use reimbursements to pay someone for services rendered to the collective. If someone needs to receive payment for work completed, please ask that person to file an invoice.
-
-A **valid receipt** needs to be issued by the vendor and contains:
-
-1. The name of the vendor (person or company you paid) &#x20;
-2. Transaction date (when you paid) &#x20;
-3. A detailed description of goods or services purchased (what you bought) &#x20;
-4. Amount paid
-5. The currency in question. This is usually clear from the address and the currency symbol. &#x20;
-6. Form of payment (cash, check, or last four digits of the credit card)
-
-When uploading the receipt into Open Collective, the date, currency, and amount given **must** match the receipt exactly. The name of the vendor or detailed description should also be generally clear.&#x20;
 
