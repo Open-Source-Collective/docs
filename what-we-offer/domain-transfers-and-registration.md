@@ -10,7 +10,7 @@ Open Source Collective uses Namecheap as our domain registrar. Transferring a do
 
 To initiate a transfer of a domain to our registrar, please reach out to ​hello@oscollective.org and fill out the domain transfer [form](https://form.asana.com/?k=wURNAlWdGOZwNgKpZ3kGIQ\&d=477117439367644).
 
-Transferring a domain to Open Source Collective will require you to 'unlock' the domain with your current registrar and share an Authorization Code (or Auth Code/EPP Code) with us. We will import your current configuration and migrate the domain to our registrar with a new virtual card issued on your collective.&#x20;
+Transferring a domain to Open Source Collective will require you to 'unlock' the domain with your current registrar and share an Authorization Code (or Auth Code/EPP Code) with us.&#x20;
 
 ### Domain Manager
 
@@ -22,7 +22,7 @@ Open Source Collective will not be accountable for domain renewal and associated
 
 It is recommended that you use a CDN like CloudFlare to manage your domain. This enables Open Source Collective to act as the domain owner while you maintain your own domain's DNS configuration.
 
-If you have not done so already, we recommend that you set your domain's nameservers to those provided by your CDN before initiating a transfer. Instructions to do so can be found in your CDN's documentation: ​
+If you have not done so already, we recommend that you set your domain's nameservers to those provided by your CDN before initiating a transfer. Instructions to do so can be found in your CDN's documentation.
 
 ### Updating Nameservers
 
