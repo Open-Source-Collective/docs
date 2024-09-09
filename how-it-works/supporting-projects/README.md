@@ -87,3 +87,11 @@ Open Source Collective does not accept check donations.
 Open Source Collective charges our hosted Collectives a fixed 10% fee on all contributions received in return for our fiscal hosting services.
 
 [Read more about our fees.](../fees.md)
+
+## Policy & Actions
+
+If we notice an abnormally large amount of disputed/flagged donations to a collective, we will do one or more of the following actions:
+
+* Freeze contributions to the collective and suspend any expenses.
+* Investigate all donations and return any flagged or disputed within our refund window.
+* Follow up with the collective admins to implement additional security checks on donations and expenses until the percentage of fraudulent charges decreases.
