@@ -14,9 +14,9 @@ Transferring a domain to Open Source Collective will require you to 'unlock' the
 
 ### Domain Manager
 
-Following the successful transfer of the domain, Open Source Collective will extend an invitation to the respective collective admin as Domain Manager. The Domain Manager will manage the domain billings such as Domain Renewal, and will get limited permissions like updating name servers, etc.&#x20;
+Following the successful transfer of the domain, Open Source Collective will extend an invitation to the respective collective admin as Domain Manager. The Domain Manager will manage the domain billings such as coordinating Domain Renewal with OSC, and will get limited permissions like changing name servers, etc.&#x20;
 
-Open Source Collective will not be accountable for domain renewal and associated billing responsibilities. Instead, The Domain Manager will be tasked with managing and responsible for domain renewal and billings, the Domain Manager will have the option to utilize a virtual card issued by Open Source Collective or their own personal payment card (the Domain Manager is eligible for reimbursements from their collective).
+Open Source Collective will be managing the domain renewal and the Domain Manager will be tasked to coordinate and remind the fiscal host to renew the domain and responsible for domain renewal reimbursements. The domain Manager or the Collective Admin also needs to make sure that the collective has appropriate budget for the domains.&#x20;
 
 ### Using a CDN
 
