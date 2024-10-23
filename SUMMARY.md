@@ -12,7 +12,7 @@
   * [Domain Transfers and Registration](what-we-offer/domain-transfers-and-registration.md)
   * [Signing Contracts and Entering Into Legal Agreements](what-we-offer/contracts-with-third-parties.md)
   * [Trademark Registration and Holding](what-we-offer/holidng-domains-trademarks-and-other-assets.md)
-  * [Grants for Conference Attendance](what-we-offer/grants-for-conference-attendance.md)
+  * [Grants for Conference Attendance and Conference Organizers](what-we-offer/grants-for-conference-attendance.md)
 
 ## Getting Started
 
