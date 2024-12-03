@@ -8,7 +8,7 @@ description: Open Source Collective is offering domain transfer to it's hosted c
 
 Open Source Collective uses Namecheap as our domain registrar. Transferring a domain to Namecheap costs around \~$15. Renewal costs will vary depending on the top-level domain. All costs are charged to your Collective.
 
-To initiate a transfer of a domain to our registrar, please reach out to ​hello@oscollective.org and fill out the domain transfer [form](https://forms.gle/kNbZsJ2KVsFcveui8):&#x20;
+To initiate a transfer of a domain to our registrar, please reach out to ​hello@oscollective.org and fill out the domain transfer [form](https://forms.gle/kNbZsJ2KVsFcveui8).
 
 Transferring a domain to Open Source Collective will require you to 'unlock' the domain with your current registrar and share an Authorization Code (or Auth Code/EPP Code) with us.&#x20;
 
@@ -16,7 +16,7 @@ Transferring a domain to Open Source Collective will require you to 'unlock' the
 
 Following the successful transfer of the domain, Open Source Collective will extend an invitation to the respective collective admin as Domain Manager. The Domain Manager will manage the domain billings such as coordinating Domain Renewal with OSC, and will get limited permissions like changing name servers, etc.&#x20;
 
-Open Source Collective will be managing the domain renewal and the Domain Manager will be tasked to coordinate and remind the fiscal host to renew the domain and responsible for domain renewal reimbursements. The domain Manager or the Collective Admin also needs to make sure that the collective has appropriate budget for the domains.&#x20;
+Open Source Collective will be managing the domain renewal and the Domain Manager will be tasked to coordinate and remind the fiscal host to renew the domain and responsible for domain renewal reimbursements. The domain Manager or the Collective Admin also needs to make sure that the collective has the appropriate budget for the domains.&#x20;
 
 ### Using a CDN
 
