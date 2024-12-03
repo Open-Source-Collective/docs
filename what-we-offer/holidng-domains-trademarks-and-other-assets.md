@@ -7,7 +7,7 @@ description: >-
 # Trademark Registration and Holding
 
 {% hint style="info" %}
-If you wish for OSC to help with Trademark services, please fill out [this form](https://form.asana.com/?k=teRAD9KIlLHlWBz3xW1HTg\&d=477117439367644).
+If you wish for OSC to help with Trademark services, please fill out [this form](https://forms.gle/WMkeYFGfDN9TuzHK6).
 {% endhint %}
 
 ## Trademarks
@@ -68,7 +68,7 @@ If you register your trademark in non-US countries, Chestek Legal will coordinat
 
 We include help creating your trademark guidelines in our service because it’s an important part of the process. These guidelines are normally hosted on your website, repo, or Collective page, and they help people understand how they can and cannot use your name and/or logo, and how your trademark interacts with your open source license.&#x20;
 
-Here’s a [model trademark guidelines template](http://modeltrademarkguidelines.org/index.php/Model\_Trademark\_Guidelines) developed for open source projects by Pam, to serve as a starting point.
+Here’s a [model trademark guidelines template](http://modeltrademarkguidelines.org/index.php/Model_Trademark_Guidelines) developed for open source projects by Pam, to serve as a starting point.
 
 #### Leaving Open Source Collective
 
@@ -76,7 +76,7 @@ If you are moving to another fiscal sponsor or starting your own entity, and tha
 
 If the project is shutting down completely, or you don’t have a successor entity that we are allowed to transfer assets to, we will allow the trademarks to lapse.
 
-If your Collective runs out of money and can’t (or doesn’t want to) pay the trademark renewal fees after 5 years (the first time) or 10 years (thereafter), we will allow the trademark to lapse. (See OSC’s [terms of fiscal sponsorship](https://docs.google.com/document/u/1/d/e/2PACX-1vQbiyK2Fe0jLdh4vb9BfHY4bJ1LCo4Qvy0jg9P29ZkiC8y\_vKJ\_1fNgIbV0p6UdvbcT8Ql1gVto8bf9/pub) section 6 for more details about termination).
+If your Collective runs out of money and can’t (or doesn’t want to) pay the trademark renewal fees after 5 years (the first time) or 10 years (thereafter), we will allow the trademark to lapse. (See OSC’s [terms of fiscal sponsorship](https://docs.google.com/document/u/1/d/e/2PACX-1vQbiyK2Fe0jLdh4vb9BfHY4bJ1LCo4Qvy0jg9P29ZkiC8y_vKJ_1fNgIbV0p6UdvbcT8Ql1gVto8bf9/pub) section 6 for more details about termination).
 
 #### How can I learn more?
 
