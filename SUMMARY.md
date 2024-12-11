@@ -33,6 +33,7 @@
   * [Funds](how-it-works/supporting-projects/funds-for-open-source.md)
 * [Tax and Accounting](how-it-works/tax-info.md)
 * [Fees](how-it-works/fees.md)
+* [Understanding the Types of Funds we Handle](how-it-works/understanding-the-types-of-funds-we-handle.md)
 
 ## Campaigns, Programs & Partnerships
 
