@@ -12,11 +12,9 @@ Contributions, or donations, are funds provided by individuals or organizations 
 
 In alignment with nonprofit principles, contributions fuel mission-driven work that benefits the open source community as a whole, rather than payments tied to transactional agreements.
 
-
-
 ## **Payments/Funds from Customers/Contract-based Funding**
 
-Business payments, or contract-based funding, on the other hand, involve a transactional exchange. These funds often arise when a hosted project engages in activities that dirextly benefit a customer or client (in some cases, though, they might also come from a grant, which may have a broader scope and have a larger impact base). These payments typically involve:
+Business payments, or contract-based funding, on the other hand, involve a transactional exchange. These funds often arise when a hosted project engages in activities that directly benefit a customer or client (in some cases, though, they might also come from a grant, which may have a broader scope and have a larger impact base). These payments typically involve:
 
 * Providing goods or services or engaging in work that results in specific deliverables
 * Formalized agreements
@@ -25,13 +23,7 @@ An example of this could include grants, which OSC can assist with. These often 
 
 ## Why this Matters
 
-As a nonprofit in open source, transparency, compliance with nonprofit regulations, and trust with the community is of the utmost importance to us. Contributions drive collective impact and align with our mission to advance the open source ecosystem. While business payments can also assist with that, it also requires hosted projects to fulfull specific contractual obligations or client needs that OSC can only assist with in certain capacities.
+As a nonprofit in open source, transparency, compliance with nonprofit regulations, and trust with the community is of the utmost importance to us. Contributions drive collective impact and align with our mission to advance the open source ecosystem. While business payments can also assist with that, it also requires hosted projects to fulfill specific contractual obligations or client needs that OSC can only assist with in certain capacities.
 
 Understanding this difference ensures that all funds are managed by OSC and our projects responsibly.&#x20;
-
-\
-\
-
-
-
 
