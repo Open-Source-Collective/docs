@@ -4,7 +4,7 @@
 
 #### What does the approval process look like for expenses?
 
-Once expenses are submitted, they need to be approved by a collective admin. Approved expenses are paid out by OSC[ twice a week, on Mondays and Thursdays](https://docs.opencollective.foundation/how-it-works/basics#submitting-expenses), US time. If there are any issues with the payment or you can expect delays, an OSC admin will comment below the expense and you will receive an email about it (note comments are private to admins and payees). Generally approved expenses take less than a week to be paid out and to hit your account, but could be more if there are issues or the payment processor takes longer.\
+Once expenses are submitted, they need to be approved by a collective admin. Approved expenses are paid out by OSC twice a week, on Tuesday and Thursday, US time. If there are any issues with the payment or you can expect delays, an OSC admin will comment below the expense and you will receive an email about it (note comments are private to admins and payees). Generally approved expenses take less than a week to be paid out and to hit your account, but could be more if there are issues or the payment processor takes longer.\
 \
 Please see[ Submitting Expenses](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses) for more information on how to submit an expense.&#x20;
 
@@ -26,8 +26,6 @@ The expense amount and title will be listed on the Collective's public page, but
 
 #### How can we pay for large expenses that we cannot pay out-of-pocket and then get reimbursed later?
 
-Depending on the size of the expense, you may be able to use a virtual card.
-
 For large expenses that you cannot pay out-of-pocket, you can have your vendors and service providers submit invoices directly via your collective's page, or you can use the "[invite expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#inviting-a-third-party-to-submit-an-expense)" option, where you fill in the details and they receive an email and then just need to confirm. Vendors can invoice OSC through your page to get paid, and then we pay them directly.
 
 #### Can I issue payment using cryptocurrency, Venmo, or CashApp?
@@ -36,20 +34,23 @@ Not at this time. We only pay out expenses via bank transfer or PayPal.&#x20;
 
 ## Can I refund a donation or get a refund for one I have made?
 
-If you need to refund your transaction for whatever reason, we can issue a refund of your transaction within **120 days** of purchase.&#x20;
+As a nonprofit organization, Open Source Collective operates on the principle that donations are voluntary contributions made to support the mission and activities of the collectives we host. Refunds for donations are generally not applicable, as they are not payments for specific deliverables or services.
 
-To initiate a return, please send an email to '[hello@oscollective.org](mailto:hello@oscollective.org)' with the following information:
+**Refund Request Procedure**
 
-1. The URL of the donation (e.g. [https://opencollective.com/opensource](https://opencollective.com/opensource)<mark style="color:blue;">/expenses/123456</mark>)
-2. The date and amount of the transaction
+If you believe a refund is appropriate, you may submit a request to **hello@oscollective.org** with the following details:
 
-_**Note:**_&#x20;
+1. **Donation URL**: Provide the full URL of the donation transaction (e.g., `https://opencollective.com/opensource/expenses/123456`).
+2. **Transaction Details**: Include the date and amount of the transaction.
+3. **Authorization Confirmation**: State whether the contribution was made with your authorization (i.e., confirm that it was not a fraudulent transaction).
 
-* If a contribution was made with your authorisation (i.e. you were not the subject of fraud) and a refund would materially affect the Collective's activities and/or the contribution has already been used to further the cause of the project we reserve the right to deny your refund request.&#x20;
-* We can only issue refunds to the original source of payment used for the transaction. If the account you used for the original transaction is closed or the card you used is now expired, we can not issue a refund to another form of payment.
-* Refunds to credit cards take 1 to 3 days to process, but may take 1-2 billing cycles to appear on your credit card statement, depending on your credit card company.&#x20;
-* Refunds via Stripe Bank Transfer take 7 to 10 days to process.
-* We can not issue refunds on donations made with cryptocurrency.
+**Refund Considerations**
+
+Refund requests will be evaluated on a case-by-case basis. As stated above, refunds are generally not applicable. You can read more [about this here](https://docs.oscollective.org/how-it-works/understanding-the-types-of-funds-we-handle).
+
+We appreciate your understanding and support in helping us maintain the integrity and effectiveness of our collectives' initiatives. For further questions, please contact us at **hello@oscollective.org**.
+
+
 
 ## Taxes
 
