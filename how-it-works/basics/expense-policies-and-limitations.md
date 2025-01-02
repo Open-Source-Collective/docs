@@ -1,7 +1,7 @@
 ---
 description: >-
-  While we try to accommodate every request, we work within some limits defined
-  by the IRS, the human capacity of our staff, and technical limitations.
+  Although we strive to meet all requests, our capabilities are bound by IRS
+  regulations, staff capacity, and technical constraints.
 ---
 
 # Expense Policies and Limitations
@@ -9,13 +9,14 @@ description: >-
 ### Expense Basics
 
 * OSC will only process payouts approved by an admin of the collective.
-* OSC doesn't pay future expenses, such as invoices for work scheduled in the future. For instance, an invoice can only be paid for work completed the day prior to its submission.
-* If a vendor requires partial payment to reserve their services, you must submit a written invoice from the vendor that contains the information about the reservation and partial payment.
+* OSC doesn't pay future expenses, such as invoices for work scheduled in the future. For instance, an invoice can only be paid for work completed before the expense submission.
+* If a vendor requires partial payment to reserve their services, you must submit a written invoice from the vendor containing information about the reservation and partial payment.
 * Expense submitter must have their "Legal Name" in their profile info setting.&#x20;
 * Payouts must be broken down into individual expenses that detail the money spent. We do not pay out undifferentiated chunks of money and can not issue funds for future expenses.
-* All expenditures must be permitted under 501(c)(6) regulations and adhere to our mission statement 'to promote a sustainable and healthy ecosystem to sustain open source technology for the future.'
-* We are unable to process payments for expenses that were incurred before Open Source Collective started hosting the collective.
+* All expenditures must be permitted under 501(c)(6) regulations and adhere to our mission statement: 'To promote a sustainable and healthy ecosystem that will sustain open source technology for the future.'
+* We cannot process payments for expenses incurred before Open Source Collective started hosting the collective.
 * Due to IRS regulations, we may need to collect W9 forms before we can pay someone. If this applies to you, we will let you know.
+* If your collective also has an LLC, you can not use donated funds for any expense related to the LLC and we can not transfer donated funds to the LLC.
 
 {% hint style="info" %}
 Collective admins can[ set additional expense policies](https://docs.opencollective.com/help/collectives/expense-policy) to give guidance to expense submitters.
@@ -24,15 +25,15 @@ Collective admins can[ set additional expense policies](https://docs.opencollect
 ### Permitted Countries, OFAC Checks, and Payments to Certain Countries&#x20;
 
 * OSC cannot pay people in territories in the following sanctioned countries: Crimea, Cuba, Iran, North Korea, Sudan, Syrian Arab Republic, and Venezuela.&#x20;
-* In addition, we may be unable to pay people in: Afghanistan, Burundi, Central African Republic, Chad, Congo Republic, Democratic Republic of the Congo, Eritrea, Iraq, Libya, Somalia, Republic of South Sudan, Yemen.
-* We may face issues processing payments to some countries because Wise, our payment processor, doesn't support all countries. If your bank or country is not supported by Wise or PayPal, we cannot guarantee payment. You can find the list of countries on this website: [https://wise.com/help/articles/2571942/what-countriesregions-can-i-send-to](https://wise.com/help/articles/2571942/what-countriesregions-can-i-send-to). Note that some banks that Wise can send to may require assistance from intermediary banks, which may result in additional charges. We have no control over these charges, as they are determined by the payment processors.
-* When it comes to sending payments to certain countries, such as Nigeria, there may be difficulties due to the high fees charged by banks. Unfortunately, we have no control over this. If you are based in Nigeria, please be aware that you will need to have a minimum balance of over $30 for payouts, as the fees are typically more than $15. Please be aware that there may be instances where the fees are higher than the actual payouts you receive.&#x20;
+* In addition, we may be unable to pay people in Afghanistan, Burundi, the Central African Republic, Chad, the Congo Republic, the Democratic Republic of the Congo, Eritrea, Iraq, Libya, Somalia, the Republic of South Sudan, and Yemen.
+* We may have issues processing payments to some countries because Wise, our payment processor, doesn't support all countries. If your bank or country is not supported by Wise or PayPal, we cannot guarantee payment. The list of countries can be found on this website: https://wise.com/help/articles/2571942/what-countriesregions-can-i-send-to. Note that some banks that Wise can send to may require assistance from intermediary banks, which may result in additional charges. We have no control over these charges, as they are determined by the payment processors.
+* Due to the high fees charged by banks, sending payments to certain countries, such as Nigeria, may be difficult. Unfortunately, we have no control over this. If you are based in Nigeria, please be aware that you must have a minimum balance of over $30 for payouts, as the fees are typically more than $15. Please be aware that there may be instances where the fees are higher than the actual payouts you receive.&#x20;
 
 ### Methods of Payment
 
 * The payment method must be owned by the person submitting a claim to be paid.&#x20;
 * OSC **only** makes expense payments via PayPal and bank transfers.&#x20;
-  * We can't make direct payments via cashapp, venmo and similar services (because they don't allow nonprofits like OSC to sign up, among other reasons).
+  * We can't make direct payments via Cash App, Venmo, and similar services (because they don't allow nonprofits like OSC to sign up, among other reasons).
 * Collectives can use OSC-issued virtual cards for expenses ([more info here](https://docs.oscollective.org/what-we-offer/virtual-cards)).
 
 #### PayPal Limits
@@ -45,7 +46,7 @@ You can create a reimbursement or use a Virtual Card to pay for these services i
 
 ### Reimbursing shipping, duty, or import fees
 
-For any payment reimbursing costs related to import or duty fees, please also include a receipt for the package/item related to the shipping fee. For tax purposes, we need to see that the shipping expense was related to a purchase/cost that is directly associated with your hosted project.&#x20;
+For any payment reimbursing costs related to import or duty fees, please also include a receipt for the package/item related to the shipping fee. We need to see that the shipping expense was related to a purchase/cost directly associated with your hosted project for tax purposes.&#x20;
 
 ### Outstanding or Incomplete Expenses
 
@@ -55,6 +56,6 @@ The responsibility for ensuring payment completions lies with the collective and
 * Should payment still be required once the expense is marked as 'incomplete,' the collective and/or payee should edit the expense accordingly.
 * If the collective and/or payee fails to respond and rectify the issue within 30 days, OSC will proceed to close the expense request. If payment is still required, the submitter should resubmit the expense request.&#x20;
 
-By declining unresolved expense requests after 30 days, OSC is able to avoid having many unresolved tickets pile up. This will help the OSC team avoid confusion, inaccurate financial reporting, and potential budgetary complications.
+By declining unresolved expense requests after 30 days, OSC can avoid having many unresolved tickets pile up. This will help the OSC team avoid confusion, inaccurate financial reporting, and potential budgetary complications.
 
-To address pending 'error' payments predating 2023, OSC will make one final attempt to reach out and confirm the necessity of the payment. The expense will be closed if no response is received within 30 days.
+At the end of the year, OSC will make one final attempt to reach out and confirm the necessity of the payment. The expense will be closed if no response is received within 30 days.

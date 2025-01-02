@@ -1,7 +1,9 @@
 # Closing a Collective
 
 {% hint style="info" %}
-Reach out to us at hello@oscollective.org if you have any questions or need help with this process
+While you entered [an agreement](https://docs.oscollective.org/legal/terms-of-fiscal-sponsorship) when you joined OSC, there is no contractual obligation to stay with us.&#x20;
+
+Contact us at hello@oscollective.org if you have any questions or need help with this process.
 
 Additionally, if we notice a request to withdraw 90% or more of your funds, we will request approval from two collective admins. The expense approvers/receivers can not be the recipients of the funds if there are multiple collective admins.
 {% endhint %}
@@ -13,7 +15,7 @@ First, review the checklist below and note any tasks relevant to your collective
 * [ ] Verify all associated expenses with your project have been submitted, approved, and processed for payment.
 * [ ] If you have virtual cards, change your card information on any outside services with payment information saved. Virtual cards associated with your collective will be deactivated once you are unhosted.
 * [ ] OSC may need to hold back funds if you have any outstanding contracts with unbilled amounts or non-transferable grants.
-* [ ] if OSC holds domains or trademarks on behalf of your project, please make a complete list of all assets that should be transferred.
+* [ ] If OSC holds domains or trademarks on behalf of your project, please make a complete list of all assets that should be transferred.
 * [ ] If OSC employs maintainers on your project's behalf, please get in touch with hello@oscollective.org to ensure we have enough time to transition the employee.&#x20;
 * [ ] Notify funders with recurring sponsorships or any institution that has provided grants. Inform them if you are shutting down the project or where you are moving to.
 
@@ -21,9 +23,10 @@ First, review the checklist below and note any tasks relevant to your collective
 
 You will need to do the following before you can close your collective.
 
-1. Zero out the balance (more info [here](https://docs.opencollective.com/help/collectives/collective-settings/zero-collective-balance)). Continue to pay invoices or reimbursements, or donate the remainder to another nonprofit.
+1. Zero out the balance (more info [here](https://docs.opencollective.com/help/collectives/collective-settings/zero-collective-balance)). Continue to pay invoices or reimbursements, transfer the funds to your new fiscal host, or donate the remainder to another nonprofit.
 2. Publish a public update on the collective's page in the 'About' or 'Conversations' area to indicate the status change of the collective and where people can continue to support your project.
 3. Let donors know they should cancel recurring contributions on the Open Collective platform. This can be done through public messages, or you can download the email addresses of your donors through the admin dashboard.
+4. If you wish to close out with OSC, but still want to use the Open Collective platform to manage your collective's funds, you can also become an[ independent collective](https://docs.opencollective.com/help/independent-collectives/about-independent-collectives).
 
 ## Switching Fiscal Hosts
 
