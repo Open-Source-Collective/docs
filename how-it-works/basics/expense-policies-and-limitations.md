@@ -16,7 +16,7 @@ description: >-
 * All expenditures must be permitted under 501(c)(6) regulations and adhere to our mission statement: 'To promote a sustainable and healthy ecosystem that will sustain open source technology for the future.'
 * We cannot process payments for expenses incurred before Open Source Collective started hosting the collective.
 * Due to IRS regulations, we may need to collect W9 forms before we can pay someone. If this applies to you, we will let you know.
-* If your collective also has an LLC, you can not use donated funds for any expense related to the LLC and we can not transfer donated funds to the LLC.
+* If your collective also has an LLC related to the open source project, you can not use donated funds for any expense related to the LLC and we can not transfer donated funds to the LLC.
 
 {% hint style="info" %}
 Collective admins can[ set additional expense policies](https://docs.opencollective.com/help/collectives/expense-policy) to give guidance to expense submitters.
