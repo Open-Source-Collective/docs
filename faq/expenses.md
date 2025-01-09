@@ -48,7 +48,7 @@ If you believe a refund is appropriate, you may submit a request to **hello@osco
 
 Refund requests will be evaluated on a case-by-case basis. As stated above, refunds are generally not applicable. You can read more [about this here](https://docs.oscollective.org/how-it-works/understanding-the-types-of-funds-we-handle).
 
-We appreciate your understanding and support in helping us maintain the integrity and effectiveness of our collectives' initiatives. For further questions, please contact us at **hello@oscollective.org**.
+We appreciate your understanding and support in helping us maintain the integrity and effectiveness of our collectives' initiatives. For further questions, please contact us at **hello@oscollective.org**. (please note: we do not refund any contribution after 120 days from the donation date)
 
 
 
