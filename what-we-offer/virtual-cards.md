@@ -5,7 +5,7 @@ description: Credit or debit cards, linked to your Collective's balance
 # Virtual Cards
 
 {% hint style="warning" %}
-We have temporarily stopped our virtual cards program, if you need help or have a request regarding a virtual card please reach out to hello@oscollective.org. Our [announcement](https://opencollective.com/opensource/updates/closing-our-virtual-card-program) on virtual cards.&#x20;
+We have temporarily stopped our virtual cards program, if you need help or have a request regarding a virtual card please reach out to hello@oscollective.org. Our [announcement](https://opencollective.com/opensource/updates/closing-our-virtual-card-program) on virtual cards. We have stopped for new cards request as well.&#x20;
 {% endhint %}
 
 Virtual Cards can be issued to hosted Collectives for paying recurring payments, bills, online resources and tools, subscriptions, vendors (e.g. hosting providers), etc.
@@ -23,11 +23,13 @@ Virtual Cards can be issued to hosted Collectives for paying recurring payments,
 * These are **virtual cards.** No physical card will be issued, so these cannot be used in-store.
 * Receipts must be submitted within 30 days. If a receipt is not submitted within 30 days, the card access will be paused until you do submit the receipt
   * The card's Assignee is responsible for collecting and uploading the receipts.&#x20;
-* All transactions should comply with normal usage of Collective funds as outlined in our [Terms of Fiscal Sponsorship](https://docs.google.com/document/u/1/d/e/2PACX-1vQbiyK2Fe0jLdh4vb9BfHY4bJ1LCo4Qvy0jg9P29ZkiC8y\_vKJ\_1fNgIbV0p6UdvbcT8Ql1gVto8bf9/pub)
+* All transactions should comply with normal usage of Collective funds as outlined in our [Terms of Fiscal Sponsorship](https://docs.google.com/document/u/1/d/e/2PACX-1vQbiyK2Fe0jLdh4vb9BfHY4bJ1LCo4Qvy0jg9P29ZkiC8y_vKJ_1fNgIbV0p6UdvbcT8Ql1gVto8bf9/pub)
+* Virtual cards should not be used for personal expenses or entertainment, or they will be paused.
 
 **Limitations and Exclusions**
 
 * Virtual cards **may not** be used for [paying/reimbursing people](broken-reference) - that should be done on the OC platform.
+* Open Source Collective may pause or deactivate cards without notice if found any odd payments are found that don't support or benefit the open source project directly. &#x20;
 
 #### If you need to input Cardholder contact details/address:
 
