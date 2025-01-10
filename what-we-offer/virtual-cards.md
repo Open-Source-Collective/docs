@@ -29,7 +29,7 @@ Virtual Cards can be issued to hosted Collectives for paying recurring payments,
 **Limitations and Exclusions**
 
 * Virtual cards **may not** be used for [paying/reimbursing people](broken-reference) - that should be done on the OC platform.
-* Open Source Collective may pause or deactivate cards without notice if found any odd payments are found that don't support or benefit the open source project directly. &#x20;
+* Open Source Collective will pause or deactivate cards without notice if found any odd payments are found that don't support or benefit the open source project directly. &#x20;
 
 #### If you need to input Cardholder contact details/address:
 
