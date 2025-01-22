@@ -47,10 +47,10 @@ Support the open source projects you rely on. See how projects use their finance
 
 Didn’t find what you are looking for? :mag: Use the Search Bar in the upper right corner!
 
-:love\_letter:Email us at [hello@oscollective.org](mailto:hello@oscollective.org)
+:love\_letter: Email us at [hello@oscollective.org](mailto:hello@oscollective.org)
 
-:speech\_balloon:Join [our Slack](https://slack.opencollective.com/) and find us in the #opensource channel
+:speech\_balloon: Join our [Discord](https://discord.gg/4GAfJTkCtk) and find us in the #opensource channel
 
-:bird: Follow us on [Twitter](https://twitter.com/opensourcecoll) & [Linkedin](https://www.linkedin.com/company/opensourcecollective)
+:bird: Follow us on [Mastodon](https://mastodon.opencollective.com/@opensourcecollective), [BlueSky](https://bsky.app/profile/oscollective.org) & [Linkedin](https://www.linkedin.com/company/opensourcecollective)
 
 :round\_pushpin: Our [mailing address](about/official-info-and-docs.md#address-and-contact-info) &[ Other Important Docs](about/official-info-and-docs.md#banking-info)
