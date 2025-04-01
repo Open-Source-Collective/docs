@@ -22,7 +22,7 @@ Related expenses are paid from your Collective’s budget. The costs below are a
 
 ### Options and Prices&#x20;
 
-Each option includes one hour with Chestek Legal to help you understand your trademarks and how to use and protect them, as well as advice about creating your trademark guidelines explaining how people may and may not use your name/logo. We suggest two half-hour calls: one initial call to discuss strategy and a second call to review and discuss the plan's implementation.
+Each option includes one hour with Waterman Legal (formerly known as Chestek Legal) to help you understand your trademarks and how to use and protect them, as well as advice about creating your trademark guidelines explaining how people may and may not use your name/logo. We suggest two half-hour calls: one initial call to discuss strategy and a second call to review and discuss the plan's implementation.
 
 * **US Single application for name and/or logo** US (one class; price increases $350 for each additional class): $1200
 * **Trademark transfer - preparing assignment of single, already registered US trademark** and recording assignment with the USPTO (the price of recording increases by $25 for each additional trademark): $350
@@ -48,7 +48,7 @@ Maintenance filings are due 6 years after registration and 10 years after regist
 
 #### What happens if someone is infringing my trademark?&#x20;
 
-It’s up to you to monitor use of your trademarked name and/or logo and decide what if any action to take if you think your trademark is being infringed. As part of the setup process with Chestek Legal, you’ll get an idea of some likely scenarios and possible responses.&#x20;
+It’s up to you to monitor use of your trademarked name and/or logo and decide what if any action to take if you think your trademark is being infringed. As part of the setup process with Waterman Legal, you’ll get an idea of some likely scenarios and possible responses.&#x20;
 
 If an issue arises, you can take some steps yourself, like contacting the person directly and asking them to respect the trademark, or submitting takedown requests to online intermediaries like social media platforms and app stores. If the infringement occurs on a platform like GitHub, Twitter, or Facebook you can ask support that the works are removed from their services.
 
@@ -62,13 +62,13 @@ If you have the budget and wish to register in multiple countries, you can, but 
 
 The vast majority of trademark issues are resolved without going to court, so you don’t necessarily need to have a trademark registered in the country where the infringer lives in order to achieve some degree of compliance.
 
-If you register your trademark in non-US countries, Chestek Legal will coordinate with lawyers in those countries to perform the services on your behalf. Their fees will be billed to you without any markup.
+If you register your trademark in non-US countries, Waterman Legal will coordinate with lawyers in those countries to perform the services on your behalf. Their fees will be billed to you without any markup.
 
 #### What are trademark guidelines?
 
 We include help creating your trademark guidelines in our service because it’s an important part of the process. These guidelines are normally hosted on your website, repo, or Collective page, and they help people understand how they can and cannot use your name and/or logo, and how your trademark interacts with your open source license.&#x20;
 
-Here’s a [model trademark guidelines template](http://modeltrademarkguidelines.org/index.php/Model_Trademark_Guidelines) developed for open source projects by Pam, to serve as a starting point.
+Here’s a [model trademark guidelines template](http://modeltrademarkguidelines.org/index.php/Model_Trademark_Guidelines) developed for open source projects by Pam Chestek to serve as a starting point.
 
 #### Leaving Open Source Collective
 
@@ -80,7 +80,7 @@ If your Collective runs out of money and can’t (or doesn’t want to) pay the 
 
 #### How can I learn more?
 
-Here’s [a detailed article](https://lwn.net/Articles/673677/) based on one of Pam’s presentations about open source trademarks. Another good resource is [FOSSmarks](https://fossmarks.org/). Please get in touch with us if you have any questions.
+Here’s [a detailed article](https://lwn.net/Articles/673677/) based on one of Pam Chestek’s presentations about open source trademarks. Another good resource is [FOSSmarks](https://fossmarks.org/). Please get in touch with us if you have any questions.
 
 {% hint style="info" %}
 Ready to get started? Please fill out [this form.](https://forms.gle/UhGkAzAgxLRFvnMfA)
