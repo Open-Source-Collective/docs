@@ -23,8 +23,8 @@ Consider us your administrators and money management platform. We handle your do
 * Pay yourself, your team, contractors, vendors, and suppliers
 * And [much more...](https://docs.oscollective.org/welcome-and-introduction-to-osc/our-services-and-benefits)
 
-{% hint style="success" %}
-**Check out our** [**eligibility criteria**](https://docs.oscollective.org/interested-in-joining-osc/acceptance-criteria) **and** [**apply today**](https://opencollective.com/create/opensource)**.**
+{% hint style="info" %}
+## Check out our [eligibility criteria](https://docs.oscollective.org/interested-in-joining-osc/acceptance-criteria) and [apply today](https://opencollective.com/create/opensource).
 {% endhint %}
 
 ### For Sponsors
@@ -37,7 +37,7 @@ Support the open source projects you rely on. See how projects use their finance
 * Issue gift cards to your staff, which they can then use to contribute on behalf of your organization
 
 {% hint style="success" %}
-[**Talk to us**](mailto:hello@oscollective.org) **about registering with your procurement team.**
+[**Talk to us**](mailto:hello@oscollective.org) about registering with your procurement team.
 {% endhint %}
 
 ## Contact Us
