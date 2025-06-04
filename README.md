@@ -8,26 +8,23 @@ description: >-
 
 As a nonprofit fiscal host (a.k.a. fiscal sponsor or foundation), we provide the **financial and legal infrastructure** for **thousands of open source projects**. We’re the ‘API' between open source communities and the world of accounting and invoices.
 
-Discover some of the projects we host [here](https://discover.opencollective.com/opensource) or watch the video below to learn more about what we do.
+Discover some of the projects we host [here](https://discover.opencollective.com/opensource) or [visit our documentation](https://docs.oscollective.org/welcome-and-introduction-to-osc/our-services-and-benefits) to learn more about what we offer.
 
-{% embed url="https://www.youtube.com/watch?v=ubfYuAMm3_c" %}
-OSC is a nonprofit working for common interests of those who create and use open source software.
-{% endembed %}
 
 ### For Open Source Maintainers
 
-We handle your accounting, taxes, invoices, and administration. You decide where the money gets spent, and then we make it happen. Through us, you can:
+Consider us your administrators and money management platform. We handle your donations, expenses, accounting, taxes, invoices, contracts, employees, trademarks, domains, and other back-office support. You decide where the money gets spent, and we make it happen. Through us, you can:
 
 * Manage your open source project’s funds transparently
-* Receive financial contributions by credit card, PayPal, electronic bank transfer, or [crypto](https://docs.oscollective.org/how-it-works/supporting-projects#crypto) (beta)
-* Receive funds through our partners, including [GitHub Sponsors](campaigns-programs-and-partnerships/github-sponsors.md), [Drips](campaigns-programs-and-partnerships/drips.md), [Google Summer of Code](campaigns-programs-and-partnerships/google-summer-of-code.md), and [Google Season of Docs](campaigns-programs-and-partnerships/google-season-of-docs.md)
+* Receive financial contributions by credit card, PayPal, electronic bank transfer, or [crypto](https://docs.oscollective.org/for-donors-companies-organizations-and-individuals/supporting-projects)
 * Receive funds from corporate supporters, including Microsoft and Google. We’re registered as a supplier to many corporate sponsors.
-* Register trademarks, sign contracts and legal agreements, and apply for grants
+* Receive funds through external funding sources, including [GitHub Sponsors](https://docs.oscollective.org/campaigns-and-partnerships/github-sponsors), [Drips](https://docs.oscollective.org/campaigns-and-partnerships/drips), [Google Summer of Code](https://docs.oscollective.org/campaigns-and-partnerships/google-summer-of-code), and [Google Season of Docs](https://docs.oscollective.org/campaigns-and-partnerships/google-season-of-docs), Patreon, and others.
+* Register trademarks, sign contracts and legal agreements, and apply for grants.
 * Pay yourself, your team, contractors, vendors, and suppliers
-* And [much more...](what-we-offer/)
+* And [much more...](https://docs.oscollective.org/welcome-and-introduction-to-osc/our-services-and-benefits)
 
 {% hint style="success" %}
-**Check out our** [**eligibility criteria**](getting-started/acceptance-criteria/) **and** [**apply today**](https://opencollective.com/create/opensource)**.**
+**Check out our** [**eligibility criteria**](https://docs.oscollective.org/interested-in-joining-osc/acceptance-criteria) **and** [**apply today**](https://opencollective.com/create/opensource)**.**
 {% endhint %}
 
 ### For Sponsors
@@ -53,4 +50,4 @@ Didn’t find what you are looking for? :mag: Use the Search Bar in the upper ri
 
 :bird: Follow us on [Mastodon](https://mastodon.opencollective.com/@opensourcecollective), [BlueSky](https://bsky.app/profile/oscollective.org) & [Linkedin](https://www.linkedin.com/company/opensourcecollective)
 
-:round\_pushpin: Our [mailing address](about/official-info-and-docs.md#address-and-contact-info) &[ Other Important Docs](about/official-info-and-docs.md#banking-info)
+:round\_pushpin: Our [team and structure](https://docs.oscollective.org/about-osc/what-is-osc) &[ Other Important Docs](https://docs.oscollective.org/about-osc/official-info-and-docs)
