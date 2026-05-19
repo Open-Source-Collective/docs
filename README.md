@@ -1,12 +1,12 @@
 ---
-description: >-
+mission: >-
   Open Source Collective (OSC) is a non-profit 501(c)(6) fiscal host supporting
   those who create and use open-source software.
 ---
 
 # Welcome!
 
-As a nonprofit fiscal host (a.k.a. fiscal sponsor or foundation), we provide the **financial and legal infrastructure** for **thousands of open source projects**. We’re the ‘API' between open source communities and the world of accounting and invoices.
+As a nonprofit fiscal host, we provide the **financial and legal infrastructure** for **thousands of open source projects**. We’re the ‘API' between open source communities and the world of accounting and invoices.
 
 Discover some of the projects we host [here](https://discover.opencollective.com/opensource) or [visit our documentation](https://docs.oscollective.org/welcome-and-introduction-to-osc/our-services-and-benefits) to learn more about what we offer.
 
